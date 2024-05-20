@@ -10,12 +10,13 @@ Tags: [[1. Cosmos/Center of The Cosmos, Where Giants Slumber\|Center of The Cosm
 Woah, you have reached this place.
 
 Well I am humbled that you are reading this, really!
-This is my cosmic space, where I garden planets and share knowledge.
+This is my cosmic space, where I garden planets and share my knowledge... at least the little I have.
 
 I will write notes about concepts as I learn them, revisit them as I need to, write my thoughts (that can be shared) here, etc, etc.
 
 Stay a while and read. I hope this can be helpful to you.
 
+Keep in mind, these are my personal notes and are therefore very informal. Do not expect scholarly prose, or whatnot. It might occur, but most of the time it will not.
 ## Topics
 Work In Progress (Will turn tags that centralize notes into MOCS as I go)
 ## Mini Essays ~
