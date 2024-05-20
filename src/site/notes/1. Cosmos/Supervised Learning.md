@@ -83,4 +83,4 @@ So why have you never heard of the term? Because the above equation assumes that
 
 After all, while discriminative model lack that "bake-in knowledge" ability, they more than make up for it by their flexibility and simplicity. We can already by [[Universal Approximation Theorem\|Universal Approximation Theorem]] approximate any function we could ever want to use with a few [[Rectified Linear Units (RELUs)\|Rectified Linear Units (RELUs)]] anyways.
 ## References
-[[2. White Holes/References/Understanding deep Learning\|Understanding deep Learning]]
+[[2. White Holes/References/Understanding Deep Learning\|Understanding deep Learning]]
