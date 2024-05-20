@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/center-of-the-cosmos-where-giants-slumber/"}
+{"dg-publish":true,"permalink":"/1-cosmos/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"]}
 ---
 
 
