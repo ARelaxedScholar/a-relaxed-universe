@@ -19,7 +19,8 @@ Stay a while and read. I hope this can be helpful to you.
 ## Topics
 Work In Progress (Will turn tags that centralize notes into MOCS as I go)
 ## Mini Essays ~
-[[1. Cosmos/Mini-Essay ~ Why ChatGPT Tweaks So Much\|Mini-Essay ~ Why ChatGPT Tweaks So Much]]
+[[1. Cosmos/Why ChatGPT Tweaks So Much\|Why ChatGPT Tweaks So Much]]
+[[1. Cosmos/The Importance of Boxing Things\|The Importance of Boxing Things]]
 ## White Holes ~ 
 [[2. White Holes/References/Metalearning\|Metalearning]]
 [[2. White Holes/References/Practical Deep Learning for Coders\|Practical Deep Learning for Coders]]
