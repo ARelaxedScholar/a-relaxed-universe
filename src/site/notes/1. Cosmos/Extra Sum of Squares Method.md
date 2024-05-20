@@ -7,7 +7,7 @@
 Status: #idea
 Tags: [[1. Cosmos/Hypothesis Testing in Multiple Linear Regression\|Hypothesis Testing in Multiple Linear Regression]]
 # Extra Sum of Squares Method
-This is a similar idea to what we do when we are [[Test on Significance of Model (Crucial to know, but in general we know that our model is significant.)\|checking significance of model]] except that instead of checking the full set of regressors at once with [[1. Cosmos/Analysis of Variance (ANOVA)\|Analysis of Variance (ANOVA)]], we select a subset of coefficients that we suspect might be useless and test them.
+This is a similar idea to what we do when we are [[1. Cosmos/Test on Significance of Model (Crucial to know, but in general we know that our model is significant.)\|checking significance of model]] except that instead of checking the full set of regressors at once with [[1. Cosmos/Analysis of Variance (ANOVA)\|Analysis of Variance (ANOVA)]], we select a subset of coefficients that we suspect might be useless and test them.
 
 ## Intuition
 When I have the intuition that a subset of regressors are useless, I am essentially intuiting that the smaller model called [[Restricted Model\|Restricted Model]] does not have significantly less predictive power than the model with all the regressors called [[Full Model\|Full Model]].
