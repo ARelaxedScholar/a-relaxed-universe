@@ -24,7 +24,7 @@ Work In Progress (Will turn tags that centralize notes into MOCS as I go)
 [[1. Cosmos/The Importance of Boxing Things\|The Importance of Boxing Things]]
 ## White Holes ~ 
 [[2. White Holes/References/Metalearning\|Metalearning]]
-[[2. White Holes/References/NPTEL ~  Electrical - Probability Foundation for Electrical Engineers\|NPTEL ~  Electrical - Probability Foundation for Electrical Engineers]]
+[[2. White Holes/References/NPTEL ~ Probability Foundation for Electrical Engineers\|NPTEL ~ Probability Foundation for Electrical Engineers]]
 [[2. White Holes/References/Practical Deep Learning for Coders\|Practical Deep Learning for Coders]]
 [[2. White Holes/References/StatQuest ~ Machine Learning\|StatQuest ~ Machine Learning]]
 [[2. White Holes/References/Understanding Deep Learning\|Understanding Deep Learning]]
