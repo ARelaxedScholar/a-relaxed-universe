@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/expected-value/"}
 ---
 
-
 202405031126
 Status: #idea
 Tags: [[Statistics\|Statistics]], [[Probability\|Probability]]
