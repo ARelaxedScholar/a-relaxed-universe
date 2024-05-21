@@ -2,10 +2,9 @@
 {"dg-publish":true,"permalink":"/1-cosmos/hypothesis-test/"}
 ---
 
-
 202405181216
 Status: #idea
-Tags: 
+Tags: [[Statistics\|Statistics]]
 # Hypothesis Test
 
 It's a really important concept in statistics that is always based around two hypotheses called the null hypothesis ($H_0$) and the alternative hypothesis denoted $H_1$.
