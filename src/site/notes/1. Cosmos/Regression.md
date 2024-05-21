@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/regression/"}
 ---
 
-
 202404291927
 Status: #Galaxy  
 Tags: [[Statistics\|Statistics]], [[Machine Learning\|Machine Learning]]
@@ -17,3 +16,4 @@ For that reason, regression is crucial because it is the mathematical science th
 
 
 ## References
+[[Regression Analysis\|Regression Analysis]]
