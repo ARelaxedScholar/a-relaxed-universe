@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/multiple-linear-regression/"}
 ---
 
-
 202405181928
 Status: #idea
 Tags: [[Regression Analysis\|Regression Analysis]]
