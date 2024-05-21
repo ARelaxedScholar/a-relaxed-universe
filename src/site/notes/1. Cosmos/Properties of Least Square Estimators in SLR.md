@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/properties-of-least-square-estimators-in-slr/"}
 ---
 
-
 202405161153
 Status: #idea
 Tags: [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]]
