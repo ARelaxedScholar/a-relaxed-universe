@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/goodness-of-fit/"}
 ---
 
-
 202405181424
 Status: #idea
 Tags: 
