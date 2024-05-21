@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/probability-spaces/"}
 ---
 
-dg-publish: true
 202405201152
 Status: #idea
 Tags: [[Probability\|Probability]]
