@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/supervised-learning/"}
 ---
 
-
 202405170137
 Status: #idea
 Tags: [[Machine Learning\|Machine Learning]]
