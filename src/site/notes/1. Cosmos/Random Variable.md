@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/random-variable/"}
 ---
 
-
 202405171700
 Status: #idea
 Tags: [[Probability\|Probability]][[Statistics\|Statistics]]
