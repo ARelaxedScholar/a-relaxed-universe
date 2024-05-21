@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/probability-measure/"}
 ---
 
-dg-publish: true
 202405201744
 Status: #idea
 Tags: [[Probability\|Probability]]
