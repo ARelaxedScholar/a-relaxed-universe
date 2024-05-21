@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/simple-linear-regression/"}
 ---
 
-
-### Simple Linear Regression
-
 202405031405
 Status: #idea
 Tags: [[1. Cosmos/Regression\|Regression]]
