@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/universal-language-model-fine-tuning-ulm-fit/"}
 ---
 
-
 202405032345
 Status: #idea
 Tags: [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]]
