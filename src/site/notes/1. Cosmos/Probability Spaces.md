@@ -9,22 +9,22 @@ Tags: [[Probability\|Probability]]
 # Probability Spaces
 
 ## Before we Start (Our Lego Pieces)
-These two things are the most fundamental building blocks of [[Probability\|Probability]] and are objects that we take as axiomatic. They are what define other elements and they are exactly what sound like.
+These two things are the most fundamental building blocks of [[Probability\|Probability]] and are objects that we take as axiomatic. They are what define other elements and they are exactly what they sound like.
 
-What is a [[Random Experiment\|Random Experiment]]: It is an experiment (defined by the problem at hand) that can terminate in one of many outcomes, where the exact outcome is uncertain (hence random.) It is an idiomatic term that represents basically all problems in probability.
+[[Random Experiment\|Random Experiment]]: It is an experiment (defined by the problem at hand) that can terminate in one of many outcomes, where the exact outcome is uncertain (hence random.) It is an idiomatic term that represents basically all problems in probability.
 
-What is an [[Outcome\|Outcome]]: It is typically denoted $\omega$ and it is an element of the [[Sample Space\|Sample Space]]  of a given [[Random Experiment\|Random Experiment]] ($\omega \in \varOmega$.) It is one of the possible ways in which the random experiment can conclude.
+[[Outcome\|Outcome]]: It is typically denoted $\omega$ and it is an element of the [[Sample Space\|Sample Space]]  of a given [[Random Experiment\|Random Experiment]] ($\omega \in \varOmega$.) It is one of the possible ways in which the random experiment can conclude.
 
 ## What is the Sample Space
 [[Sample Space\|A sample space]], typically denoted $\varOmega$, represents the set of all possible outcomes of a random experiment. 
 
-For example, if I toss a coin once, **a possible and natural sample space** would be $\varOmega = \{H, T\}$, but observe that the experiment does not **force** the sample space. 
+For example, if I toss a coin once, **a possible and natural sample space** would be $\varOmega = \{H, T\}$, but observe that the experiment does not **force** the sample space. As in multiple totally valid sample spaces exist for a given random experiment, and me the--data scientist--is the one that chooses what my sample space is.
 
-If instead, I am interested in how many times the coin tumbles in the air, even though the random experiment is the same the sample space would now be $\varOmega = \{1,2,3,\dots\} = \mathbb N$.
+If instead, I am interested in how many times the coin tumbles in the air, even though the random experiment is the same (tossing a coin once), the sample space would now be $\varOmega = \{1,2,3,\dots\} = \mathbb N$.
 
-Therefore, the sample space is defined both by the [[Random Experiment\|random experiment]] and the thing of interest. You see that this means that we decide what the [[Sample Space\|Sample Space]] is by baking it in the target of interest.
+Therefore, the sample space is defined both by the [[Random Experiment\|random experiment]] and the thing of interest.
 
-The random part comes from the fact that the outcomes have an associated [[Probability\|probability]] and that we cannot control which $\omega-$labelled marble we draw from our big bag called $\varOmega$.
+The random of *random experiment* comes from the fact that the outcomes have an associated [[Probability\|probability]] and that we cannot control which $\omega-$labelled marble we draw from our big bag called $\varOmega$.
 
 [[Finite Sample Spaces\|Finite Sample Spaces]]
 [[Infinite Sample Spaces\|Infinite Sample Spaces]]
@@ -51,24 +51,23 @@ These altogether give us what's referred to as an [[Algebra\|Algebra]].
 
 ## What is an Algebra?
 A collection of subsets $\varUpsilon$ of a sample space $\varOmega$ such that:
-- $\phi$ is in the set (the complement of $\varOmega$)
+- $\varnothing$ is in the set (since it's the complement of $\varOmega$)
 - If $A$ is in the set $\varUpsilon$, then $\omega^c$ is in the set as well
 - If $A$ and $B$ are in the set $\varUpsilon$, so is $A \cup B$.
 
 If all three of these conditions holds, we have an [[Algebra\|algebra]].
 Note that here the elements are sets themselves.
-
 ### Consequences of this definition
 If $A_1, A_2, A_3, \dots, A_n$ are in $\varUpsilon$ then the following is true:
 $$
-\bigcup_{i=1}^n A_i \in \varUpsilon \text{ and } \bigcap_{i=1}^n A_i
+\bigcup_{i=1}^n A_i  \text{ and } \bigcap_{i=1}^n A_i \in \varUpsilon
 $$
-Therefore under **finite** unions and intersections, the following is true.
+Therefore under **finite** unions and intersections, the above is true.
 We cannot make such guarantees at infinity, because infinity is weird.
 
 *Try to prove it! hint: prove the first one, and then use a well known theorem to derive the second. (You'll need induction)*
 #### Problems in Paradise
-An algebra is not quite enough structure for us to study probability, more specifically the limitation of being closed (100%) under **finite** unions is just a little short of what we need.
+An algebra is not quite enough structure for us to study probability, more specifically the limitation of being closed under **finite** unions is just a little short of what we need.
 
 Why? Because under those conditions there is no way to define events that are the union (or intersection) of infinitely many elements in our sample space!
 
@@ -82,11 +81,11 @@ $\varOmega$ is therefore $\{P, BP, BBP, BBBP, \dots\}$.
 Now let's say I am interested in the event that I encounter the first $P$ on a *odd floor*.
 Then this subset of $\varOmega$ would be $\{P, BBP, BBBBP, \dots\}$.
 
-Now observe that under the kind of algebra we have now, there is no construction that will yield for us this subset since if we partition the sample space so that each outcome is its own event, this subset would represent
+Now observe that under the kind of algebra we have now, there is no construction that will yield for us this subset since if we partition the sample space so that each outcome is its own event, the subset of interested would  be represented by:
 $$
 \bigcap_{i=1,3,...}^\infty A_i
 $$
-The issue is that we obtain an infinite intersection. Which under our current rules no matter the algebra we make, no algebra can guarantee that this event will be in it (even if all the individual events are.) This is a huge problem since everything else, be it [[Probability Measure\|probability measure]], the definition of [[Probability\|probability]] itself and whatnot will be based on the assumption that our workbench contains all there is to consider.
+The issue is that this is an infinite intersection. Which under our current rules no matter the algebra we make, no algebra can guarantee that this event will be in it (even if all the individual events are.) This is a huge problem since everything else, be it [[1. Cosmos/Probability Measure\|probability measure]], the definition of [[Probability\|probability]] itself and whatnot will be based on the assumption that our workbench contains all there is to consider.
 
 In fact any event that would be represented as some elementary operation on an infinite number of sets would have the same problem. Since we have no guarantee it would be in any algebra, it could happen to be (after all $\varOmega$ is) but we cannot be certain ever.
 
@@ -108,9 +107,13 @@ Also $\sigma-$algebra **IS** an algebra, after all the condition is stronger. Yo
 Subsets which belong to a $\sigma-$algebra, here denoted $\varXi$ are called $\varXi-$measurable sets.  
 
 ### Countable vs Uncountable
-If our sample space $\varOmega$ is countable (finite or infinite), it is possible to define a $\sigma-$algebra which simply consists of **ALL** possible subsets of $\varOmega$, and therefore we can assign a probability to each outcome in the sample space.
+#### Countable Sample Space
+If our sample space $\varOmega$ is countable (finite or infinite), it is possible to define a $\sigma-$algebra which simply consists of **ALL** possible subsets of $\varOmega$ (denoted $2^\varOmega$), and therefore we can assign a probability to each outcome in the sample space. In such cases we are operating in what's called a [[1. Cosmos/Discrete Probability Spaces\|discrete probability space]].
 
-If the sample space is uncountably infinite, say the space between $0$ and $1$ on a number line, then it becomes impossible to do so and $\sigma-$algebras really come into their own.
+This is important, because in such spaces even though the $\sigma-$algebra might be uncountably infinite (see [[Diagonalization Argument\|Diagonalization Argument]]), it is straightforward to define a probability function such that $\sum_{x\in\varOmega} p_x = 1$ and then assign to each event the probability of the sum of its elements. This is what we call a [[Discrete Probability Measure\|Discrete Probability Measure]]
+
+### Uncountable Sample Space
+If the sample space is uncountably infinite, no such trick exist. That's when $\sigma-$algebras really come into their own and [[Borel Sets\|Borel Sets]] really come into their own.
 
 ## What is A Measurable Space?
 A sample space equipped some $\sigma-$algebra $\varXi$  is called a [[Measurable Space\|measurable space]].
@@ -123,7 +126,7 @@ Probability is really just a special kind of [[Measure Theory\|Measure Theory]].
 
 One must understand what is a [[Measure\|measure]].
 A measure is a **function** say $\psi$ from the $\sigma-$algebra that we elected to the interval $[0, \infty]$ (this is not a typo, we can actually send values to infinity) such that:
-1. $\psi(\phi) = 0$
+1. $\psi(\varnothing) = 0$
 2.  If $A_1, A_2, \dots$ is a countable collection of **disjoint** $\varXi-$measurable sets, then:
    $$
    \psi(\bigcup_{i=1}^\infty) = \sum_{i=1}^{\infty}\psi(A_i)
@@ -141,13 +144,13 @@ $$
 We require that $\psi(\varOmega)$ is well defined:
 - if $\psi(\varOmega) < \infty$ then $\psi$ is a finite measure.
 - if $\psi(\varOmega) = \infty$, then $\psi$ is an infinite measure
-- if $\psi(\varOmega) = 1$, then $\psi$ is a **[[Probability Measure\|Probability Measure]]** (yessir!)
+- if $\psi(\varOmega) = 1$, then $\psi$ is a **[[1. Cosmos/Probability Measure\|Probability Measure]]** (yessir!)
 
 In the last case, we denote $\psi$ with a capital $\mathbb P$. 
 
 So we can denote it ($\varOmega, \varXi, \mathbb P$) or say that $\mathbb P$ is a probability measure on the [[Measurable Space\|measurable space]] ($\varOmega, \varXi$)!
 ### So the measure axioms applied to Probabilities
-1. $\mathbb P(\phi) = 0$
+1. $\mathbb P(\varnothing) = 0$
 2. $\mathbb P(\varOmega) = 1$
 3. If $A_1, A_2, \dots$ are disjoint $\varXi-$measurable sets, then
    $\mathbb P(\bigcup_{i=1}^{\infty} A_i) = \sum_{i=1}^{\infty} \mathbb P(A_i) \le 1$
@@ -158,7 +161,7 @@ From now on, I'll denote the probability measure as $P$. From this, we can now d
 
 This now answers why we specified "subsets under consideration" if a subset is not in our $\varXi-$algebra, then the measure defined on our [[Measurable Space\|measurable space]] does not consider it. Therefore it does not have a probability.
 ### The Magic
-There is absolutely no prescriptions (or right way) as to how to define a [[Probability Measure\|Probability Measure]] or the $\sigma-$algebra for that matter.
+There is absolutely no prescriptions (or right way) as to how to define a [[1. Cosmos/Probability Measure\|Probability Measure]] or the $\sigma-$algebra for that matter.
 
 Any arbitrary such space you can cook up, as long as you ensure it has the aforementioned properties is a totally valid probability measure. This give us a really expansible and rich soil to construct our [[Probability Theory\|Probability Theory]].
 
