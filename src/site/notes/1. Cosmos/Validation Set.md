@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/validation-set/"}
 ---
 
-
 202405021003
 Status: #idea
 Tags: [[Machine Learning\|Machine Learning]]
