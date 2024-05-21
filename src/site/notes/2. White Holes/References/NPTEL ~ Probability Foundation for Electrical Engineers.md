@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/2-white-holes/references/nptel-probability-foundation-for-electrical-engineers/"}
 ---
 
-dg-publish: true
 202405201148
 Status: #idea
 Tags: [[Probability\|Probability]]
