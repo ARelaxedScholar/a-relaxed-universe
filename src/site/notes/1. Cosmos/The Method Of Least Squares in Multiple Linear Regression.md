@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/the-method-of-least-squares-in-multiple-linear-regression/"}
 ---
 
-
 202405181945
 Status: #idea
 Tags: [[1. Cosmos/Multiple Linear Regression\|Multiple Linear Regression]]
