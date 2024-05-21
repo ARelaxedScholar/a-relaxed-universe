@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/loss/"}
 ---
 
-
 202405031413
 Status: #idea
 Tags: [[Statistics\|Statistics]]
