@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/hypothesis-testing-in-multiple-linear-regression/"}
 ---
 
-
 202405182027
 Status: #idea
 Tags: [[1. Cosmos/Multiple Linear Regression\|Multiple Linear Regression]],  [[1. Cosmos/Hypothesis Test\|Hypothesis Test]]
