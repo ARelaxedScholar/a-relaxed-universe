@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/self-supervised-learning/"}
 ---
 
-
 202405032341
 Status: #idea
 Tags: [[Deep Learning\|Deep Learning]]
