@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/feature-engineering/"}
 ---
 
-
 202404292158
 Status: #idea
 Tags: [[Machine Learning\|Machine Learning]], [[Deep Learning\|Deep Learning]]
