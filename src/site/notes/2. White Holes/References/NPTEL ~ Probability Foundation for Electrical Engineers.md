@@ -28,7 +28,7 @@ This is more of the same foundational work. Here among other things he introduce
 ## Lecture 6
 In this part we define probability measure. Now that we've done all the heavy lifting in the prior part defining probability spaces, and touching on [[Measure Theory\|Measure Theory]], we can now reap the rewards. In this lecture we focus on what exactly the above definitions mean for our understanding of probability, and derive well-known results from them. We are now computing probabilities.
 [[1. Cosmos/Probability Measure\|Probability Measure]]
-# Lecture 7
+## Lecture 7
 [[1. Cosmos/Discrete Probability Spaces\|Discrete Probability Spaces]]
 
 He also goes during the latter part of the video on uncountable sample spaces and how we can attempt to define probability measures on them. He observes first that. That there is no way in hell we can assign a probability to all events over that sample space. After all, if the space is uncountable, then by theorem it's power set will have a bigger cardinality. 
