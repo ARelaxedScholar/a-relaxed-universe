@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/model-adequacy-checking/"}
 ---
 
-
 202405171706
 Status: #idea
 Tags: [[Regression Analysis\|Regression Analysis]]
