@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/why-chat-gpt-tweaks-so-much/"}
 ---
 
- dg-publish: true
 202405200148
 Status: #idea
 Tags: [[Mini-Essay\|Mini-Essay]], [[Deep Learning\|Deep Learning]]
