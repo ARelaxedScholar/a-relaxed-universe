@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/normal-equations/"}
 ---
 
-
 202405171731
 Status: #idea
 Tags: [[Statistics\|Statistics]], [[Linear Algebra\|Linear Algebra]]
