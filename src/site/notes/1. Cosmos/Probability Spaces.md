@@ -112,7 +112,7 @@ If our sample space $\varOmega$ is countable (finite or infinite), it is possibl
 This is important, because in such spaces even though the $\sigma-$algebra might be uncountably infinite (see [[Diagonalization Argument\|Diagonalization Argument]]), it is straightforward to define a probability function such that $\sum_{x\in\varOmega} p_x = 1$ and then assign to each event the probability of the sum of its elements. This is what we call a [[Discrete Probability Measure\|Discrete Probability Measure]]
 
 ### Uncountable Sample Space
-If the sample space is uncountably infinite, no such trick exist. That's when $\sigma-$algebras really come into their own and [[Borel Sets\|Borel Sets]] really come into their own.
+If the sample space is uncountably infinite, no such trick exist. That's when $\sigma-$algebras really come into their own and [[1. Cosmos/Borel Sets\|Borel Sets]] really come into their own.
 
 ## What is A Measurable Space?
 A sample space equipped some $\sigma-$algebra $\varXi$  is called a [[Measurable Space\|measurable space]].
