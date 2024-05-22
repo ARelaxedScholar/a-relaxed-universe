@@ -22,7 +22,7 @@ $$
 L=\text{some function that quantifies how much the model fucked up}
 $$
 
-$y$ here is a vector of observations, $f$ is whatever class of mathematical functions we think is a appropriate to fit in our model. In the case of [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]] and [[1. Cosmos/Multiple Linear Regression\|Multiple Linear Regression]] they are linear functions, but in the case of [[Deep Learning\|Deep Learning]] it will invariably be some kind of [[Neural Networks\|neural network architecture]]. Finally we have $\phi$ which represents all our parameters.
+$y$ here is a vector of observations, $f$ is whatever class of mathematical functions we think is a appropriate to fit in our model. In the case of [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]] and [[1. Cosmos/Multiple Linear Regression\|Multiple Linear Regression]] they are linear functions, but in the case of [[Deep Learning\|Deep Learning]] it will invariably be some kind of [[1. Cosmos/Neural Networks\|neural network architecture]]. Finally we have $\phi$ which represents all our parameters.
 
 When someone says with the chest puffed that they are "training" a model or that the model "learned" from the data, it is nothing more than fancy speak for "we mathe-magically tweaked the vector of parameters $\phi$ until it gave us results that made sense."
 
