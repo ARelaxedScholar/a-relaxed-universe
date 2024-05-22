@@ -34,7 +34,7 @@ Fundamentally because they are dead simple and can be used like in pretty much a
 
 No other method boast the same level of flexibility, generalizability, effectiveness and power. There is a very real issue with the fact that as things stand a lot of [[Machine Learning\|Machine Learning]] models, especially on the [[Deep Learning\|Deep Learning]] side of things are inscrutable black boxes. Still their other advantages make that significant downside palatable. This is the difference between [[1. Cosmos/Inference\|Inference]] and [[Prediction\|Prediction]]. If what we care about is how specific elements relate to each other, neural networks are terrible; but for anything else they are a game-changer and are guaranteed to work.
 
-*Caution, do not let your hype over [[Artifical Intelligence\|Artifical Intelligence]] and neural networks take you over. While machine learning and neural networks are extremely powerful and high quality mithril hammers, not all the problems in your life require hammering nails into a drago... Pause, I swear as i wrote that I wasn't thinking of anything...*
+*Caution, do not let your hype over [[Artifical Intelligence\|Artifical Intelligence]] and neural networks take you over. While machine learning and neural networks are extremely powerful and high quality mithril hammers, not all the problems in your life require hammering nails into a drago... Pause, I swear as I wrote that I wasn't thinking of anything...*
 
 (I am thinking of an innuendo game, I am not **that** weird.)
 
