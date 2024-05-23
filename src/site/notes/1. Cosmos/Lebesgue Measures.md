@@ -6,10 +6,22 @@
 Status: #idea
 Tags: [[Measure Theory\|Measure Theory]]
 # Lebesgue Measures
-A Lebesgue measure is a type of [[Measure\|measure]] defined on a continuous sample space $\varOmega$ and more specifically on the Borel set $\mathscr B$ associated with that sample space, effectively giving us a concept of "length", "area" or "volume" thus a "measure" over that [[Topological Space\|topological space]]. 
+A Lebesgue measure is a type of [[1. Cosmos/Measure\|measure]] defined on a continuous sample space $\varOmega$ and more specifically on the Borel set $\mathscr B$ associated with that sample space, effectively giving us a concept of "length", "area" or "volume" thus a "measure" over that [[Topological Space\|topological space]]. 
 
 *Note the first usage of measure is the idea of a function from $\sigma-$algebra to $[0,\infty]$ the second use of measure (between quotation marks) represents the idea of intuitive notion measure used in the real world.*
 
+## Properties of Lebesgue Measures
+The motivation is that we wanted to define measures on the reals $\mathbb R$ and whatnot in a rigorous way. For those measures, for those "standardization of volume" to make sense, we require these two properties:
+- $\mu([a,b])=b-a, b>a$
+- $\mu(x+A)=\mu(A)$, for all $A \in 2^\mathbb{R}$ and $x \in \mathbb R$
+
+The first property tells us that the Lebesgue measure gives us the length of an interval for any arbitrary interval $[a,b]$.
+The second property tells us that $\mu([10,12])=\mu(0,2)=\mu(2,4)$ because while the numbers are different they all have the same length. The length of the measure is invariant no matter where it is taken.
+
+The catch is that [[We Cannot Define a Lebesgue Measure on Power Set of a Uncountably Infinite Sample Space\|We Cannot Define a Lebesgue Measure on Power Set of a Uncountably Infinite Sample Space]]. Which stumped measure theorists for a while, this in fact lead to the invention of a whole new measure theory centralized around the idea of [[1. Cosmos/Borel-Sigma Algebras\|Borel-Sigma Algebras]].
+
+
+## Why Can't Lebesgue Measures be defined on the whole power set $2^\varOmega$?
 ## Usage in [[Probability Theory\|Probability Theory]]
 By using the standard and more easily manipulable concept of [[Algebra\|algebras]] we can surgically select elements of $2^\varOmega$ that are of interest to us and assign them probabilities. These probabilities since assigned on algebras that are not $\sigma$ can hardly be called [[1. Cosmos/Probability Measure\|probability measures]] and are typically denoted $P_0$. For the uniform case for example our pseudo-measure $P_0$ is for an arbitrary algebra $\varXi$ is:
 $$
@@ -33,7 +45,7 @@ Note that the Lebesgue measures are by no means restricted to probability spaces
 
 Note, that based on the above we can show that for any singleton set element of our $\sigma-$algebra the probability will be $0$.
 
-## Weird Stuff and Considerations
+### Weird Stuff and Considerations
 What is the probability of $P(\mathbb Q \cap \varOmega)$.
 This is really weird, but while there is an infinity of rational numbers $\mathbb Q$ in $\varOmega$, we know that all singleton element has probability $0$. Since all these singleton elements by definition contain only one element, and they are all distinct, it follows that all of those probability measures are individually equal to $0$. Then by countable additivity we have $0$.
 
