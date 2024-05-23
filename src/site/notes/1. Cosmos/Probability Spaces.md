@@ -123,7 +123,7 @@ $$
 
 Probability is really just a special kind of [[Measure Theory\|Measure Theory]].
 
-One must understand what is a [[Measure\|measure]].
+One must understand what is a [[1. Cosmos/Measure\|measure]].
 A measure is a **function** say $\psi$ from the $\sigma-$algebra that we elected to the interval $[0, \infty]$ (this is not a typo, we can actually send values to infinity) such that:
 1. $\psi(\varnothing) = 0$
 2.  If $A_1, A_2, \dots$ is a countable collection of **disjoint** $\varXi-$measurable sets, then:
@@ -136,7 +136,7 @@ All we are saying is that some empty set should be measured as $0$, and that if 
 This is eerily similar to how we define the probability of disjoint events.
 
 ## The $\sigma-$algebra of Events
-A [[Measure Space\|Measure Space]] is the combination of a measurable space denoted in these notes $\varXi$ and some [[Measure\|measure]] denoted $\psi$. It is written as:
+A [[Measure Space\|Measure Space]] is the combination of a measurable space denoted in these notes $\varXi$ and some [[1. Cosmos/Measure\|measure]] denoted $\psi$. It is written as:
 $$
 (\varOmega, \varXi, \psi)
 $$
