@@ -37,5 +37,5 @@ Work In Progress (Will turn tags that centralize notes into MOCS as I go)
 [[2. White Holes/References/StatQuest ~ Machine Learning\|StatQuest ~ Machine Learning]]
 [[2. White Holes/References/StatQuest ~ Neural Networks ! Deep Learning\|StatQuest ~ Neural Networks ! Deep Learning]]
 [[2. White Holes/References/Understanding Deep Learning\|Understanding Deep Learning]]
-[[1. Cosmos/Mike Winger ~ Bible - Romans\|Mike Winger ~ Bible - Romans]]
+[[2. White Holes/References/Mike Winger ~ Bible - Romans\|Mike Winger ~ Bible - Romans]]
 ## References
