@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/1-cosmos/data-augmentation/"}
 ---
 
-
 202404291727
 Status: #idea
 Tags: [[Deep Learning\|Deep Learning]]
