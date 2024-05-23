@@ -4,9 +4,9 @@
 
 202405230021
 Status: #idea
-Tags: [[Sanctification\|Sanctification]], [[1. Cosmos/Mike Winger ~ Bible - Romans\|Mike Winger ~ Bible - Romans]]
+Tags: [[Sanctification\|Sanctification]], [[2. White Holes/References/Mike Winger ~ Bible - Romans\|Mike Winger ~ Bible - Romans]]
 # The Calling To Sanctification
-For context, I am writing this as a reaction to Mike Winger's comments on sanctification in his video [[1. Cosmos/Mike Winger ~ Bible - Romans#Why Christian Extremism Is Good?\|"Why Christian Extremism is Good"]].
+For context, I am writing this as a reaction to Mike Winger's comments on sanctification in his video [[2. White Holes/References/Mike Winger ~ Bible - Romans#Why Christian Extremism Is Good?\|"Why Christian Extremism is Good"]].
 
 First, Mike Winger makes a difference between the concept of calling as what you are to **BE** versus what you are to **DO**.
 
