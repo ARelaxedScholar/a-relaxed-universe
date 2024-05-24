@@ -4,10 +4,10 @@
 
 202405211636
 Status: #idea
-Tags: [[Probability Theory\|Probability Theory]]
+Tags: [[1. Cosmos/Probability Theory\|Probability Theory]]
 # Caratheodarry's Extension Theorem
 Informally, it's a theorem that states that:
-Say we have an [[Algebra\|algebra]] $\varXi$ defined on a sample space $\varOmega$ with some pseudo-measure $P_0$ (really just a function) that maps $\varXi$ to the interval $[0,1]$ in such a way that:
+Say we have an [[1. Cosmos/Algebra\|algebra]] $\varXi$ defined on a sample space $\varOmega$ with some pseudo-measure $P_0$ (really just a function) that maps $\varXi$ to the interval $[0,1]$ in such a way that:
 - $P_0(\varOmega) = 1$
 - $P_0$ is countably additive (if it so happen that the countable union of sets in $\varXi$ is in $\varXi$)
 
