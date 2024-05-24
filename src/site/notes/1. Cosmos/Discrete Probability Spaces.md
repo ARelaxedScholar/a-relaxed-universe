@@ -7,7 +7,7 @@ dg-publish: true
 Status: #idea
 Tags: [[Probability\|Probability]], [[2. White Holes/References/NPTEL ~ Probability Foundation for Electrical Engineers\|NPTEL ~ Probability Foundation for Electrical Engineers]]
 # Discrete Probability Spaces
-When we are dealing with a countable [[Sample Space\|Sample Space]] $\varOmega$, then we will be operating in the realm of discrete probability spaces. $\varOmega$ could be infinite or finite.
+When we are dealing with a countable [[1. Cosmos/Sample Space\|Sample Space]] $\varOmega$, then we will be operating in the realm of discrete probability spaces. $\varOmega$ could be infinite or finite.
 
 They are nice because they are simple and intuitive to work with.
 
@@ -37,7 +37,7 @@ A [[Probability Mass Function\|Probability Mass Function]] based on the theory c
 This is the name we give to a [[Probability Density Functions\|Probability Density Functions]] when operating in a discrete probability space.
 
 ### Important Consideration
-While at times due to how we write things, we can mistakenly think that we are assigning probabilities to elements of the [[Sample Space\|Sample Space]]. This is categorically false. While an harmless error most of the time (and in fact the way everyone that doesn't learn the foundations of probability learns it,) probability are assigned to elements of the $\sigma-$algebra, not to element of $\varOmega$. This might sound like a nitpick, but its not.
+While at times due to how we write things, we can mistakenly think that we are assigning probabilities to elements of the [[1. Cosmos/Sample Space\|Sample Space]]. This is categorically false. While an harmless error most of the time (and in fact the way everyone that doesn't learn the foundations of probability learns it,) probability are assigned to elements of the $\sigma-$algebra, not to element of $\varOmega$. This might sound like a nitpick, but its not.
 
 While not too big of an issue in [[1. Cosmos/Discrete Probability Spaces\|Discrete Probability Spaces]], it is crucial to understand that when we go to [[1. Cosmos/Continuous Probability Spaces\|Continuous Probability Spaces]], because in the latter it is generally not possible to assign a probability to all subsets of $\varOmega$ and therefore all we can do is treat with the $\sigma-$algebra and its [[Measurable Sets\|measurable sets]].
 
