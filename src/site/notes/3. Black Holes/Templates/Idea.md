@@ -5,6 +5,7 @@
 {{date:YYYYMMDD}}{{time:HHmm}}
 Status: #idea
 Tags: 
+State: #nascient
 # {{title}}
 
 
