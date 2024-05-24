@@ -30,7 +30,7 @@ $$
 
 You can also prove easily that $A \subseteq B$, then $P(A) \le P(B)$, we leave that as an exercise to the reader. Lel.
 
-Using [[Measure Theory\|Measure Theory]] as the foundation of [[Probability Theory\|Probability Theory]] makes all the other derivations similarly beautiful.
+Using [[Measure Theory\|Measure Theory]] as the foundation of [[1. Cosmos/Probability Theory\|Probability Theory]] makes all the other derivations similarly beautiful.
 ### Formula for unions : The Inclusion-Exclusion Principle
 Let's first start by proving the following $P(A \cup B) = P(A) + P(B) - P(A \cap B)$,
 This is my derivation of it.
@@ -61,7 +61,7 @@ If $A_1, A_2, \dots \in \sigma\text{-algebra } \varXi$ then,
 $$
 P(\bigcup_{i=1}^\infty A_i) = \lim_{m \rightarrow \infty} P[\bigcup_{i=1}^m A_i)]
 $$
-This looks rather obvious (I mean it looks really similar to how we definite infinite summations,) but there's actually more to this statement than meets the eye. This is a really important theorem that is used all the time in [[Probability Theory\|Probability Theory]]. Also, among other things we are **NOT** taking the limit inside the brackets, an actual rigorous proof is required to show the equivalency.
+This looks rather obvious (I mean it looks really similar to how we definite infinite summations,) but there's actually more to this statement than meets the eye. This is a really important theorem that is used all the time in [[1. Cosmos/Probability Theory\|Probability Theory]]. Also, among other things we are **NOT** taking the limit inside the brackets, an actual rigorous proof is required to show the equivalency.
 
 Also $\bigcup$ shouldn't be seen as a sequential operator which operates $A_1$ and $A_2$, and then $A_1\cup A_2$ and $A_3$, etc. Instead it takes everything at once. While the following statement is true
 $$
