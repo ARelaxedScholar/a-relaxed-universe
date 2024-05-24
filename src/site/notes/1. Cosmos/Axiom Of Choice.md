@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/1-cosmos/axiom-of-choice/"}
+---
+
+202405240908
+Status: #idea
+Tags: [[Set Theory\|Set Theory]] 
+State: #nascient
+# Axiom Of Choice
+It states that:
+A Cartesian product of nonempty sets is nonempty.
+In other words, given a (possibly infinite) collection of nonempty sets, we can make a selection from each of the sets.
+
+It's a technique that is used [[Set Theory\|Set Theory]] to in a sense put the onus on the reader to prove something. It allows me to state that things with some properties exist without me having to prove that they do exist.
+
+## References
+[[1. Cosmos/Why Is Everything Not Lebesgue Measurable?\|Why Is Everything Not Lebesgue Measurable?]]
