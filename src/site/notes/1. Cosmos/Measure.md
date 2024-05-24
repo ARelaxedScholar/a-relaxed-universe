@@ -6,7 +6,7 @@
 Status: #idea
 Tags: [[Measure Theory\|Measure Theory]]
 # Measure
-A measure typically denoted $\mu$ is a special type of function that maps subsets of a [[Sigma-Algebra\|Sigma-Algebra]] to the interval $[0,\infty]$ (this is a shorthand for $[0,\infty) \cup \infty$). The idea is that we want to be able to generalize the concept of [[Volume\|Volume]] (where here volume applies to the arbitrary-dimensional concept of "size" instead of specifically $3D$ volumes).
+A measure typically denoted $\mu$ is a special type of function that maps subsets of a [[1. Cosmos/Sigma-Algebra\|Sigma-Algebra]] to the interval $[0,\infty]$ (this is a shorthand for $[0,\infty) \cup \infty$). The idea is that we want to be able to generalize the concept of [[Volume\|Volume]] (where here volume applies to the arbitrary-dimensional concept of "size" instead of specifically $3D$ volumes).
 
 This special type of function must hold the two following properties:
 - $\mu(\varnothing) = 0$, in other words the measure of the empty set is $0$.
@@ -14,7 +14,7 @@ This special type of function must hold the two following properties:
 
 For that reason, we will always have a positive "size", but could very well have an infinite size as well say the length of the entire real line $\mathbb R$.
 
-Measures have a direct application in [[Probability Theory\|Probability Theory]], where we restrict their upper bound to be $1$ instead of $\infty$. Such measures are called [[1. Cosmos/Probability Measure\|probability measures]].
+Measures have a direct application in [[1. Cosmos/Probability Theory\|Probability Theory]], where we restrict their upper bound to be $1$ instead of $\infty$. Such measures are called [[1. Cosmos/Probability Measure\|probability measures]].
 
 ## Cases
 ### Discrete Case
