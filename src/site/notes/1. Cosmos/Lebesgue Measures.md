@@ -22,8 +22,15 @@ The catch is that [[We Cannot Define a Lebesgue Measure on Power Set of a Uncoun
 
 
 ## Why Can't Lebesgue Measures be defined on the whole power set $2^\varOmega$?
-## Usage in [[Probability Theory\|Probability Theory]]
-By using the standard and more easily manipulable concept of [[Algebra\|algebras]] we can surgically select elements of $2^\varOmega$ that are of interest to us and assign them probabilities. These probabilities since assigned on algebras that are not $\sigma$ can hardly be called [[1. Cosmos/Probability Measure\|probability measures]] and are typically denoted $P_0$. For the uniform case for example our pseudo-measure $P_0$ is for an arbitrary algebra $\varXi$ is:
+Well it's something you have to prove. 
+The proof is shown here: [Not Everything Is Lebesgue Measurable](https://www.youtube.com/watch?v=Ur3ofJ61bpk&list=PLBh2i93oe2qvMVqAzsX1Kuv6-4fjazZ8j&index=5)
+
+My attempt at an explanation: [[1. Cosmos/Why Is Everything Not Lebesgue Measurable?\|Why Is Everything Not Lebesgue Measurable?]]
+
+The proof makes use of a few concepts explained here:
+[[1. Cosmos/Axiom Of Choice\|Axiom Of Choice]]
+## Usage in [[1. Cosmos/Probability Theory\|Probability Theory]]
+By using the standard and more easily manipulable concept of [[1. Cosmos/Algebra\|algebras]] we can surgically select elements of $2^\varOmega$ that are of interest to us and assign them probabilities. These probabilities since assigned on algebras that are not $\sigma$ can hardly be called [[1. Cosmos/Probability Measure\|probability measures]] and are typically denoted $P_0$. For the uniform case for example our pseudo-measure $P_0$ is for an arbitrary algebra $\varXi$ is:
 $$
 P_0(\varXi) = \sum_{i=1}^n(b_i-a_i)
 $$
@@ -32,7 +39,7 @@ $$
 P_0(\varnothing) = 0
 $$
 
-This is well and all, except that probabilities do not work well on [[Algebra\|general algebras]] more specifically, the concept of closure under countable unions is a crucial one to allow any meaningful analysis of probabilities.
+This is well and all, except that probabilities do not work well on [[1. Cosmos/Algebra\|general algebras]] more specifically, the concept of closure under countable unions is a crucial one to allow any meaningful analysis of probabilities.
 
 This is where we stand on the shoulders of giants and invoke the [[1. Cosmos/Caratheodarry's Extension Theorem\|Caratheodarry's Extension Theorem]] by which we know that if our pseudo-measure 
 - assigned a probability to $\varOmega$ of $1$
@@ -41,7 +48,7 @@ then there exists an [[1. Cosmos/Probability Measure\|actual measure]] that agre
 
 Yes, you've guessed it: that measure is called the [[1. Cosmos/Lebesgue Measures\|Lebesgue measure]].
 
-Note that the Lebesgue measures are by no means restricted to probability spaces and are a really important concept in [[Measure Theory\|Measure Theory]]. But for [[Probability Theory\|Probability Theory]] which is not much more than a special case of the latter, they play a pivotal role in allowing us to analyze [[1. Cosmos/Continuous Probability Spaces\|Continuous Probability Spaces]].
+Note that the Lebesgue measures are by no means restricted to probability spaces and are a really important concept in [[Measure Theory\|Measure Theory]]. But for [[1. Cosmos/Probability Theory\|Probability Theory]] which is not much more than a special case of the latter, they play a pivotal role in allowing us to analyze [[1. Cosmos/Continuous Probability Spaces\|Continuous Probability Spaces]].
 
 Note, that based on the above we can show that for any singleton set element of our $\sigma-$algebra the probability will be $0$.
 
