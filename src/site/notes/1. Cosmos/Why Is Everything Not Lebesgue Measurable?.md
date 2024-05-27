@@ -30,3 +30,4 @@ Then either we assign a measure to those tiny slivers that is $0$, in which case
 - [[Restrict yourself to smaller sets\|Restrict yourself to smaller sets]]
 In modern probability we pretty much invariably do the last one, through the use of [[1. Cosmos/Borel-Sigma Algebras\|Borel-Sigma Algebras]]. But other situations exist. There is an [[Axiom of Determinacy\|Axiom of Determinacy]] which states that if we are ready to reexamine our axioms, all sets are Lebesgue measurable.
 ## References
+[The Banach-Tarski Paradox and Why Not Everything Is Lebesgue](https://www.youtube.com/watch?v=172m7qVy_FQ&list=PLrb6X_RiBI94b6dzCx-QwM-r0aZpJyPxS)
