@@ -34,3 +34,4 @@ This is really the fundamentals of machine learning. This is the most straightfo
 [[1. Cosmos/Supervised Learning\|Supervised Learning]]
 
 ## References
+[[1. Cosmos/Understanding Deep Learning ~ Flashcards\|Understanding Deep Learning ~ Flashcards]]
