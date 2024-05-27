@@ -16,6 +16,8 @@ For that reason, we will always have a positive "size", but could very well have
 
 Measures have a direct application in [[1. Cosmos/Probability Theory\|Probability Theory]], where we restrict their upper bound to be $1$ instead of $\infty$. Such measures are called [[1. Cosmos/Probability Measure\|probability measures]].
 
+
+
 ## Cases
 ### Discrete Case
 In the discrete case, where we have a [[Topological Space\|topological space]] (or just some space that accepts the concept of open sets), since the sample space is countable--finite or otherwise. We are able to assign a measure to each element by simply assigning a measure to each singleton element of the power set of that space. This is one of the rare cases where we will be able to use measures on the entire space.
