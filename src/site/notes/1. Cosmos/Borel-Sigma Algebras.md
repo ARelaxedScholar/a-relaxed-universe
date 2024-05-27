@@ -5,7 +5,7 @@
  202405211429
 Status: #idea
 Tags: [[1. Cosmos/Continuous Probability Spaces\|Continuous Probability Spaces]], [[Probability\|Probability]]
-# Borel-Sigma Algebras
+# Borel-Sigma Algebras (or Borel-Sigma Fields)
 ## Preamble
 If we set a collection of subsets of $\varOmega$ (which does not have to be a $\sigma-$algebra) we know that [[There Always Exist A Smallest Sigma-Algebra That Contains Any Arbitrary Collection C\|There Always Exist A Smallest Sigma-Algebra That Contains Any Arbitrary Collection C]] since we can always find the set of all $\sigma-$algebras which contain our collection $C$ and then define that smallest $\sigma-$algebra as follows. Let us define $\digamma$ as the collection of all $\sigma-$algebras which contain $C$ (this collection is never empty since $2^\varOmega$ is one such $\sigma-$algebra) then:
 $$
