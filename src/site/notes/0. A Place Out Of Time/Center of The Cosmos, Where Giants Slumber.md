@@ -24,12 +24,13 @@ Stay a while and read. I hope this can be helpful to you.
 Keep in mind, these are my personal notes and are therefore very informal. Do not expect scholarly prose, or whatnot. It might occur, but most of the time it will not.
 ## Topics
 Work In Progress (Will turn tags that centralize notes into MOCS as I go)
-## Mini Essays ~ 
+## Mini Essays ~ [[1. Cosmos/Why ChatGPT Tweaks So Much\|Why ChatGPT Tweaks So Much]]
 Keep in mind that stuff linked here is not necessary complete. These are sparks of ideas that I will work on as I get the time to do so.
-[[1. Cosmos/Why ChatGPT Tweaks So Much\|Why ChatGPT Tweaks So Much]]
+
+[[Samson and Delilah ~ What The Heck?\|Samson and Delilah ~ What The Heck?]]
 [[1. Cosmos/The Importance of Boxing Things\|The Importance of Boxing Things]]
 [[1. Cosmos/The Calling To Sanctification\|The Calling To Sanctification]]
-
+[[1. Cosmos/Why ChatGPT Tweaks So Much\|Why ChatGPT Tweaks So Much]]
 
 ## White Holes ~ 
 ### University Courses
