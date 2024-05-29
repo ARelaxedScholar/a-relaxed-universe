@@ -34,7 +34,8 @@ Keep in mind that stuff linked here is not necessary complete. These are sparks 
 
 ## White Holes ~ 
 ### University Courses
-[Data Science Course Sequence ~ Anticipated Graduation : 2026-2027](https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/data-science/course-sequence)
+**Program**: [Data Science Course Sequence ~ Anticipated Graduation : 2026-2027](https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/data-science/course-sequence)
+
 Down here you'll find notes for the classes I took. Due to the way I like to knead the content of lectures into the greater "interstellar dough" of my notes *(should have done a web analogy but shh)*, the "Lesson Points" section of each lecture might not always be laser-focused on the content of the class. The point is more so to give a holistic picture of what I felt was important. I won't take notes that I won't reread, so stuff that I felt like I already knew well enough will not be explained more than needed. 
 
 I think it is important to say I see notes as a tool for learning rather than an end in itself. Indeed, it's only recently that I have started taking notes in any sort of consistent manner, until now coasting through school by purely listening. Even now listening constitutes the bulk of my learning and I use notes mostly as a way to keep track of what I learned, so that I could have notes to revisit if I ever needed to relearn a subject at some point.
