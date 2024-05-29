@@ -52,6 +52,9 @@ Really insightful class, and after having seen how some things like the formula 
 [[1. Cosmos/Probability Measure (Based on Expected Value)\|Probability Measure (Based on Expected Value)]]
 
 
+
+## Lecture 4
+
 ## References
 [[1. Cosmos/MAT3172 ~ Flashcards\|MAT3172 ~ Flashcards]]
 ### Prerequisites (I took):
