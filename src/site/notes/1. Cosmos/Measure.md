@@ -14,7 +14,7 @@ This special type of function must hold the two following properties:
 
 For that reason, we will always have a positive "size", but could very well have an infinite size as well say the length of the entire real line $\mathbb R$.
 
-Measures have a direct application in [[1. Cosmos/Probability Theory\|Probability Theory]], where we restrict their upper bound to be $1$ instead of $\infty$. Such measures are called [[1. Cosmos/Probability Measure\|probability measures]].
+Measures have a direct application in [[1. Cosmos/Probability Theory\|Probability Theory]], where we restrict their upper bound to be $1$ instead of $\infty$. Such measures are called [[1. Cosmos/Probability Measure (According to Kolmogorov)\|probability measures]].
 
 
 
