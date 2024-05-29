@@ -23,7 +23,7 @@ I skipped them. I am already familiar with cardinality and countability.
 [[Cardinality\|Cardinality]]
 [[Countability\|Countability]]
 ## Lecture 4 ~ Probability Spaces (1)
-We embark on the journey of defining probability spaces and the basics of probability theory as we know it. This is a crucial lecture since he sets up the building blocks of probability theory. He defines things such as [[Random Experiment\|random experiments]], [[Outcome\|outcomes]], [[1. Cosmos/Event\|events]] and try to give a coherent picture of whole.
+We embark on the journey of defining probability spaces and the basics of probability theory as we know it. This is a crucial lecture since he sets up the building blocks of probability theory. He defines things such as [[Random Experiment\|random experiments]], [[1. Cosmos/Outcome\|outcomes]], [[1. Cosmos/Event\|events]] and try to give a coherent picture of whole.
 
 #### Lesson Points:
 [[1. Cosmos/Probability Spaces#The Saviour of Algebra The $ sigma-$Algebra\|Probability Spaces (Start)]]
