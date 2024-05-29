@@ -7,9 +7,9 @@ Status: #idea
 Tags: [[1. Cosmos/Probability Theory\|Probability Theory]]
 State: #nascient
 # Event
-Informally, an [[1. Cosmos/Event\|event]] is any subset of of the sample space $\varOmega$ which is of interest to the experimenter. If we take a coin toss, technically it is possible for the coin to fall on its side and that neither tail nor head show up. This would be a possible outcome (that we might, or not account for) but not an event since we don't care about it.
+Informally, an [[1. Cosmos/Event\|event]] is any subset of of the sample space $\varOmega$ which is of interest to the experimenter. If we take a coin toss, technically it is possible for the coin to fall on its side and that neither tail nor head show up. This would be a possible outcome (that we might, or not account for) but not an event since we don't care about it. Rigorously tho an event is any element of the $\sigma-$algebra that is equipped by our $\varOmega$. Simply because any measure we could muster will only work on that $\varOmega$ and anything else cannot be measured.
 
-An event will often be worded similarly to a filter in programming languages. Like we are trying to capture a subset of the data and think about its specific properties
+An event will often be worded similarly to a filter in programming languages. Like we are trying to capture a subset of the data and think about its specific properties. ie: We are looking for the outcomes that are even.
 ```python
 event_even = df.loc[df['count_of_heads'] % 2 == 0] # checking for even
 ```
