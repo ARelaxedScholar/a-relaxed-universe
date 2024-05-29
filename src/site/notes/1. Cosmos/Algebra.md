@@ -43,7 +43,7 @@ Now observe that under the kind of algebra we have now, there is no construction
 $$
 \bigcap_{i=1,3,...}^\infty A_i
 $$
-The issue is that this is an infinite intersection. Which under our current rules no matter the algebra we make, no algebra can guarantee that this event will be in it (even if all the individual events are.) This is a huge problem since everything else, be it [[1. Cosmos/Probability Measure\|probability measure]], the definition of [[Probability\|probability]] itself and whatnot will be based on the assumption that our workbench contains all there is to consider.
+The issue is that this is an infinite intersection. Which under our current rules no matter the algebra we make, no algebra can guarantee that this event will be in it (even if all the individual events are.) This is a huge problem since everything else, be it [[1. Cosmos/Probability Measure (According to Kolmogorov)\|probability measure]], the definition of [[Probability\|probability]] itself and whatnot will be based on the assumption that our workbench contains all there is to consider.
 
 In fact any event that would be represented as some elementary operation on an infinite number of sets would have the same problem. Since we have no guarantee it would be in any algebra, it could happen to be (after all $\varOmega$ is) but we cannot be certain ever.
 
