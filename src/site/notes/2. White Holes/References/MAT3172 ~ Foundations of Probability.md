@@ -42,10 +42,14 @@ He also reassures us that while we've been doing [[Real Analysis\|Real Analysis]
 [[1. Cosmos/Borel Sets\|Borel Sets]]
 ## Lecture 3
 ![Pasted image 20240529115323.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240529115323.png)
-Here we start defining the notion of [[1. Cosmos/Probability Measure\|probability measures]], and we start by conceiving them as set functions. This is a crucial reminder of the fact that we assign probabilities to [[Events\|events]] and not individual [[1. Cosmos/Outcome\|outcomes]]. 
+Here we start defining the notion of [[1. Cosmos/Probability Measure (According to Kolmogorov)\|probability measures]], and we start by conceiving them as set functions. This is a crucial reminder of the fact that we assign probabilities to [[Events\|events]] and not individual [[1. Cosmos/Outcome\|outcomes]]. 
 
+We then spend the rest of the lecture defining probability measures (without really mentioning measure theory) both from the inherited version from [[Measure Theory\|Measure Theory]] and simple [[1. Cosmos/Measure\|measures]] and from the more "intuitive" interpretation of expected value. 
+
+Really insightful class, and after having seen how some things like the formula for $P(\bigcup^{\infty}_{i=1} A_i)$ are proven using the standard Kolmogorov approach, the existence of a more intuitive approach that makes such proofs almost trivially simple is very welcome.
 ### Lesson Points:
-[[1. Cosmos/Probability Measure\|Probability Measure]]
+[[1. Cosmos/Probability Measure (According to Kolmogorov)\|Probability Measure (According to Kolmogorov)]]
+[[1. Cosmos/Probability Measure (Based on Expected Value)\|Probability Measure (Based on Expected Value)]]
 
 
 ## References
