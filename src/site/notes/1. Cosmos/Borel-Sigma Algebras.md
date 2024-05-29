@@ -36,7 +36,7 @@ We do lose in a sense some of the richness of our [[1. Cosmos/Sample Space\|Samp
 ## Continuous Probability Spaces
 This concept is of direct interest in [[1. Cosmos/Continuous Probability Spaces\|Continuous Probability Spaces]]. In a similar fashion to how in [[1. Cosmos/Discrete Probability Spaces\|Discrete Probability Spaces]] our defacto $\sigma-$algebra will be the power set of our sample space denoted $2^\varOmega$, in [[1. Cosmos/Continuous Probability Spaces\|Continuous Probability Spaces]] the defacto $\sigma-$algebra will be the $\mathscr B(\varOmega$) which we often just denote $\mathscr B$ since its understood we are operating over the topological space represented by our sample space.
 
-Therefore we have successfully standardized [[1. Cosmos/Probability Theory\|Probability Theory]] and can now start thinking about how to define [[1. Cosmos/Probability Measure\|probability measures]] in continuous spaces! Spoiler, we will abuse [[1. Cosmos/Lebesgue Measures\|Lebesgue measures]].
+Therefore we have successfully standardized [[1. Cosmos/Probability Theory\|Probability Theory]] and can now start thinking about how to define [[1. Cosmos/Probability Measure (According to Kolmogorov)\|probability measures]] in continuous spaces! Spoiler, we will abuse [[1. Cosmos/Lebesgue Measures\|Lebesgue measures]].
 
 
 ## References
