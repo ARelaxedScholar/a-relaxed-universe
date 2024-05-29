@@ -72,7 +72,7 @@ This is another example of the disconnect between everyday language and mathemat
 
 This is a feature and not a bug of [[1. Cosmos/Continuous Probability Spaces\|Continuous Probability Spaces]], it is with humour that we say that in continuous probability spaces $0$-probability events occur all the time, in a sense (at the highest level of resolution) they are the only thing that can occur.
 
-Spoiler, the only impossible event is $\varnothing$. Informally, an [[Impossible Event\|Impossible Event]] is an event that does not contain any of the possible [[Outcome\|outcomes]] of a [[Random Experiment\|random experiment]].
+Spoiler, the only impossible event is $\varnothing$. Informally, an [[Impossible Event\|Impossible Event]] is an event that does not contain any of the possible [[1. Cosmos/Outcome\|outcomes]] of a [[Random Experiment\|random experiment]].
 
 Refer to this for a more in-depth comparison: [[Impossible Event vs 0-Probability Events\|Impossible Event vs 0-Probability Events]]
 
