@@ -19,7 +19,7 @@ In general we choose our $\varOmega$ to be $(0,1]$ where we expressly exclude $0
 ## Defining the [[Uniform Distribution\|Uniform Distribution]]
 We want two things to do that:
 - We want our measure of the probability to be proportional to the length of the interval under consideration
-- We want our measure of the probability to be invariant under translation, any arbitrary of length $\alpha$ (where $\alpha=|b-a|$) should have the same [[1. Cosmos/Probability Measure\|Probability Measure]] no matter where they are.
+- We want our measure of the probability to be invariant under translation, any arbitrary of length $\alpha$ (where $\alpha=|b-a|$) should have the same [[1. Cosmos/Probability Measure (According to Kolmogorov)\|Probability Measure (According to Kolmogorov)]] no matter where they are.
 
 
 
