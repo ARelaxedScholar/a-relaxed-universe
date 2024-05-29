@@ -19,7 +19,7 @@ $$
 We say that the function is measurable is $f^{-1}(A_2)\in \mathscr A_1$ for all values $A_2$ in $\mathscr A_2$.
 So, in other words the function is said to be measurable if when we take the value of the inverse of the function of a measurable set, the set obtained is still measurable.
 
-A classic example of measurable maps is [[Indicator Functions\|Indicator Functions]].
+A classic example of measurable maps is [[1. Cosmos/Indicator Functions\|Indicator Functions]].
 ## Why that weird definition in terms of inverse?
 It's due to how they are used in application rather than from intrinsic properties of measurable spaces and what not.
 
