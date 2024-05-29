@@ -11,7 +11,7 @@ Say we have an [[1. Cosmos/Algebra\|algebra]] $\varXi$ defined on a sample space
 - $P_0(\varOmega) = 1$
 - $P_0$ is countably additive (if it so happen that the countable union of sets in $\varXi$ is in $\varXi$)
 
-Then it is uniquely extensible (as is there is exactly one [[1. Cosmos/Probability Measure\|actual probability measure]]) such that for that probability measure $P$:
+Then it is uniquely extensible (as is there is exactly one [[1. Cosmos/Probability Measure (According to Kolmogorov)\|actual probability measure]]) such that for that probability measure $P$:
 $$
 P_0(A)=P(A) \text{, for any } A \text{ element of the } \sigma-\text{algebra under consideration}
 $$
