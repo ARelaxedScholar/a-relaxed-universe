@@ -6,7 +6,7 @@
 Status: #idea
 Tags: [[Probability\|Probability]]
 # Probability Spaces
-Probability Spaces are triple $(\varOmega, \mathscr F, P)$ or in other words sample spaces equipped with a $\sigma-$algebra to which we have attached a [[1. Cosmos/Probability Measure\|probability measure]]. They are a special case of [[Measure Space\|measure spaces]] where the measure is a probability measure.
+Probability Spaces are triple $(\varOmega, \mathscr F, P)$ or in other words sample spaces equipped with a $\sigma-$algebra to which we have attached a [[1. Cosmos/Probability Measure (According to Kolmogorov)\|probability measure]]. They are a special case of [[Measure Space\|measure spaces]] where the measure is a probability measure.
 
 ## Definition 
 
