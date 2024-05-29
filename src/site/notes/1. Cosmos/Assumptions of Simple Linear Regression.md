@@ -41,6 +41,6 @@ Likewise, the formula for the standard error of $\beta_0$ is $\sqrt{\sigma^2(\fr
 Anyhow, now that we have those we can do confidence intervals and hypothesis tests, right? Not quite! While it is true that we're almost there, in real life we pretty much never have $\sigma^2$ as well. Which is why we need an unbiased estimator for it, this estimator happens to be the $MSE$ which is computed as $\frac{SSE}{n-2}$ which is equivalent to $\frac{SS_{yy}-\beta_1 SS_{xy}}{n-2}$ which is also equivalent to $\frac{SS_{yy}-\frac{SS_{xy}^2}{Ss_{xx}}}{n-2}$ . Point is, replace $\sigma^2$ by $MSE$ and we are gucci.  
 ## References
 [[1. Cosmos/Properties of Least Square Estimators in SLR\|Properties of Least Square Estimators in SLR]]
-[[1. Cosmos/MAT3375(X) ~ Regression Analysis#Lecture 1\|MAT3375(X) ~ Regression Analysis#Lecture 1]]
+[[MAT3375(X) ~ Regression Analysis#Lecture 1\|MAT3375(X) ~ Regression Analysis#Lecture 1]]
 [Example of Inference on the Slope](https://www.youtube.com/watch?v=nk_0RcHI-vo&list=PLvxOuBpazmsND0vmkP1ECjTloiVz-pXla&index=7)
 [Example of Simple Linear Regression](https://www.youtube.com/watch?v=xIDjj6ZyFuw&list=PLvxOuBpazmsND0vmkP1ECjTloiVz-pXla&index=8)
