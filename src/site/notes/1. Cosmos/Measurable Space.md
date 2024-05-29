@@ -35,7 +35,7 @@ $$
 We require that $\psi(\varOmega)$ is well defined:
 - if $\psi(\varOmega) < \infty$ then $\psi$ is a finite measure.
 - if $\psi(\varOmega) = \infty$, then $\psi$ is an infinite measure
-- if $\psi(\varOmega) = 1$, then $\psi$ is a **[[1. Cosmos/Probability Measure\|Probability Measure]]** (yessir!)
+- if $\psi(\varOmega) = 1$, then $\psi$ is a **[[1. Cosmos/Probability Measure (According to Kolmogorov)\|Probability Measure (According to Kolmogorov)]]** (yessir!)
 
 In the last case, we denote $\psi$ with a capital $\mathbb P$. 
 
@@ -52,7 +52,7 @@ From now on, I'll denote the probability measure as $P$. From this, we can now d
 
 This now answers why we specified "subsets under consideration" if a subset is not in our $\varXi-$algebra, then the measure defined on our [[1. Cosmos/Measurable Space\|measurable space]] does not consider it. Therefore it does not have a probability.
 ### The Magic
-There is absolutely no prescriptions (or right way) as to how to define a [[1. Cosmos/Probability Measure\|Probability Measure]] or the $\sigma-$algebra for that matter.
+There is absolutely no prescriptions (or right way) as to how to define a [[1. Cosmos/Probability Measure (According to Kolmogorov)\|Probability Measure (According to Kolmogorov)]] or the $\sigma-$algebra for that matter.
 
 Any arbitrary such space you can cook up, as long as you ensure it has the aforementioned properties is a totally valid probability measure. This give us a really expansible and rich soil to construct our [[1. Cosmos/Probability Theory\|Probability Theory]].
 
