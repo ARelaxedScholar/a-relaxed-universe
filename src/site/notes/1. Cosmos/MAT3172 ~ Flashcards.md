@@ -211,3 +211,41 @@ From Calculus, when talking about [[Taylor Series Expansions\|Taylor Series Expa
 Back Extra: You should review Taylor Series at some point, man. 
 Tags: lecture_3
 END
+
+
+START
+Cloze
+From Calculus, when talking about [[Taylor Series Expansions\|Taylor Series Expansions]], what can we say about {{c1::$e^{-x}$}}{{c2::$=$}}{{c3::$1+\sum_{i=1}^\infty \frac{(-x)^i}{i!}$}}
+Back Extra:
+Tags: lecture_4
+END
+
+START
+Cloze
+From Calculus, when talking about [[Taylor Series Expansions\|Taylor Series Expansions]], what can we say about {{c1::$e^{-x}$}}{{c2::$\geq$}}{{c3::$1-x$}}
+Back Extra:
+Tags: lecture_4
+END
+
+START
+Basic 
+Sketch a proof (recall [[Taylor Series Expansions\|Taylor Series Expansions]]) for why $e^{-x} \geq 1-x$ is always true.
+Back:
+![Pasted image 20240529184728.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240529184728.png)
+Tags:
+END
+
+START
+Cloze
+By the {{c1::[[1. Cosmos/Borel-Cantelli Lemma\|Borel-Cantelli Lemma]] Lemma}} if {{c2::$\sum_{i=1}^\infty P(E_i)<\infty$}} it follows that {{c3::$P(\limsup E_n) = 0$}} {{c4::$\text{ or in other words, }E_n \text{ does NOT occur infinitely often}$}}
+Back Extra:
+Tags: lecture_4
+END
+
+START
+Cloze
+By the second part of [[1. Cosmos/Borel-Cantelli Lemma\|Borel-Cantelli Lemma]], given a {{c1::collection of **independent** events $E_i$:}}, if {{c2::$\sum_{i=1}^\infty P(E_i)=\infty$}} then {{c3::$P(\limsup E_n) = 1$}} {{c4::$\text{ or in other words, }E_n \text{ occurs infinitely often}$}}
+Back Extra: We really need independence to conclude that, if we drop the independence condition we become unable to use that fact that $\limsup E_n = E \implies \liminf E_n^c = E^c$ which while seemingly random is necessary for the proof. Because we end up using intersections and the fact that they're independent to replace these intersections with products of $E_i^c$.
+You can attempt the proof to convince yourself.
+Tags: lecture_4
+END
