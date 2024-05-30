@@ -53,8 +53,27 @@ Really insightful class, and after having seen how some things like the formula 
 
 
 
-## Lecture 4
+## [Lecture 4](https://uottawa-ca.zoom.us/rec/play/rUhd_NJ8wUBaYfwhDNAWbYDZC5bjHQcZmvMEKnkgggHVV7J9cX8FWcXUpJ5HeSF-TlSLIRYBBYcKpy07.3Sj6BWtYawidueG4)
+After defining the probability measures, we ignore them for a bit to return to limits and their usage. Starting with [[1. Cosmos/Fatou's Lemma\|Fatou's Lemma]]. We spend the first few minutes of the class going over it and explaining how it follows.
 
+We then define independence of events.
+
+It seems we define it only so that we can prove the [[1. Cosmos/Borel-Cantelli Lemma\|Borel-Cantelli Lemma]] right after. Honestly, considering this is a probability class, there are worse moments that Dr Zahrepour could have chose to present it, lmao.
+
+Overall, this lecture focused on these points.
+
+Lesson Points
+[[1. Cosmos/Fatou's Lemma\|Fatou's Lemma]]
+[[1. Cosmos/Event#Independence of Events\|Event#Independence of Events]]
+[[1. Cosmos/Borel-Cantelli Lemma\|Borel-Cantelli Lemma]]
+
+
+## [Lecture 5](https://uottawa-ca.zoom.us/rec/play/mM6nS1xG3DoHNmtWOjXjzPknUpfyatR3w8uzAG4ZZ1KKysssNFabh5Hl21HCniRa3ZhKzftOButTmKfb.263MPOfoiCr6RK-B)
+
+## [Lecture X-2](https://uottawa-ca.zoom.us/rec/play/e0_qaNsXDdTF6sIKFhQMaQsMbq23BeKJxEGcKy0mrMHdSQoIAnIdSX9JQvFO4hgE8EZ7guNu2AffYc46.nNZpJVndPtN-GUyZ)
+## [Lecture X-1](https://uottawa-ca.zoom.us/rec/play/pUy61bvkwQfcIHu7ZjbCAjwKJxlz1jlUj4NfoLlIMSRuXxfBzzpyOhGUcihUa1mXfRYDRuNhG7YAugXg.yVzkslX7ygR23W-O)
+## [Lecture X (Latest)](https://uottawa-ca.zoom.us/rec/play/ga0_-VqTYW-18X1LjAO-c30lRpfoLFeolpYth9f2QPAU9EkJajzDqZNzF3GlTpvrSFtmBx0oOmLzc_rT.xOnU5mIkKNrE0PAl)
+We start by reviewing [[1. Cosmos/Holder's Inequality\|Holder's Inequality]]
 ## References
 [[1. Cosmos/MAT3172 ~ Flashcards\|MAT3172 ~ Flashcards]]
 ### Prerequisites (I took):
