@@ -24,6 +24,18 @@ even_even_prime = df.drop(event_even.index) # the odd subset is created at the s
 
 These altogether give us what's referred to as an [[1. Cosmos/Algebra\|Algebra]].
 
+## Independence of Events
+We say two events $A$, $B$ are independent when:
+$P(A\cap B) = P(A)P(B)$
+
+If $A_1, A_2, A_3, ...$ are independent then any combination of elementary set operations on those sets will be independent (assuming obviously you do not reuse sets.)
+
+A set $A$ is independent of itself in only two cases by the definition, either $A$ is $\varOmega$ or $A$ is $\varnothing$.
+
+By that same definition, except in the aforementioned cases, $A$ and $A^c$ are never independent. And after all this makes perfect sense, informally independence tells us that knowledge about one event occurring gives us no information about the other occurring. But here $A$ and $A^c$ are quite the opposite, in fact they are perfectly dependent. $A$ occurs iff $A^c$ does not!
+
+
+
 
 ## References
 
