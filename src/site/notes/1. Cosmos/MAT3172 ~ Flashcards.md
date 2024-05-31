@@ -249,3 +249,76 @@ Back Extra: We really need independence to conclude that, if we drop the indepen
 You can attempt the proof to convince yourself.
 Tags: lecture_4
 END
+
+
+## Lecture 5
+START
+Cloze
+When talking about [[1. Cosmos/Expected Value\|Expected Value]] in [[2. White Holes/References/MAT3172 ~ Foundations of Probability\|MAT3172 ~ Foundations of Probability]], what can you say about the following
+{{c1::$E(X)$}}  {{c2::$=$}} {{c3::$\intop_{-\infty}^{\infty}x~dF(x)$}}
+Back Extra: When the derivative of $F(x)$ exists, it can be written as $\intop_{-\infty}^{\infty}xf(x)~dx$
+Tags: lecture_5
+END
+
+START
+Cloze
+When talking about [[1. Cosmos/Variance\|Variance]] in [[2. White Holes/References/MAT3172 ~ Foundations of Probability\|MAT3172 ~ Foundations of Probability]], what can you say about the following (in terms of expected value)
+{{c1::$Var(X)$}}  {{c2::$=$}} {{c3::$E(X^2)-[E(X)]^2$}}
+Back Extra: When the derivative of $F(x)$ exists, it can be written as $\intop_{-\infty}^{\infty}xf(x)~dx$
+Tags: lecture_5
+END
+
+START
+Cloze
+When talking about [[1. Cosmos/Variance\|Variance]] in [[2. White Holes/References/MAT3172 ~ Foundations of Probability\|MAT3172 ~ Foundations of Probability]], what can you say about the following (in terms of [[1. Cosmos/Riemann-Stieltjes Integrals ~ Generalization of Riemann integrals\|Riemann-Stieltjes Integrals ~ Generalization of Riemann integrals]])
+{{c1::$Var(X)$}}  {{c2::$=$}} {{c3::$\intop^\infty_{-\infty}(x-\mu)^2 dF(x)$}}
+Back Extra: When the derivative of $F(x)$ exists, it can be written as $\intop_{-\infty}^{\infty}xf(x)~dx$
+Tags: lecture_5
+END
+
+## Lecture 6
+START
+Cloze
+In the context of [[1. Cosmos/Moment Generating Function\|Moment Generating Function]], say you want to compute the $k^{th}$ without actually doing the $k^{th}$ derivative, what is the trick. {{c1::$E(X^k)$}} = {{c2::$k!$}}$\times${{c3::$\text{Coefficient of } t^k\text{ in the Taylor expansion of } M(t)$}}
+Back Extra:
+Tags: lecture_6
+END
+
+START
+Cloze
+When talking about the [[Gamma Function\|Gamma Function]], what is {{c1::$\intop_{0}^\infty e^{-\beta x}x^{\alpha-1}$}} $=$ $\frac{\Gamma(\alpha)}{\beta^\alpha}$}}.
+Back Extra: Teacher literally said memorize this, so yeah. It's important.
+Tags: lecture_6
+END
+
+START
+Cloze
+The moment generating function for a $\Gamma$, with parameters $\alpha$, $\beta$ what is the following $M(t)=${{c1::$(1-\frac{t}{\beta})^{-\alpha}$}}
+Back Extra:
+Tags:
+END
+
+START
+Cloze
+The moment generating function for a $\chi^2$, with parameters $r$ degrees of freedom is the following $M(t)=${{c1::$(1-2t)^{-\frac{r}{2}}$}}
+Back Extra:
+Tags:
+END
+
+START
+Cloze
+The quadratic formula to find the roots of second degree polynomials is {{c1::$x$}} $=$ {{c2::$\frac{-b +/- \sqrt{b^2-4ac}}{2a}$}}
+Back Extra: Lol, for old time's sake.
+Tags:
+END
+
+START
+Cloze
+When talking about expansion of polynomials, fill in the blanks (assume $a$ is not an integer and $k$ is a natural number):
+{{c1::$(1+x)^a$}} $=$ {{c2::$\sum_{k=0}^\infty a \choose k x^k}}
+Where
+{{c3:: $a \choose k$}}= {{c4::$\frac{a(a-1)\dots(a-k+1)}{k!}$}}
+Back Extra: 
+Tags:
+END
+
