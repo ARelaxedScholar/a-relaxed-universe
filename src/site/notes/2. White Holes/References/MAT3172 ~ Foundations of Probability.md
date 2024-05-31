@@ -69,8 +69,31 @@ Lesson Points
 
 
 ## [Lecture 5](https://uottawa-ca.zoom.us/rec/play/mM6nS1xG3DoHNmtWOjXjzPknUpfyatR3w8uzAG4ZZ1KKysssNFabh5Hl21HCniRa3ZhKzftOButTmKfb.263MPOfoiCr6RK-B)
+After proving the [[1. Cosmos/Fatou's Lemma\|Fatou's Lemma]] which give us the ability to take the limit in and out of measures given the limit of a family of event $E_n$ **exists** and then proving the [[1. Cosmos/Borel-Cantelli Lemma\|Borel-Cantelli Lemma]] which gave us a way to say decisively if a given family of event $E_n$ did not occur infinitely many times (and under independence they did), we now start talking about what we typically think of when mentioning probability. [[1. Cosmos/Probability Mass Function\|Probability Mass Function]] and [[1. Cosmos/Probability Density Functions\|Probability Density Functions]], and how the heck do we measure a probability for arbitrary events?
 
-## [Lecture X-2](https://uottawa-ca.zoom.us/rec/play/e0_qaNsXDdTF6sIKFhQMaQsMbq23BeKJxEGcKy0mrMHdSQoIAnIdSX9JQvFO4hgE8EZ7guNu2AffYc46.nNZpJVndPtN-GUyZ)
+This lecture does not break what we've learned before in older courses, but it re-contextualizes a lot of it and give us a more rigorous underpinning. Less rigorous than [[Measure Theory\|Measure Theory]], but rigorous enough for use.
+
+### Lesson Points
+[[1. Cosmos/Borel-Cantelli Lemma\|Borel-Cantelli Lemma]]
+[[1. Cosmos/Random Variable\|Random Variable]]
+[[1. Cosmos/Cumulative Density Function\|Cumulative Density Function]]
+[[1. Cosmos/Riemann Integrals\|Riemann Integrals]]
+[[1. Cosmos/Riemann-Stieltjes Integrals ~ Generalization of Riemann integrals\|Riemann-Stieltjes Integrals ~ Generalization of Riemann integrals]]
+[[Lebesgue Integrals\|Lebesgue Integrals]]
+[[1. Cosmos/Expected Value\|Expected Value]]
+[[1. Cosmos/Probability Density Functions\|Probability Density Functions]]
+[[1. Cosmos/Markov's Inequality\|Markov's Inequality]]
+## [Lecture 6](https://uottawa-ca.zoom.us/rec/play/e0_qaNsXDdTF6sIKFhQMaQsMbq23BeKJxEGcKy0mrMHdSQoIAnIdSX9JQvFO4hgE8EZ7guNu2AffYc46.nNZpJVndPtN-GUyZ)
+So we start where we left off last lecture with [[1. Cosmos/Markov's Inequality\|Markov's Inequality]]. 
+From Lecture 6 and from there and then we start our journey into stating and proving inequalities. 
+
+Besides inequalities galore, we introduce the concept of [[1. Cosmos/Moment Generating Function\|Moment Generating Function]] and we prove the moment generating functions for well known distributions like the [[Gamma Distribution\|Gamma Distribution]], and the [[Chi-Squared Distribution\|Chi-Squared Distribution]].
+
+### Lesson Points
+[[1. Cosmos/Markov's Inequality\|Markov's Inequality]]
+[[1. Cosmos/Chebyshev's Inequality\|Chebyshev's Inequality]]
+[[1. Cosmos/Cauchy-Schwarz's Inequality\|Cauchy-Schwarz's Inequality]]
+[[1. Cosmos/Moment Generating Function\|Moment Generating Function]]
 ## [Lecture X-1](https://uottawa-ca.zoom.us/rec/play/pUy61bvkwQfcIHu7ZjbCAjwKJxlz1jlUj4NfoLlIMSRuXxfBzzpyOhGUcihUa1mXfRYDRuNhG7YAugXg.yVzkslX7ygR23W-O)
 ## [Lecture X (Latest)](https://uottawa-ca.zoom.us/rec/play/ga0_-VqTYW-18X1LjAO-c30lRpfoLFeolpYth9f2QPAU9EkJajzDqZNzF3GlTpvrSFtmBx0oOmLzc_rT.xOnU5mIkKNrE0PAl)
 We start by reviewing [[1. Cosmos/Holder's Inequality\|Holder's Inequality]]
