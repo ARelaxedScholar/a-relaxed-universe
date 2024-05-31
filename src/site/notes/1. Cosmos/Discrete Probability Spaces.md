@@ -32,9 +32,9 @@ In practice, unless there's a reason to do otherwise (will vary based on [[Rando
 ## Probability Mass Functions (PMF)
 Recall how in measure theory a measure is nothing more than a function that maps elements of our $\sigma-$algebra (in this case the power set of $\varOmega$) to the space $[0,1]$.
 
-A [[Probability Mass Function\|Probability Mass Function]] based on the theory covered in [[1. Cosmos/Probability Spaces\|Probability Spaces]], is nothing more than the measure that maps those singleton subsets of the $\sigma-$algebra to the right values. We interpret this measure as the likelihood of our random experiment to yield a given event.
+A [[1. Cosmos/Probability Mass Function\|Probability Mass Function]] based on the theory covered in [[1. Cosmos/Probability Spaces\|Probability Spaces]], is nothing more than the measure that maps those singleton subsets of the $\sigma-$algebra to the right values. We interpret this measure as the likelihood of our random experiment to yield a given event.
 
-This is the name we give to a [[Probability Density Functions\|Probability Density Functions]] when operating in a discrete probability space.
+This is the name we give to a [[1. Cosmos/Probability Density Functions\|Probability Density Functions]] when operating in a discrete probability space.
 
 ### Important Consideration
 While at times due to how we write things, we can mistakenly think that we are assigning probabilities to elements of the [[1. Cosmos/Sample Space\|Sample Space]]. This is categorically false. While an harmless error most of the time (and in fact the way everyone that doesn't learn the foundations of probability learns it,) probability are assigned to elements of the $\sigma-$algebra, not to element of $\varOmega$. This might sound like a nitpick, but its not.
