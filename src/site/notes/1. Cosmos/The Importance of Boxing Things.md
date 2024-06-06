@@ -11,7 +11,7 @@ So recently, I have been slacking a bit with my language learning, and as I was 
 
 I know this already--since I am me, lel--but for my astronauts, I am poly-literate in French, English, Spanish and Japanese. Obviously level of skills vary across languages, French being my strongest and my weakest being either Spanish, but I am at a level where I can read/speak to some degree of fluency in all of them. 
 
-Why did I felt compelled to write about the importance of boxing things? Recently, as I cut through wade of material for [[MAT3375(X) ~ Regression Analysis\|MAT3375(X) ~ Regression Analysis]] and [[1. Cosmos/MAT3172 Foundations of Probability\|MAT3172 Foundations of Probability]], two classes which are as complex as they are interesting, I have rekindled my love for reading manga. This being the reason for which I started learning Japanese in the first place, I mulled on it.
+Why did I felt compelled to write about the importance of boxing things? Recently, as I cut through wade of material for [[MAT3375(X) ~ Regression Analysis\|MAT3375(X) ~ Regression Analysis]] and [[MAT3172 Foundations of Probability\|MAT3172 Foundations of Probability]], two classes which are as complex as they are interesting, I have rekindled my love for reading manga. This being the reason for which I started learning Japanese in the first place, I mulled on it.
 
 So... what you ask?
 
