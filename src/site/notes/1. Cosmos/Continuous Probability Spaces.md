@@ -16,7 +16,7 @@ In general we choose our $\varOmega$ to be $(0,1]$ where we expressly exclude $0
 - Any results we can derive for this interval can be generalized for sample spaces $(0,1), [0,1], [0,1)$
 - It makes some upper level derivations easier and we avoid issues like $log(0)$ and whatnot.
 
-## Defining the [[Uniform Distribution\|Uniform Distribution]]
+## Defining the [[1. Cosmos/Uniform Distribution\|Uniform Distribution]]
 We want two things to do that:
 - We want our measure of the probability to be proportional to the length of the interval under consideration
 - We want our measure of the probability to be invariant under translation, any arbitrary of length $\alpha$ (where $\alpha=|b-a|$) should have the same [[1. Cosmos/Probability Measure (According to Kolmogorov)\|Probability Measure (According to Kolmogorov)]] no matter where they are.
