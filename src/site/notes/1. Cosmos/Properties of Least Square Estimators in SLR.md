@@ -17,4 +17,8 @@ ergo the fitted line (estimate) is:
 $$
 \hat Y = \hat \beta_0 + \hat \beta_1 X_i
 $$
-## References
+$$
+\sigma^2 = \sum_{i=1} \frac{(y_i-\hat y_i)^2}{n-2} = \sum_{i=1} \frac{\varepsilon_i^2}{n-2}
+$$
+All these estimators are unbiased.
+References
