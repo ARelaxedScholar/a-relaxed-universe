@@ -6,6 +6,7 @@
 Status: #idea
 Tags: [[1. Cosmos/Multiple Linear Regression\|Multiple Linear Regression]]
 # The Method Of Least Squares in Multiple Linear Regression
+![Pasted image 20240606151018.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240606151018.png)
 
 The logic is identical to the [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]] case, except that we now need to represent everything in matrix form.
 
