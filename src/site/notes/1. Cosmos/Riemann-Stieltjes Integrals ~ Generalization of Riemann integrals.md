@@ -4,7 +4,7 @@
 
 202405301320
 Status: #idea
-Tags: [[Calculus\|Calculus]], [[Integrals\|Integrals]]
+Tags: [[Calculus\|Calculus]], [[1. Cosmos/Integrals\|Integrals]]
 State: #nascient
 # Riemann-Stieltjes Integrals ~ Generalization of Riemann integrals
 
