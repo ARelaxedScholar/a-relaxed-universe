@@ -18,5 +18,13 @@ E[X^n]=\intop_{-\infty}^{\infty}x^np_X(x)dx
 $$
 Note that as long as we take enough derivatives both are equivalent.
 
+## Convenient Trick
+No one has time to derivate the $k$ times to get the $k^{th}$ moment.
+So when looking for the $k^{th}$ moment simply look for the coefficient of $t^k$ and multiply that by $k!$ factorial. (In the Taylor's Expansion)
+
+If there is no $t^k$ in the Taylor's expansion, you know that the moment is $0$.
+
+##
+![Pasted image 20240531093334.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240531093334.png)
 ## References
 [A good video explaining it](https://www.youtube.com/watch?v=cbmfYoepHPk)
