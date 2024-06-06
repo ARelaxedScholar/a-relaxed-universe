@@ -87,16 +87,55 @@ This lecture does not break what we've learned before in older courses, but it r
 So we start where we left off last lecture with [[1. Cosmos/Markov's Inequality\|Markov's Inequality]]. 
 From Lecture 6 and from there and then we start our journey into stating and proving inequalities. 
 
-Besides inequalities galore, we introduce the concept of [[1. Cosmos/Moment Generating Function\|Moment Generating Function]] and we prove the moment generating functions for well known distributions like the [[Gamma Distribution\|Gamma Distribution]], and the [[Chi-Squared Distribution\|Chi-Squared Distribution]].
+Besides inequalities galore, we introduce the concept of [[1. Cosmos/Moment Generating Function\|Moment Generating Function]] and we prove the moment generating functions for well known distributions like the [[1. Cosmos/Gamma Distribution\|Gamma Distribution]], and the [[1. Cosmos/Chi-Squared Distribution\|Chi-Squared Distribution]].
 
 ### Lesson Points
 [[1. Cosmos/Markov's Inequality\|Markov's Inequality]]
 [[1. Cosmos/Chebyshev's Inequality\|Chebyshev's Inequality]]
 [[1. Cosmos/Cauchy-Schwarz's Inequality\|Cauchy-Schwarz's Inequality]]
 [[1. Cosmos/Moment Generating Function\|Moment Generating Function]]
-## [Lecture X-1](https://uottawa-ca.zoom.us/rec/play/pUy61bvkwQfcIHu7ZjbCAjwKJxlz1jlUj4NfoLlIMSRuXxfBzzpyOhGUcihUa1mXfRYDRuNhG7YAugXg.yVzkslX7ygR23W-O)
-## [Lecture X (Latest)](https://uottawa-ca.zoom.us/rec/play/ga0_-VqTYW-18X1LjAO-c30lRpfoLFeolpYth9f2QPAU9EkJajzDqZNzF3GlTpvrSFtmBx0oOmLzc_rT.xOnU5mIkKNrE0PAl)
+## [Lecture 7](https://uottawa-ca.zoom.us/rec/play/pUy61bvkwQfcIHu7ZjbCAjwKJxlz1jlUj4NfoLlIMSRuXxfBzzpyOhGUcihUa1mXfRYDRuNhG7YAugXg.yVzkslX7ygR23W-O)
+![Pasted image 20240531081812.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240531081812.png)
+We state the really important fact that there's a 1-1 correspondence between the pdf $f_X$ of a random variable $X$ and it's random variable. You can multiply the MGFs of random variables only when they are independent, similarly to densities.
+
+The MGF is also unique. We knew that, but this is restated here. After that we go on a rampage, covering distributions after distributions. Before returning to inequalities at the end. If it wasn't clear, from [[MAT21...\|MAT21...]] moment generating functions are the GOAT and you should memorize them.
+
+We finish by explaining the rational behind Holder's Inequality and comparing it to [[1. Cosmos/Cauchy-Schwarz's Inequality\|Cauchy-Schwarz's Inequality]].
+
+### Lesson Points:
+[[1. Cosmos/Moment Generating Function\|Moment Generating Function]]
+[[1. Cosmos/Gamma Distribution\|Gamma Distribution]]
+[[1. Cosmos/Chi-Squared Distribution\|Chi-Squared Distribution]]
+[[1. Cosmos/Bernoulli Distribution\|Bernoulli Distribution]]
+[[1. Cosmos/Binomial Distribution\|Binomial Distribution]]
+[[1. Cosmos/Normal Distribution\|Normal Distribution]]
+[[1. Cosmos/Holder's Inequality\|Holder's Inequality]]
+
+
+## [Lecture 8](https://uottawa-ca.zoom.us/rec/play/ga0_-VqTYW-18X1LjAO-c30lRpfoLFeolpYth9f2QPAU9EkJajzDqZNzF3GlTpvrSFtmBx0oOmLzc_rT.xOnU5mIkKNrE0PAl)
 We start by reviewing [[1. Cosmos/Holder's Inequality\|Holder's Inequality]]
+
+### Lesson Points
+[[1. Cosmos/Holder's Inequality\|Holder's Inequality]]
+[[Jensen's Inequality\|Jensen's Inequality]]
+[[Liapunnov's Inequality\|Liapunnov's Inequality]]
+
+
+## Lecture 9
+We spend this lecture on the glorious [[1. Cosmos/Cumulative Density Function\|Cumulative Density Function]], the mother of probability and the thing that props all the time. All roads lead to Rome, no, all rome leads to the CDF.
+First, it is defined as follows $F(x) = P(X \le x)$ for some random variable $X$, then we can see the following properties of $cdf$:
+1. Non-decreasing
+2. Right continuous
+3. $F(\infty)=1$ and $F(-\infty)=0$
+If any of the above fails we do not have a cdf, and we prove those properties. We especially explain why we need right-continuous, and show how this property emerges from our definition of cdfs, and [[1. Cosmos/Fatou's Lemma\|Fatou's Lemma]].
+
+After that we take our time proving results about cdfs to make our understanding of them richer.
+
+### Lesson Points
+[[1. Cosmos/Cumulative Density Function\|Cumulative Density Function]]
+[[The Number of Discontinuities in a CDF can be At Most Countably Infinite
+[[All CDFs are either Continuous, Discrete or Composed of Discrete and Continuous Functions\|All CDFs are either Continuous, Discrete or Composed of Discrete and Continuous Functions]]
+
 ## References
 [[1. Cosmos/MAT3172 ~ Flashcards\|MAT3172 ~ Flashcards]]
 ### Prerequisites (I took):
