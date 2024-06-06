@@ -10,7 +10,7 @@ Tags: [[Regression Analysis\|Regression Analysis]]
 We test the hypothesis that 
 $H_0: \beta_j = 0$
 $H_1: \beta_j \ne 0$
-We know that our $\hat \beta$ is distributed according to a normal distribution with mean $\beta$ since it is a [[BLUE Estimator\|BLUE Estimator]] and that it has variance $\sigma^2(x^Tx)^{-1}$/
+We know that our $\hat \beta$ is distributed according to a normal distribution with mean $\beta$ since it is a [[BLUE Estimator\|BLUE Estimator]] and that it has variance $\sigma^2(x^Tx)^{-1}$.
 
 By this logic we know that all the elements in the $\hat \beta$ vector have to be normally distributed as well. So like in [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]] we can simply use z-tests and t-tests to find our answer.
 
