@@ -7,7 +7,7 @@
 Status: #idea
 Tags: 
 # Confidence Intervals vs Prediction Intervals in Simple Linear Regression
-[[Confidence Intervals\|Confidence Intervals]] and [[Prediction Intervals\|Prediction Intervals]] are tightly bound concepts. 
+[[Confidence Intervals\|Confidence Intervals]] and [[1. Cosmos/Prediction Intervals\|Prediction Intervals]] are tightly bound concepts. 
 
 ### Confidence Intervals
 I am writing this in the context of [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]]. A [[Confidence Intervals\|confidence interval]] is what I use if I am trying to find the range of values in which my mean observation will fall, this is what I use because the $E(\hat Y)$ is $Y$ which nukes the error term (variation around the mean), thanks to that the calculations are simplified and I get that for $N(mean, variance)$
@@ -26,7 +26,7 @@ As usual, since we basically never actually know $\sigma^2$ we replace it by the
 ### Warning
 Since we know that $Y$ follows a normal distribution, once we've found its variance we've won and can do [[1. Cosmos/Hypothesis Test\|Hypothesis Test]] and [[Confidence Intervals\|Confidence Intervals]] easily. 
 
-We just need to stay cognizant of WHAT exactly we're trying to estimate, a specific observation? ([[Prediction Intervals\|Prediction Intervals]]) 
+We just need to stay cognizant of WHAT exactly we're trying to estimate, a specific observation? ([[1. Cosmos/Prediction Intervals\|Prediction Intervals]]) 
 
 The mean response at a given value? [[Confidence Intervals\|Confidence Intervals]]
 
