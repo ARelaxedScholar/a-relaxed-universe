@@ -27,7 +27,7 @@ Note that these probabilities can be assigned as haphazardly as we want, I could
 
 As long as it all sum to $1$ in the end, we are gucci.
 
-In practice, unless there's a reason to do otherwise (will vary based on [[Random Experiment\|Random Experiment]]), we generally assume a [[Uniform Distribution\|Uniform Distribution]], but this is by no mean an obligation. 
+In practice, unless there's a reason to do otherwise (will vary based on [[Random Experiment\|Random Experiment]]), we generally assume a [[1. Cosmos/Uniform Distribution\|Uniform Distribution]], but this is by no mean an obligation. 
 
 ## Probability Mass Functions (PMF)
 Recall how in measure theory a measure is nothing more than a function that maps elements of our $\sigma-$algebra (in this case the power set of $\varOmega$) to the space $[0,1]$.
