@@ -14,7 +14,7 @@ Things like
 
 [[1. Cosmos/Hypothesis Test\|Hypothesis Test]]
 [[Confidence Intervals\|Confidence Intervals]]
-[[Analysis of Variance (ANOVA)\|Analysis of Variance (ANOVA)]]
+[[1. Cosmos/Analysis of Variance (ANOVA)\|Analysis of Variance (ANOVA)]]
 
 are all kinds of inferences which allow us to learn more about our data.
 
