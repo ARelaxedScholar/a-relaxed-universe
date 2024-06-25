@@ -12,7 +12,7 @@ It's a really important concept in statistics that is always based around two hy
 It is crucial to realize that in hypothesis testing, we never "accept" the alternative hypothesis similarly to how in a court we never declare someone "innocent". Instead we "reject" the null hypothesis. While outwardly has a similar effect, the nuance is different. 
 This tells us that we're on the defensive, all we can do is try to see if something is so unlikely that it has to be false, as a result that leads us to say the $H_1$ might be true, but that's beside the point.
 
-To the concept of Hypothesis Testing and [[Confidence Intervals\|Confidence Intervals]] is always attached the concept of [[Confidence Levels\|Confidence Levels]] generally denoted $1-\alpha$. This is nothing more and nothing less than the level of confidence we have that the population parameter on which we're doing the inference falls in the range.
+To the concept of Hypothesis Testing and [[1. Cosmos/Confidence Intervals\|Confidence Intervals]] is always attached the concept of [[Confidence Levels\|Confidence Levels]] generally denoted $1-\alpha$. This is nothing more and nothing less than the level of confidence we have that the population parameter on which we're doing the inference falls in the range.
 ## Data is Normally Distributed
 
 The normal distribution is a symmetric distribution, so depending of whether we're doing a two sided or one sided test, we will be careful to ensure that the sum of our reject area is $\alpha$.
