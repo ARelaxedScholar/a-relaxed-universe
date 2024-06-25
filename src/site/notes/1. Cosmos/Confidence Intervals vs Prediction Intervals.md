@@ -7,10 +7,10 @@
 Status: #idea
 Tags: 
 # Confidence Intervals vs Prediction Intervals in Simple Linear Regression
-[[Confidence Intervals\|Confidence Intervals]] and [[1. Cosmos/Prediction Intervals\|Prediction Intervals]] are tightly bound concepts. 
+[[1. Cosmos/Confidence Intervals\|Confidence Intervals]] and [[1. Cosmos/Prediction Intervals\|Prediction Intervals]] are tightly bound concepts. 
 
 ### Confidence Intervals
-I am writing this in the context of [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]]. A [[Confidence Intervals\|confidence interval]] is what I use if I am trying to find the range of values in which my mean observation will fall, this is what I use because the $E(\hat Y)$ is $Y$ which nukes the error term (variation around the mean), thanks to that the calculations are simplified and I get that for $N(mean, variance)$
+I am writing this in the context of [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]]. A [[1. Cosmos/Confidence Intervals\|confidence interval]] is what I use if I am trying to find the range of values in which my mean observation will fall, this is what I use because the $E(\hat Y)$ is $Y$ which nukes the error term (variation around the mean), thanks to that the calculations are simplified and I get that for $N(mean, variance)$
 $$
 Y \text{ is distributed according to }  N(\beta_0 + \beta_1x, \sigma^2(\frac{1}{n}+\frac{(x_0-\bar X)^2}{SS_{xx}}))
 $$
@@ -24,11 +24,11 @@ $$
 ### The $\sigma^2$ problem (Just Replace with MSE)
 As usual, since we basically never actually know $\sigma^2$ we replace it by the mean squared error $MSE$ which is an unbiased estimator. 
 ### Warning
-Since we know that $Y$ follows a normal distribution, once we've found its variance we've won and can do [[1. Cosmos/Hypothesis Test\|Hypothesis Test]] and [[Confidence Intervals\|Confidence Intervals]] easily. 
+Since we know that $Y$ follows a normal distribution, once we've found its variance we've won and can do [[1. Cosmos/Hypothesis Test\|Hypothesis Test]] and [[1. Cosmos/Confidence Intervals\|Confidence Intervals]] easily. 
 
 We just need to stay cognizant of WHAT exactly we're trying to estimate, a specific observation? ([[1. Cosmos/Prediction Intervals\|Prediction Intervals]]) 
 
-The mean response at a given value? [[Confidence Intervals\|Confidence Intervals]]
+The mean response at a given value? [[1. Cosmos/Confidence Intervals\|Confidence Intervals]]
 
 ### An Example
 Say I have a linear model, that relates the time I study to my grades. If I try to predict on average how much I would get if I studied 200 hours, something crazy for me, I would use a confidence interval. Because I am trying to see what is the mean response of my grades to the time I study. This will be tighter.
