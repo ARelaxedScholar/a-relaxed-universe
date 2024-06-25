@@ -18,7 +18,7 @@ But be careful, [[Correlation\|Correlation]] and [[1. Cosmos/Coefficient of Dete
 
 Similarly to the [[Correlation\|Correlation]] it is bounded between 0 and 1, where 1 indicates a perfect explanatory power and 0 explains basically no power (no better than the mean line itself.)
 
-There is a concept called [[Adjusted Coefficient of Determination\|Adjusted Coefficient of Determination]] which directly follows from it, and that is important because in a parametric model adding more parameters will NEVER make my model's fit worse. It might leave it the same, but even assuming the new parameter has no value I can always set it to 0 and revert to a less parameterized model. For that reason, we need to dock points from the score of models with more parameters to account for the fact that more parameters can significantly improve a model out of sheer luck.
+There is a concept called [[1. Cosmos/Adjusted Coefficient of Determination\|Adjusted Coefficient of Determination]] which directly follows from it, and that is important because in a parametric model adding more parameters will NEVER make my model's fit worse. It might leave it the same, but even assuming the new parameter has no value I can always set it to 0 and revert to a less parameterized model. For that reason, we need to dock points from the score of models with more parameters to account for the fact that more parameters can significantly improve a model out of sheer luck.
 
 ## Warning about Overreliance
 $R^2$ is cool, but it is far from perfect. For example, it is not smart enough to realize that a model might fit data out of sheer luck.
