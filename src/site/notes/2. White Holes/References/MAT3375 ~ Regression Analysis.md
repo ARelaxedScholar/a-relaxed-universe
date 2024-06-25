@@ -56,6 +56,39 @@ More specifically, how do we deal with [[Categorical Data\|Categorical Data]].
 [[1. Cosmos/Multiple Linear Regression#Special Cases\|Multiple Linear Regression#Special Cases]]
 [[1. Cosmos/Multiple Linear Regression#Hypothesis Testing\|Multiple Linear Regression#Hypothesis Testing]]
 
-## [Lecture 5 ~](https://uottawa-ca.zoom.us/rec/play/sKz8BqUkYFr7fhoJun-CVCqTqPwazd6gph_Br8KjCBgRORY_ai2tNJzPukm1P0hXo7mgaWbv_L6E85hF.8nHzezAtBWWR3hMp) 
+## [Lecture 5 ~ A Masterclass on Confidence Intervals](https://uottawa-ca.zoom.us/rec/play/sKz8BqUkYFr7fhoJun-CVCqTqPwazd6gph_Br8KjCBgRORY_ai2tNJzPukm1P0hXo7mgaWbv_L6E85hF.8nHzezAtBWWR3hMp) 
+As expected, here we focus on how to compute confidence intervals:
+We also touch on the extra sum of squares method, which can be seen as the big brother of the [[1. Cosmos/Test On Individual Regression Coefficient (Assuming We know our Model Is Significant)\|Test On Individual Regression Coefficient (Assuming We know our Model Is Significant)]].
+### Lesson Points
+[[1. Cosmos/Multiple Linear Regression#Confidence Intervals\|Multiple Linear Regression#Confidence Intervals]]
+[[1. Cosmos/Extra Sum of Squares Method\|Extra Sum of Squares Method]]
 
+
+
+## [Lecture 6 ~ Model Adequacy](https://uottawa-ca.zoom.us/rec/play/4naxqP_MMmY6-5KSMWgMbE4m2vE4VSPvoXUSPlK6LOgmqYAp4wNqpqkPXE7o_4zmdPHGcw5qSd522GJt.lecZQCHXav5SIEBQ)
+![Pasted image 20240607125532.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240607125532.png)
+
+After spending so much time on building linear models and building intervals for them, we want to be able to check if our model even does a good job. More specifically, does it do a good job purely by chance, or does the assumptions implied by the use of that model respected?
+
+### Lesson Points
+[[1. Cosmos/Model Adequacy Checking\|Model Adequacy Checking]]
+
+
+## [Lecture 7](https://uottawa-ca.zoom.us/rec/play/ikVtCJBpGNiWmiTXq_JC8Kg7RcpoWkW_sQrUWlVlkyiTTZ4m3TUH5X5MWUr-VFtW9K5LcssOzyqqtPBu.sVIXsuOoueDceZnK)
+![Pasted image 20240607144239.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240607144239.png)
+So last lecture we checked how to check if the model assumptions held.
+
+This lecture we learn how to correct a model if it seems that assumptions are not correct.
+
+Depending of what assumptions were broken, we will need to use different methods. The methods will pretty much always involve transforming either the response variable, or the predictor variables.
+### Lesson Points
+[[1. Cosmos/Transformations\|Transformations]]
+[[Box-Cox Transformation for Non-Normality\|Box-Cox Transformation for Non-Normality]]
+
+## Lecture 8 ~ Weighted Least Squares
+This lecture is fully about weighted least squares, a method that is used when we the variance is not constant. In other words, we use it when the homoscedastitcity assumption is broken.
+
+### Lesson Points
+[[Weighted Least Squares (Generalized Least Squares)\|Weighted Least Squares (Generalized Least Squares)]]
 ## References
+[[1. Cosmos/MAT3375 ~ Flashcards\|MAT3375 ~ Flashcards]]
