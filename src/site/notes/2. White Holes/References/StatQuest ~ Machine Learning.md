@@ -17,7 +17,7 @@ Tags: [[Machine Learning\|Machine Learning]]
 #### Bias vs Variance
 It teaches us the important lesson that while we train a model on training data, it will always be tested on either a validation set or a test set. The reason is simply because it is really really easy to [[Overfitting\|overfit]] the model to our testing data in such a way that our model is excellent on the training data, but terrible on the test data. It does not generalise.
 
-The [[Bias\|bias]] is the error due to the assumptions our models make, in a [[Linear Regression\|Linear Regression]] for example, the bias will be the error due to the [[Assumption of Linearity\|Assumption of Linearity]].
+The [[Bias\|bias]] is the error due to the assumptions our models make, in a [[1. Cosmos/Linear Regression\|Linear Regression]] for example, the bias will be the error due to the [[Assumption of Linearity\|Assumption of Linearity]].
 
 On the other hand, the [[1. Cosmos/Variance\|variance]] can be understood as the error due to the sensibility of our model to fluctuations, or how much each data point strays from the sample mean. In general the less of a bias we have, the bigger the variance will be, and vice versa this is what's called the  [[Bias-Variance Tradeoff\|Bias-Variance Tradeoff]]. In an  ideal world you'd minimize both, but in that world you are God. 
 
