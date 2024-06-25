@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/2-white-holes/references/mat-3172-foundations-of-probability/"}
 ---
 
+h;=
 202405271904
 Status: #reference
 Tags: [[1. Cosmos/Probability Theory\|Probability Theory]] 
@@ -121,7 +122,7 @@ We start by reviewing [[1. Cosmos/Holder's Inequality\|Holder's Inequality]]
 [[Liapunnov's Inequality\|Liapunnov's Inequality]]
 
 
-## Lecture 9
+## [Lecture 9](https://uottawa-ca.zoom.us/rec/play/4JgNgAGMprPif5rAJmG9Akh-f8lQJfoTmFeh5p20-0ANVqq4cslO_hqHvyhjMyHIjbkegVY6TkrSytrE.Jz7VvJCOKgLom5C1)
 We spend this lecture on the glorious [[1. Cosmos/Cumulative Density Function\|Cumulative Density Function]], the mother of probability and the thing that props all the time. All roads lead to Rome, no, all rome leads to the CDF.
 First, it is defined as follows $F(x) = P(X \le x)$ for some random variable $X$, then we can see the following properties of $cdf$:
 1. Non-decreasing
@@ -134,8 +135,15 @@ After that we take our time proving results about cdfs to make our understanding
 ### Lesson Points
 [[1. Cosmos/Cumulative Density Function\|Cumulative Density Function]]
 [[The Number of Discontinuities in a CDF can be At Most Countably Infinite
-[[All CDFs are either Continuous, Discrete or Composed of Discrete and Continuous Functions\|All CDFs are either Continuous, Discrete or Composed of Discrete and Continuous Functions]]
+[[1. Cosmos/All CDFs are either Continuous, Discrete or Composed of Discrete and Continuous Density Functions\|All CDFs are either Continuous, Discrete or Composed of Discrete and Continuous Density Functions]]
 
+## Lecture 10
+This is a continuity on our lecture on how any CDF is either continuous, discrete or partitionable into continuous and discrete parts.
+
+### Lesson Points
+[[1. Cosmos/Cumulative Density Function\|Cumulative Density Function]]
+[[1. Cosmos/All CDFs are either Continuous, Discrete or Composed of Discrete and Continuous Density Functions\|All CDFs are either Continuous, Discrete or Composed of Discrete and Continuous Density Functions]]
+[[1. Cosmos/Inverse Transformations\|Inverse Transformations]]
 ## References
 [[1. Cosmos/MAT3172 ~ Flashcards\|MAT3172 ~ Flashcards]]
 ### Prerequisites (I took):
