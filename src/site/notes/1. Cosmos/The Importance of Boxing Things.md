@@ -33,7 +33,7 @@ Point is, even though Japanese is arguably much harder--and I did eat shit a few
 
 Point is, to hell with standards, and stigma! If you want to learn something, especially something hard like languages, you need to find a use that resonates with YOU and that makes sense to YOU. And you need to find a spot for it, or **make one**.
 
-Currently, for me with Spanish, that use is reading manwhas. I started a challenge with my brothers and in a week from now we will only be allowed to speak to each other using Spanish (at least that's the plan). [[UltraLearning\|UltraLearning]], amirite?
+Currently, for me with Spanish, that use is reading manwhas. I started a challenge with my brothers and in a week from now we will only be allowed to speak to each other using Spanish (at least that's the plan). [[1. Cosmos/UltraLearning\|UltraLearning]], amirite?
 
 But that's because it's what makes sense for ME.
 
