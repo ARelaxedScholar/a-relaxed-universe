@@ -4,7 +4,7 @@
 
 202405032345
 Status: #idea
-Tags: [[Natural Language Processing (NLP)\|Natural Language Processing (NLP)]]
+Tags: [[1. Cosmos/Natural Language Processing (NLP)\|Natural Language Processing (NLP)]]
 # Universal Language Model Fine-tuning (ULMFit
 This is brilliant technique that consists in fine-tuning a pretrained language model say [[BERT\|BERT]] on a dataset related to the task that you want to make it do, before actually training it for the task. 
 
