@@ -46,7 +46,7 @@ How do to the two aforementioned concepts relate to training a model.
 
 The idea is that [[2. White Holes/References/Practical Deep Learning for Coders\|Practical Deep Learning for Coders]] all [[Machine Learning\|Machine Learning]] is, is [[Curve-Fitting\|Curve-Fitting]]. How can I find the cuve that best models the observations I have. 
 
-The issue with most other methods is that they make assumptions about the shape of that curve, like the [[Assumption of Linearity\|Assumption of Linearity]] for [[Linear Regression\|Linear Regression]] models and because of that have a high [[Bias\|Bias]]. More importantly than that, each problem has its own function that models it, and that function can be arbitrarily complex. How painful would it be if you had to find that function by hand?
+The issue with most other methods is that they make assumptions about the shape of that curve, like the [[Assumption of Linearity\|Assumption of Linearity]] for [[1. Cosmos/Linear Regression\|Linear Regression]] models and because of that have a high [[Bias\|Bias]]. More importantly than that, each problem has its own function that models it, and that function can be arbitrarily complex. How painful would it be if you had to find that function by hand?
 
 This is where [[1. Cosmos/Neural Networks\|Neural Networks]] come into play.
 
