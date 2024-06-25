@@ -23,12 +23,12 @@ In R, we use cor.test
 ## The Harder Case
 Sadly, when we want to check for cases where we thing $\rho$ is different from $0$, we need to use a transformation. Indeed, if $H_0$ is $\rho=\rho_0 \ne 0$ , then we use:
 $$
-Z_{obs} = \frac{1}{2}[ln(1+r)-ln(1-r)] = \frac{1}{2}[ln(\frac{1+r}{1-r})\sim N(\mu_z; \frac{1}{n-3})]
+Z_{obs} = \frac{1}{2}[ln(1+r)-ln(1-r)] = \frac{1}{2}[ln(\frac{1+r}{1-r})]\sim N(\mu_z; \frac{1}{n-3})]
 $$
 Where $\mu_z$ is:
 $$
 \mu_z= \frac{1}{2}ln(\frac{1+\rho}{1-\rho})
 $$
 
-Besides the fact these formulas come from nowhere, since Z_obs is normally distributed, we can reject if $|Z_obs|>Z_{\frac{\alpha}{2}}$ 
+Besides the fact these formulas come from nowhere, since $Z_{obs}$ is normally distributed, we can reject if $|Z_{obs}|>Z_{\frac{\alpha}{2}}$ 
 ## References
