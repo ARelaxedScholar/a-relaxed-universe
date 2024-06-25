@@ -25,6 +25,11 @@ This definition makes use of what's called a [[1. Cosmos/Riemann-Stieltjes Integ
 Observe that the general form is the first equation, this form can be used for ANY cdf you toss at me, as in the worst case (if the cdf is not continuous) I can solve it by doing [[Integration by Parts\|integration by parts]], the latter two which are the equations we are typically given in [[1. Cosmos/Expected Value#Elementary Probability\|#Elementary Probability]] for continuous random variables. They are used when we are dealing with a [[1. Cosmos/Random Variable#Continuous Random Variables\|continuous random variable]] and therefore its [[1. Cosmos/Cumulative Density Function\|cumulative density function]] is continuous, most of the time the functions we deal with in such classes will be both continuous and differentiable. But this does not have to be the case.
 
 We can update the definition of variance in a similar fashion: [[1. Cosmos/Variance#In MAT3172\|Variance#In MAT3172]]
+
+Interestingly, if $F(x)$ is non-negative, we can compute the expected value as:
+$$
+E(X)=\intop_{0}^{\infty}(1-F(x))dx
+$$
 ## Properties
 1. $E(\sum c_iX_i) = \sum c_i E(X_i)$
 2. $X \leq Y \leq Z \implies E(X) \leq E(Y) \leq E(Z)$
