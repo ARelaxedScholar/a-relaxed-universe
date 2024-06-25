@@ -5,6 +5,7 @@
 202405182101
 Status: #idea
 Tags: [[1. Cosmos/Hypothesis Testing in Multiple Linear Regression\|Hypothesis Testing in Multiple Linear Regression]]
+![Pasted image 20240606180341.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240606180341.png)
 # Extra Sum of Squares Method
 This is a similar idea to what we do when we are [[1. Cosmos/Test on Significance of Model (Crucial to know, but in general we know that our model is significant.)\|checking significance of model]] except that instead of checking the full set of regressors at once with [[1. Cosmos/Analysis of Variance (ANOVA)\|Analysis of Variance (ANOVA)]], we select a subset of coefficients that we suspect might be useless and test them.
 
@@ -17,7 +18,7 @@ So our null hypothesis will essentially say that the restricted model is enough,
 
 From there we proceed.
 ## Method
-The idea is to split our $\beta$ vector into two parts, the part that we think is useful and that will encompass the restricted model, and the rest that will be added on top of the supposed useful part. You do not have to change the dimensions of the $\beta$ vector (even though you could, if you adjust everything else to match), all you need to do is to set those parameters to $0$. Why? Because we're doing linear combinations and setting those coefficients to 0 will nullify all the other terms.
+The idea is to split our $\beta$ vector into two parts, the part that we think is useful and that will encompass the restricted model, and the rest that will be added on top of the supposed useful part. You do not have to change the dimensions of the $\beta$ vector (even though you could, if you adjust everything else to match), all you need to do is to set those parameters to $0$. Why? Because we're doing linear combinations and setting those coefficients to 0 will nullify all the terms.
 
 In so doing, we effectively have two models to compare. And from these two models we can compute a $SSReg$ that gives us the amount of variation around the mean that is explained by the model. 
 
@@ -25,15 +26,17 @@ So we are comparing these models through their respective $SSReg$ which we obser
 
 By taking the difference between the $SSReg$ of the full model and the restricted model, we can numerically capture how much variance around the mean is explained by adding those new parameters. In other terms we can quantify the increase in explanatory power of our model. 
 
-This difference will have $(k-1)-(k-1-r)$ or in other terms $r$ degrees of freedom.
+This difference will have $(k-1)-(k-1-r)$ or in other terms $r$ degrees of freedom. Note that $k$ is the number of parameters in the full model, and $r$ is the number of parameters **excluded** from the restricted model; in other words the number of parameters of for which we doubt the usefulness.
 
-Note that the full model has $SSReg$ has $n-k$ degrees of freedom as we are used to.
+Note that the full model has $SSRes$ has $n-k$ degrees of freedom as we are used to.
 
 We now want to see how significant of a difference the added parameters make.
 
 As we often do in statistic, whenever we want to compare two things, and that those two things happen to be independently distributed according to a $\chi^2$, we can divide the two things (making sure to divide by the respective degree of freedoms beforehand) to obtain what's called a $F$-statistics, which will have the degree of freedoms of the numerator along one dimension, and the degree of freedom of the denominator across the other.
 
 If this F statistic is bigger than the appropriate $F_\alpha$ we will conclude that our idea that parameters were useless is false, and conclude that the full model is better in a statistically significant fashion. Else, we fail to reject the null hypothesis.
+
+After all, if the difference between the two models is not squashed to oblivion by dividing by MSE, it means that the full model has much more (statistically significantly more) explanatory power than the restricted model.
 ## Video Screenshots
 ![Pasted image 20240518213652.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240518213652.png)
 
