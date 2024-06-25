@@ -49,7 +49,7 @@ We define the covariance of some vector Y as:
 $$
 Cov(V) = E[(Y-E(Y))(Y-E(Y))^T] := \varSigma\
 $$
-The above is often referred to as the variance-covariance matrix.
+The above is often referred to as the variance-covariance matrix, because while it computes the covariance, since the covariance of a variable with itself is equal to it's variance, this matrix will contain the variance at diagonal entries, and the covariance at non-diagonal entries, hence variance-covariance. Note that this is a symmetric matrix.
 
 From there it follows that:
 $$
@@ -106,5 +106,32 @@ Except we don't really ever have $\sigma^2$ so instead we use the $MSE$ and have
 [[1. Cosmos/Test On Individual Regression Coefficient (Assuming We know our Model Is Significant)\|Test On Individual Regression Coefficient (Assuming We know our Model Is Significant)]]
 
 
+
+## Confidence Intervals
+### Confidence Interval for Individual Coefficients
+Are you able to do an hypothesis for individual coefficients? [[1. Cosmos/Adjusted Coefficient of Determination\|Adjusted Coefficient of Determination]]
+
+If so, your confidence interval is nothing more than:
+$$
+\beta_i \pm t_{\frac{\alpha}{2}; n-p}\sqrt{MSE[X^TX]_{ii}} \quad or \quad \beta_i \pm t_{\frac{\alpha}{2}; n-p}\sqrt{\hat \varSigma_{ii}}
+$$
+As is a theme in stats, since we do not know $\sigma^2$ we have to use estimates instead.
+*Recall that here, $\varSigma$ is the variance-covariance matrix of $\boldsymbol \beta$*
+### Confidence Interval for Mean Response
+Future me, you have a brain. So read this, and remember what it means. I ain't typing allat.
+![Pasted image 20240606165238.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240606165238.png)
+![Pasted image 20240606165215.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240606165215.png)
+### Confidence Interval for  Prediction of New Observations
+As usual our estimate is $Y_0=X_0^T\hat\beta$
+Then the confidence interval is simply:
+![Pasted image 20240606173027.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240606173027.png)
+
+Very much like the univariate case. 
+### Simultaneous Confidence Interval (Joint CI)
+ ![Pasted image 20240606175011.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240606175011.png)
+ Where $p$ is the number of parameters for which we want a confidence interval.
+ ![Pasted image 20240606175143.png](/img/user/3.%20Black%20Holes/Files/Pasted%20image%2020240606175143.png)
+ We get the standard deviations for each $\beta_j$ from the variance-covariance matrix of $\boldsymbol \beta$
+ 
 ## References
 [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]]
