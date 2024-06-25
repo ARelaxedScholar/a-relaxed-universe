@@ -6,6 +6,7 @@
 Status: #idea
 Tags: [[Probability\|Probability]]
 # Moment Generating Function
+It is a special case of the [[Characteristic Function\|Characteristic Function]].
 It is a function defined as:
 $$
 M_X(t)=E[e^{tx}] \text{, if } E(e^{tx}) < \infty \text{ for }t \in (-h,h)
