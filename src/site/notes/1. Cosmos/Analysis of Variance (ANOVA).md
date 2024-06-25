@@ -37,7 +37,7 @@ In the [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]] case, th
 Since we have a Fisher, and the Fisher is non-symmetric. We reject $H_0$ if the $F$ statistic is bigger than the $\alpha$ level. The bigger $F$ statistic is, the smaller $MSE$ the error of our model is compared to $MSR$ the deviation of the model from the means of $Y$. In other words, the model is useful to predict values. The smaller it is, the bigger the error is, and/or the smaller the deviation of the model from the mean in such a way that the coefficient is not much more useful than the mere mean line.
 
 ## Interval on Mean Response vs Interval on New Prediction
-The former is typically referred to as the [[Confidence Intervals\|Confidence Intervals]] and the latter as a [[1. Cosmos/Prediction Intervals\|Prediction Intervals]]. 
+The former is typically referred to as the [[1. Cosmos/Confidence Intervals\|Confidence Intervals]] and the latter as a [[1. Cosmos/Prediction Intervals\|Prediction Intervals]]. 
 
 While they are extremely similar, the nuance is really important. When doing an Interval on the Mean Response, we are using the model to predict what would be the average response at a given point. In other words, the variance of $Y$ at that point is inconsequential since the mean is fixed this leads to smaller error bounds. On the other hand for a prediction interval, while the point statistic is the same (since it uses the same estimator), the error becomes bigger because we HAVE to account for variation about the mean, and therefore have to make  the interval bigger to compensate for that variation.
 
