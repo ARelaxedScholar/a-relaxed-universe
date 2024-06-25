@@ -67,7 +67,7 @@ You get the gist. I will only go so far as I feel like I need.
 [[2. White Holes/References/Understanding Deep Learning\|Understanding Deep Learning]]
 #### Youtube 
 [[2. White Holes/References/Bright Side Of Mathematics ~ Measure Theory\|Bright Side Of Mathematics ~ Measure Theory]]
-[[2. White Holes/References/Mike Winger ~ Bible - Romans\|Mike Winger ~ Bible - Romans]]
+[[1. Cosmos/Mike Winger ~ Bible - Romans\|Mike Winger ~ Bible - Romans]]
 [[2. White Holes/References/NPTEL ~ Probability Foundation for Electrical Engineers\|NPTEL ~ Probability Foundation for Electrical Engineers]]
 [[2. White Holes/References/StatQuest ~ Machine Learning\|StatQuest ~ Machine Learning]]
 [[2. White Holes/References/StatQuest ~ Neural Networks ! Deep Learning\|StatQuest ~ Neural Networks ! Deep Learning]]
