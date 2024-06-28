@@ -4,9 +4,10 @@
 
 202406240015
 Status: #idea
-Tags: [[Songs\|Songs]]
+Tags: [[1. Cosmos/Songs ~ Pop\|Songs ~ Pop]]
 State: #nascient
 # Kamikamen ~ Fear and Loating in Las Vegas
+https://www.youtube.com/watch?v=nv-HqdZM7lk
 (Properly split the song into song part, copy King song structure)
 Blood thumping through my veins.
 My stomach still growing when I inhale
@@ -42,7 +43,7 @@ Won't be mocked, nor remembered, that's for sure. (Yeah!)
 # Bridge (1:35)
 I see the sun, shining so bright | I am here down low.
 Arose from... my slumber |  I am just the snow.
-I wanted to take my time, want to take it slow
+I want to take my time, want to take it slow
 But the clock ticks, tocks and the time follows.
 
 Leaving me behind, like I'm a ghost. Like I am a ghost. Like I am ghost.
@@ -65,5 +66,5 @@ Haha, I lied. | If I am living this way, then I died. (Oh)
 Drowning unrest and loathing with laziness.
 Thrashing self-respect and your life.
 You'll live to regret it, I can assure (but)
-Won't be mocked, nor remembered, that's for sure.
+we'll all die anyway, give it a shot.
 ## References
