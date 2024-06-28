@@ -144,7 +144,8 @@ END
 
 START
 Cloze
-The {{c1::Variance Inflation Factor (VIF)}} is used to detect multicollinearity and is calculated as {{c2::$\text{VIF} = \frac{1}{1-R^2}$}}, where $R^2$ is the {{c3::coefficient of determination for the regression}} of one predictor on the other predictors.
+The {{c1::Variance Inflation Factor (VIF)}} is used to detect multicollinearity and is calculated as {{c2::$\text{VIF} = \frac{1}{1-R_i^2}$}}, where $R_i
+^2$ is the {{c3::coefficient of determination for the regression}} of one predictor 9$x_i$ on the all other predictors.
 Back Extra:
 Tags: mat3375, ai-generated
 <!--ID: 1718463488308-->
