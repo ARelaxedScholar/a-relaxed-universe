@@ -5,7 +5,7 @@
 
 202406241613
 Status: #idea
-Tags: 
+Tags: [[1. Cosmos/Songs ~ Pop\|Songs ~ Pop]]
 State: #nascient
 # I want to support you
 (0:12)
@@ -44,11 +44,11 @@ You bore the weight, I held your hand.
 A smile on both of o-u-r faces, as we-e went. Didn't know what that face meant.
 
 But it's clear now, that I should have known.
-Recognized the signs you shown, oh yeah,  you shone.
+Recognized all the signs you shown, oh yeah,  you shone.
 Oh damned me, I should have known.
 
 A mask of confidence. A fool that's lost in the dance.
-I couldn't be there for you, I was your unraveling.
+I couldn't be there| for you| I was your unravelling.
 
 Oh. 
 
