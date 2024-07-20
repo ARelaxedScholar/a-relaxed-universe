@@ -66,5 +66,5 @@ Haha, I lied. | If I am living this way, then I died. (Oh)
 Drowning unrest and loathing with laziness.
 Thrashing self-respect and your life.
 You'll live to regret it, I can assure (but)
-we'll all die anyway, give it a shot.
+If you're dead, might as well just be a bot.
 ## References
