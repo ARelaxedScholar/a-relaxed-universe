@@ -42,4 +42,6 @@ I imagine that even that will probably stretch over a few months, assuming that 
 I want support for the aforementioned format, pdf/epub/html. With the ability to store, read, annotate and extract snippets. I should be able to store all my files in one place.
 
 [[1. Cosmos/Day 1 ~ Backend File Management\|Day 1 ~ Backend File Management]]
+[[1. Cosmos/Day 2 ~ Exploring the field\|Day 2 ~ Exploring the field]]
+[[1. Cosmos/Day 3 ~ Probably Leave PDF aside for now\|Day 3 ~ Probably Leave PDF aside for now]]
 ## References
