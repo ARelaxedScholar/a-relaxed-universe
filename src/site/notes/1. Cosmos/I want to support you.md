@@ -2,11 +2,11 @@
 {"dg-publish":true,"permalink":"/1-cosmos/i-want-to-support-you/"}
 ---
 
-
+  
 202406241613
 Status: #idea
 Tags: [[1. Cosmos/Songs ~ Pop\|Songs ~ Pop]]
-State: #nascient
+State: #mature
 # I want to support you
 (0:12)
 Wednesday, I knew you weren't okay
