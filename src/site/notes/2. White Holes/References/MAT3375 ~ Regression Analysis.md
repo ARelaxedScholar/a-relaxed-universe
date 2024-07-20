@@ -89,6 +89,6 @@ Depending of what assumptions were broken, we will need to use different methods
 This lecture is fully about weighted least squares, a method that is used when we the variance is not constant. In other words, we use it when the homoscedastitcity assumption is broken.
 
 ### Lesson Points
-[[Weighted Least Squares (Generalized Least Squares)\|Weighted Least Squares (Generalized Least Squares)]]
+[[1. Cosmos/Weighted Least Squares (Generalized Least Squares)\|Weighted Least Squares (Generalized Least Squares)]]
 ## References
 [[1. Cosmos/MAT3375 ~ Flashcards\|MAT3375 ~ Flashcards]]
