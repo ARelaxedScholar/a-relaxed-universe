@@ -4,7 +4,7 @@
 
 202405200148
 Status: #idea
-Tags: [[Mini-Essay\|Mini-Essay]], [[Deep Learning\|Deep Learning]]
+Tags: [[1. Cosmos/Mini-Essay\|Mini-Essay]], [[Deep Learning\|Deep Learning]]
 # Why ChatGPT Tweaks So Much, Maybe? Idk
 *This is pure speculation, and I did not have time to verify it yet. Will get to it when I get to it. I also wrote most of that at 2am hence the incoherence of certain sentences, when I edit this, I'll label it for posterity.*
 
