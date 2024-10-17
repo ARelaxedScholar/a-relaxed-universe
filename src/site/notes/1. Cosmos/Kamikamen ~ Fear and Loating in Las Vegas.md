@@ -8,7 +8,6 @@ Tags: [[1. Cosmos/Songs ~ Pop\|Songs ~ Pop]]
 State: #nascient
 # Kamikamen ~ Fear and Loating in Las Vegas
 https://www.youtube.com/watch?v=nv-HqdZM7lk
-(Properly split the song into song part, copy King song structure)
 Blood thumping through my veins.
 My stomach still growing when I inhale
 I lost my way to a white cell.
@@ -28,18 +27,20 @@ Answer my prayer, I want to return
 To Neverland
 
 I lost a bet a while ago.
-The price was self-respect, debt I still owe.
-Melting away, I am just the snow.
+The price was self respect, debt I still owe
+Withering away, I am just the snow.
  
 # Chorus
-Drowning unrest and loathing with laziness.
-Can't fail, if I never tried, 
-I won this game. 
-Haha, I lied | If I am to live this way, it means I died.
-Drowning unrest and loathing with laziness.
-Trading self-respect for your pride.
-A cheap shot, but one with a certain allure
-Won't be mocked, nor remembered, that's for sure. (Yeah!)
+The pain, the fear, the guilt, (yeah) they're my weak-uh-ness
+I stormed in hell for those that died.
+If not for pride, she'd still be my side (oh)
+If not for my pride, she'd still be alive (so)
+
+Spectres haunting my mind, makin me delirious
+Ether is (Etherious) a hell of a drug.
+Flying too close to the flames, a boy, a bug (oh)
+Death's a sly mistres-, "why not die in a buzz?"
+
 # Bridge (1:35)
 I see the sun, shining so bright | I am here down low.
 Arose from... my slumber |  I am just the snow.
@@ -51,7 +52,7 @@ Leaving me behind, like I'm a ghost. Like I am a ghost. Like I am ghost.
 The highs and lows, the pains and throes
 A little snowflake, died of an overdose.
 I was not special after all. 
-Just to hang on, got addicted to adder-all.
+My boundless confidence in the end caused her fall.
 
 A scentless rose, a dirty snow, a wingless bird,
 What else I don't know.
@@ -59,12 +60,14 @@ What else I don't know.
 Next winter I'll return, yeah, I'll be stronger.
 
 # Chorus (2:07)
-Drowning unrest and loathing with laziness.
-Can't fail, if I never tried, 
-I won this game. 
-Haha, I lied. | If I am living this way, then I died. (Oh)
-Drowning unrest and loathing with laziness.
-Thrashing self-respect and your life.
-You'll live to regret it, I can assure (but)
-If you're dead, might as well just be a bot.
+The pain, the fear, the guilt, (yeah) they're my wit-uh-ness
+I stormed in hell for those that died.
+If not for pride, she'd still be my side (oh)
+If not for my pride, she'd still be alive (so)
+
+Spectres haunting my mind, but I’m furious  
+Ether is (Etherious) a hell of a drug.  
+Rising from frost and flames, I’ve killed the bug (oh)  
+Winter’s my season; I'll be victorious 
+
 ## References
