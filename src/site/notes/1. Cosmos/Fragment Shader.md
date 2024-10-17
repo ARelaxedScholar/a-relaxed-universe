@@ -8,7 +8,7 @@ Tags: [[Computer Graphics\|Computer Graphics]]
 State: #nascient
 # Fragment Shader
 
-![Pasted image 20230729172828.png](/img/user/The%20Vault/Media/Pasted%20image%2020230729172828.png)
+![[Pasted image 20230729172828.png\|Pasted image 20230729172828.png]]
 This is where we set the color of each fragment.
 There is a lot more complexity behind the hood, but yeah, that's basically what this does.
 
