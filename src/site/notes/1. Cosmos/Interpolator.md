@@ -14,7 +14,7 @@ It does the job of smoothing the transition between two vertices, no matter what
 
 ## Barycentric Interpolation
 Just an interpolation between 3 vertices.
-![Pasted image 20230729173904.png](/img/user/The%20Vault/Media/Pasted%20image%2020230729173904.png)
+![[Pasted image 20230729173904.png\|Pasted image 20230729173904.png]]
 
 
 ## References
