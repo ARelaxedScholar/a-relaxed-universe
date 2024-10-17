@@ -9,7 +9,7 @@ State: #nascient
 # Inverted Spectrum Problem
 
 Everyone can see colors.
-![Pasted image 20231015152517.png](/img/user/The%20Vault/Pasted%20image%2020231015152517.png)
+![[Pasted image 20231015152517.png\|Pasted image 20231015152517.png]]
 Imagine we flip the spectrum of colors, and one person sees the colors following the original spectrum and the second sees the second inverted spectrum.
 
 Since from the beginning of their life, they are raised to know what each colors are (even though they see perfectly distinct and different colors) to be the same thing, then in if that were to happen, we'd have no way to know which spectrum they're seeing.
