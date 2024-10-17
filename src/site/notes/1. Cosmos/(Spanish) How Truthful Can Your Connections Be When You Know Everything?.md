@@ -4,7 +4,7 @@
 
 202405232203
 Status: #idea
-Tags: [[Mini-Essay\|Mini-Essay]], [[Webtoon\|Webtoon]], [[Spanish\|Spanish]]
+Tags: [[1. Cosmos/Mini-Essay\|Mini-Essay]], [[Webtoon\|Webtoon]], [[Spanish\|Spanish]]
 State : #nascient
 # How Truthful Can Your Connections Be When You Know Everything?
 Voy a escribir este articulo en español, no porque soy tan bueno. al contrario ser para practicar. Hoy he gasté un considerable parte del dia a leer el manwha que se llama ´Lector ominsiente´, un manwha que trata a Kim Dokja y a sus aventuras en un mundo que enfrenta el fin del mundo.
