@@ -4,7 +4,7 @@
 
 202405200107
 Status: #idea
-Tags: [[Mini-Essay\|Mini-Essay]], [[About Language Learning\|About Language Learning]]
+Tags: [[1. Cosmos/Mini-Essay\|Mini-Essay]], [[About Language Learning\|About Language Learning]]
 # Mini-Essay ~ The Importance of Boxing Things (Language Learning)
 
 So recently, I have been slacking a bit with my language learning, and as I was working on that made an unexpected breakthrough.
