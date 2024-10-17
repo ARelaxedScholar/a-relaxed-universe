@@ -49,7 +49,20 @@ Tomorrow's here, the night's still young.
 [1:33]
 I remember, memories so tender.
 Oh how I long, the way we used to banter [around the fire]
-Sitting alone, a moonless night. If you're not with me
+Sitting all alone, a moonless night. 
+Aiming for the stars, it seems that I lost my light.
 
+I-I-I killed our dream, to catch the stars.
+Killed our dreams, to chase waggons
+Tomorrow's here, but the sun is gone, (oh).
 
+Been dreaming bout strolls in a nice car, where would I go? Didn't think that far.
+Ghosts of a glorious past, galloping towards the future.
+Big dreams contained in a jar, the train already left. Au revoir.
+Still wish you'd have come to see me, leave. 
+
+Been dreaming bout strolls in a nice car, where would I go? Didn't think that far.
+Didn't think I'd leave behind my home, behind my heart.
+Big dreams contained in a jar, the train already left. Cest trop tard.
+Still wish you'd have come to see me, leave. 
 ## References
