@@ -56,7 +56,7 @@ $$
 Cov(AY)=A\varSigma A^T
 $$
 
-## [[1. Cosmos/Multivariate Normal\|Multivariate Normal]]
+## [[Multivariate Normal\|Multivariate Normal]]
 We already know that in the univariate case, a random variable $X$ is said to be normally distributed if it's pdf is :
 $$
 f_X = \frac{1}{\sigma\sqrt{2\pi}}exp(\frac{-(x-\mu)^2}{\sigma^2})
@@ -100,7 +100,7 @@ Typically we know that the model is significant, simply from looking at the data
 
 But the issue is that the previous test only tells us that some $\beta_i$ is not $0$, it does not tell us anything about which specifically it is. Therefore, we're going to want to check individual parameters.
 
-It is not scary, it's pretty much the same thing as the [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]] case. We know that $Y$ is distributed according to a [[1. Cosmos/Multivariate Normal\|Multivariate Normal]]. Since $Y$ is nothing more than a linear combination of the $\beta_i$'s it follows that they are all distributed according to a $N(\mu, \sigma^2)$, so by standardizing we get $N(0,1)$ and then we take a test.
+It is not scary, it's pretty much the same thing as the [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]] case. We know that $Y$ is distributed according to a [[Multivariate Normal\|Multivariate Normal]]. Since $Y$ is nothing more than a linear combination of the $\beta_i$'s it follows that they are all distributed according to a $N(\mu, \sigma^2)$, so by standardizing we get $N(0,1)$ and then we take a test.
 
 Except we don't really ever have $\sigma^2$ so instead we use the $MSE$ and have to use a $t-$distribution with the suitable degrees of freedom.
 [[1. Cosmos/Test On Individual Regression Coefficient (Assuming We know our Model Is Significant)\|Test On Individual Regression Coefficient (Assuming We know our Model Is Significant)]]
