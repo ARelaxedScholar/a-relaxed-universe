@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/rss/"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/rss/","created":"2024-08-31T23:47:16.632-04:00","updated":"2024-07-20T03:57:45.548-04:00"}
 ---
 
 202407200357
