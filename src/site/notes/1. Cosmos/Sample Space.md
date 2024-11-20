@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/sample-space/"}
+{"dg-publish":true,"permalink":"/1-cosmos/sample-space/","created":"2024-08-31T23:47:13.751-04:00","updated":"2024-05-24T08:58:46.503-04:00"}
 ---
 
 202405240846
