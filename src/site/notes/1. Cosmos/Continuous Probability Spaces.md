@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/continuous-probability-spaces/"}
+{"dg-publish":true,"permalink":"/1-cosmos/continuous-probability-spaces/","created":"2024-08-31T23:47:13.859-04:00","updated":"2024-05-29T12:01:26.136-04:00"}
 ---
 
 202405211543
