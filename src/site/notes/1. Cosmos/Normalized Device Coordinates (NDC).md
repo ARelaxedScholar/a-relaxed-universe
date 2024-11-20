@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/normalized-device-coordinates-ndc/"}
+{"dg-publish":true,"permalink":"/1-cosmos/normalized-device-coordinates-ndc/","created":"2024-08-31T23:47:14.904-04:00","updated":"2024-07-20T03:53:01.221-04:00"}
 ---
 
 202407200352
