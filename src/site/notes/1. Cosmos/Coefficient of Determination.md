@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/coefficient-of-determination/"}
+{"dg-publish":true,"permalink":"/1-cosmos/coefficient-of-determination/","created":"2024-08-31T23:47:13.924-04:00","updated":"2024-05-20T00:56:34.060-04:00"}
 ---
 
 
