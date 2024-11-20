@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/random-variable/"}
+{"dg-publish":true,"permalink":"/1-cosmos/random-variable/","created":"2024-08-31T23:47:13.736-04:00","updated":"2024-05-30T13:43:47.626-04:00"}
 ---
 
 202405171700
