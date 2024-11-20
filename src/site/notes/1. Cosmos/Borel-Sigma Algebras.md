@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/borel-sigma-algebras/"}
+{"dg-publish":true,"permalink":"/1-cosmos/borel-sigma-algebras/","created":"2024-08-31T23:47:13.662-04:00","updated":"2024-05-29T12:01:25.900-04:00"}
 ---
 
  202405211429
