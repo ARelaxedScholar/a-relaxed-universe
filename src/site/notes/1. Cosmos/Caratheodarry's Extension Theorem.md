@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/caratheodarry-s-extension-theorem/"}
+{"dg-publish":true,"permalink":"/1-cosmos/caratheodarry-s-extension-theorem/","created":"2024-08-31T23:47:13.672-04:00","updated":"2024-05-29T12:01:25.970-04:00"}
 ---
 
 202405211636
