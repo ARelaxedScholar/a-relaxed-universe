@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/stat-quest-neural-networks-deep-learning/"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/stat-quest-neural-networks-deep-learning/","created":"2024-08-31T23:47:16.627-04:00","updated":"2024-05-22T02:07:00.968-04:00"}
 ---
 
 202405220204
