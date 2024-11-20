@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/probability-density-functions/"}
+{"dg-publish":true,"permalink":"/1-cosmos/probability-density-functions/","created":"2024-08-31T23:47:13.553-04:00","updated":"2024-05-30T13:16:45.287-04:00"}
 ---
 
 202405301312
