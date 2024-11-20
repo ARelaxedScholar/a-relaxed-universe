@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/eigenvector/"}
+{"dg-publish":true,"permalink":"/1-cosmos/eigenvector/","created":"2024-08-31T23:47:14.995-04:00","updated":"2024-07-20T03:44:55.477-04:00"}
 ---
 
 202407200344
