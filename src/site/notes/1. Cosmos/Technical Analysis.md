@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/technical-analysis/"}
+{"dg-publish":true,"permalink":"/1-cosmos/technical-analysis/","created":"2024-09-06T13:24:03.034-04:00","updated":"2024-09-06T20:07:30.948-04:00"}
 ---
 
 202409062000
