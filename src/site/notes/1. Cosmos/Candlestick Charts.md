@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/candlestick-charts/"}
+{"dg-publish":true,"permalink":"/1-cosmos/candlestick-charts/","created":"2024-09-06T20:02:22.051-04:00","updated":"2024-09-06T20:10:28.291-04:00"}
 ---
 
 202409062002
