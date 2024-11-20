@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/moment-generating-function/"}
+{"dg-publish":true,"permalink":"/1-cosmos/moment-generating-function/","created":"2024-08-31T23:47:13.987-04:00","updated":"2024-06-17T17:23:53.986-04:00"}
 ---
 
 202405232040
