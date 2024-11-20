@@ -4,7 +4,7 @@
 
 202406132307
 Status: #idea
-Tags: [[Artifical Intelligence\|Artifical Intelligence]], [[My Youtube Essays\|My Youtube Essays]]
+Tags: [[Artifical Intelligence\|Artifical Intelligence]], [[1. Cosmos/My Youtube Essays\|My Youtube Essays]]
 State: #nascient
 # The AI Apocalypse, and Why in hindsight I do not care...
 
