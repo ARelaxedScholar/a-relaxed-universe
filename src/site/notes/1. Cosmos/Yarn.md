@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/yarn/"}
+{"dg-publish":true,"permalink":"/1-cosmos/yarn/","created":"2024-08-31T23:47:14.701-04:00","updated":"2024-07-20T03:16:27.684-04:00"}
 ---
 
 202407200316
