@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-spiral-tower-the-story-of-how-i-became-a-god/the-spiral-tower-the-story-of-how-i-became-a-god/"}
+{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-spiral-tower-the-story-of-how-i-became-a-god/the-spiral-tower-the-story-of-how-i-became-a-god/","created":"2024-08-31T23:47:17.636-04:00","updated":"2024-05-20T02:58:29.006-04:00"}
 ---
 
 Status: #ongoing
