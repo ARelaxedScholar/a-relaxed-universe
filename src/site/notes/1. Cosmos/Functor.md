@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/functor/"}
+{"dg-publish":true,"permalink":"/1-cosmos/functor/","created":"2024-08-31T23:47:14.825-04:00","updated":"2024-07-20T03:50:39.986-04:00"}
 ---
 
 202407200350
