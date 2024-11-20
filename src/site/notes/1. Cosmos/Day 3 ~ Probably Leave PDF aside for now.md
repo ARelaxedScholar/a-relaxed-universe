@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/day-3-probably-leave-pdf-aside-for-now/"}
+{"dg-publish":true,"permalink":"/1-cosmos/day-3-probably-leave-pdf-aside-for-now/","created":"2024-08-31T23:47:14.134-04:00","updated":"2024-07-02T23:19:59.898-04:00"}
 ---
 
 202407021520
