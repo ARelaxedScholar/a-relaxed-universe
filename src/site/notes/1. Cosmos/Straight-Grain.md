@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/straight-grain/"}
+{"dg-publish":true,"permalink":"/1-cosmos/straight-grain/","created":"2024-08-31T23:47:14.612-04:00","updated":"2024-07-20T03:15:51.947-04:00"}
 ---
 
 202407200315
