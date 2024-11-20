@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/physical-world-and-spiritual-world/"}
+{"dg-publish":true,"permalink":"/1-cosmos/physical-world-and-spiritual-world/","created":"2024-08-31T23:47:14.707-04:00","updated":"2024-07-20T03:03:59.253-04:00"}
 ---
 
 202407200302
