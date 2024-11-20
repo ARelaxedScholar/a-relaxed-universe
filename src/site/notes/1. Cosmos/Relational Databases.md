@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/relational-databases/"}
+{"dg-publish":true,"permalink":"/1-cosmos/relational-databases/","created":"2024-08-31T23:47:14.962-04:00","updated":"2024-07-20T03:37:44.883-04:00"}
 ---
 
 202407200337
