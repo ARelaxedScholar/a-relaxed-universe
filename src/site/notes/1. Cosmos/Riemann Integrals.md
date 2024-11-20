@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/riemann-integrals/"}
+{"dg-publish":true,"permalink":"/1-cosmos/riemann-integrals/","created":"2024-08-31T23:47:13.628-04:00","updated":"2024-05-30T13:20:42.023-04:00"}
 ---
 
 202405301317
