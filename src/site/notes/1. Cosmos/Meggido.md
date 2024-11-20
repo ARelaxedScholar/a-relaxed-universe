@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/meggido/"}
+{"dg-publish":true,"permalink":"/1-cosmos/meggido/","created":"2024-08-31T23:47:14.607-04:00","updated":"2024-07-20T03:05:30.064-04:00"}
 ---
 
 #permanent
