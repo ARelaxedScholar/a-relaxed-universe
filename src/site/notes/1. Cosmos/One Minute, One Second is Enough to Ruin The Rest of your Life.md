@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/one-minute-one-second-is-enough-to-ruin-the-rest-of-your-life/"}
+{"dg-publish":true,"permalink":"/1-cosmos/one-minute-one-second-is-enough-to-ruin-the-rest-of-your-life/","created":"2024-08-31T23:47:15.058-04:00","updated":"2024-07-20T03:35:37.033-04:00"}
 ---
 
 202407200335
