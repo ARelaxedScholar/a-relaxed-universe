@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/bright-side-of-mathematics-measure-theory/"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/bright-side-of-mathematics-measure-theory/","created":"2024-08-31T23:47:16.573-04:00","updated":"2024-05-23T22:01:00.723-04:00"}
 ---
 
 202405232057
