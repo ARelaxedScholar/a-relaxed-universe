@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/chebyshev-s-inequality/"}
+{"dg-publish":true,"permalink":"/1-cosmos/chebyshev-s-inequality/","created":"2024-08-31T23:47:13.497-04:00","updated":"2024-05-30T21:24:07.469-04:00"}
 ---
 
 202405302108
