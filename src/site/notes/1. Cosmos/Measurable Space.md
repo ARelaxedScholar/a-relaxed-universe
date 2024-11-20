@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/measurable-space/"}
+{"dg-publish":true,"permalink":"/1-cosmos/measurable-space/","created":"2024-08-31T23:47:14.004-04:00","updated":"2024-05-29T12:01:26.476-04:00"}
 ---
 
 202405240848
