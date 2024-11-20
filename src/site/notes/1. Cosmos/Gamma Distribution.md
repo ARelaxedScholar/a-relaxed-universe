@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/gamma-distribution/"}
+{"dg-publish":true,"permalink":"/1-cosmos/gamma-distribution/","created":"2024-08-31T23:47:13.981-04:00","updated":"2024-05-31T08:17:27.490-04:00"}
 ---
 
 202405310815
