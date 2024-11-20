@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/stuff-about-fire-and-jesus/"}
+{"dg-publish":true,"permalink":"/1-cosmos/stuff-about-fire-and-jesus/","created":"2024-08-31T23:47:14.713-04:00","updated":"2024-07-20T03:06:18.081-04:00"}
 ---
 
 202407200306
