@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-method-of-least-squares-in-simple-linear-regression/"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-method-of-least-squares-in-simple-linear-regression/","created":"2024-08-31T23:47:13.892-04:00","updated":"2024-06-14T09:50:51.596-04:00"}
 ---
 
 202405202143
