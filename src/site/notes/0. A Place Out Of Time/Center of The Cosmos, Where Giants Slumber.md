@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2024-08-31T23:47:13.017-04:00","updated":"2024-10-17T11:38:52.257-04:00"}
 ---
 
 *Date of Creation: Beginning of the Universe*
