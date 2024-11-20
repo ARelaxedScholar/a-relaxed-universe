@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/diffuse-textures/"}
+{"dg-publish":true,"permalink":"/1-cosmos/diffuse-textures/","created":"2024-08-31T23:47:14.853-04:00","updated":"2024-07-20T03:52:07.741-04:00"}
 ---
 
 202407200351
