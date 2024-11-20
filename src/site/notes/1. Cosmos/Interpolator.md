@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/interpolator/"}
+{"dg-publish":true,"permalink":"/1-cosmos/interpolator/","created":"2024-08-31T23:47:14.898-04:00","updated":"2024-07-20T03:52:38.793-04:00"}
 ---
 
 202407200352
