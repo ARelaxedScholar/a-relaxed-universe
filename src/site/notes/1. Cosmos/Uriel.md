@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/uriel/"}
+{"dg-publish":true,"permalink":"/1-cosmos/uriel/","created":"2024-08-31T23:47:14.185-04:00","updated":"2024-07-02T15:20:00.255-04:00"}
 ---
 
 
