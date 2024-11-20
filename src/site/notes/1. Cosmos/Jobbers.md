@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/jobbers/"}
+{"dg-publish":true,"permalink":"/1-cosmos/jobbers/","created":"2024-08-31T23:47:14.650-04:00","updated":"2024-07-20T03:14:48.553-04:00"}
 ---
 
 202407200314
