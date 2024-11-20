@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/vertical-mills/"}
+{"dg-publish":true,"permalink":"/1-cosmos/vertical-mills/","created":"2024-08-31T23:47:14.690-04:00","updated":"2024-07-20T03:16:03.614-04:00"}
 ---
 
 202407200315
