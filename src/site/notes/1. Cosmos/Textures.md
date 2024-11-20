@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/textures/"}
+{"dg-publish":true,"permalink":"/1-cosmos/textures/","created":"2024-08-31T23:47:14.892-04:00","updated":"2024-07-20T03:53:38.432-04:00"}
 ---
 
 202407200353
