@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/cauchy-schwarz-s-inequality/"}
+{"dg-publish":true,"permalink":"/1-cosmos/cauchy-schwarz-s-inequality/","created":"2024-08-31T23:47:13.558-04:00","updated":"2024-05-30T23:11:12.077-04:00"}
 ---
 
 202405302242
