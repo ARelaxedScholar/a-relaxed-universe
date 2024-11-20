@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/natural-transformation/"}
+{"dg-publish":true,"permalink":"/1-cosmos/natural-transformation/","created":"2024-08-31T23:47:14.758-04:00","updated":"2024-07-20T03:49:31.743-04:00"}
 ---
 
 202407200349
