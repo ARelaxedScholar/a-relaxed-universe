@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/expected-value/"}
+{"dg-publish":true,"permalink":"/1-cosmos/expected-value/","created":"2024-08-31T23:47:13.883-04:00","updated":"2024-06-17T17:23:34.369-04:00"}
 ---
 
 202405031126
