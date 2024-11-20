@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/computer-organization/"}
+{"dg-publish":true,"permalink":"/1-cosmos/computer-organization/","created":"2024-08-31T23:47:14.951-04:00","updated":"2024-07-20T03:36:26.592-04:00"}
 ---
 
 202407200336
