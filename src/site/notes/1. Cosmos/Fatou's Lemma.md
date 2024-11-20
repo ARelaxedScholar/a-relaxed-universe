@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/fatou-s-lemma/"}
+{"dg-publish":true,"permalink":"/1-cosmos/fatou-s-lemma/","created":"2024-08-31T23:47:13.708-04:00","updated":"2024-05-29T17:35:36.502-04:00"}
 ---
 
 202405291517
