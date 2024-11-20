@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/inverted-spectrum-problem/"}
+{"dg-publish":true,"permalink":"/1-cosmos/inverted-spectrum-problem/","created":"2024-08-31T23:47:14.781-04:00","updated":"2024-07-20T03:50:16.367-04:00"}
 ---
 
 202407200349
