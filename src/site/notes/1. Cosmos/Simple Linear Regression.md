@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/simple-linear-regression/"}
+{"dg-publish":true,"permalink":"/1-cosmos/simple-linear-regression/","created":"2024-08-31T23:47:13.585-04:00","updated":"2024-05-20T21:41:32.760-04:00"}
 ---
 
 202405031405
