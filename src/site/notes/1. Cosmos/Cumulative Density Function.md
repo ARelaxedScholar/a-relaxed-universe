@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/cumulative-density-function/"}
+{"dg-publish":true,"permalink":"/1-cosmos/cumulative-density-function/","created":"2024-08-31T23:47:13.956-04:00","updated":"2024-06-03T16:31:25.510-04:00"}
 ---
 
 202405301238
