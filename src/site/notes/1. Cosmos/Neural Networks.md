@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/neural-networks/"}
+{"dg-publish":true,"permalink":"/1-cosmos/neural-networks/","created":"2024-08-31T23:47:13.536-04:00","updated":"2024-05-22T02:05:39.979-04:00"}
 ---
 
 202405220058
