@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/loss/"}
+{"dg-publish":true,"permalink":"/1-cosmos/loss/","created":"2024-08-31T23:47:14.145-04:00","updated":"2024-05-20T21:40:29.243-04:00"}
 ---
 
 202405031413
