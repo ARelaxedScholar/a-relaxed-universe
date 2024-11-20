@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/kamikamen-fear-and-loating-in-las-vegas/"}
+{"dg-publish":true,"permalink":"/1-cosmos/kamikamen-fear-and-loating-in-las-vegas/","created":"2024-08-31T23:47:14.052-04:00","updated":"2024-08-30T17:25:00.143-04:00"}
 ---
 
 202406240015
