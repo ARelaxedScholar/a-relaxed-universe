@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/to-those-with-two-many-passions/"}
+{"dg-publish":true,"permalink":"/1-cosmos/to-those-with-two-many-passions/","created":"2024-08-31T23:47:13.703-04:00","updated":"2024-06-12T14:18:22.634-04:00"}
 ---
 
 202406121211
