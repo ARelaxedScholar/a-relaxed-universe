@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-method-of-least-squares/"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-method-of-least-squares/","created":"2024-08-31T23:47:13.902-04:00","updated":"2024-05-20T21:43:13.752-04:00"}
 ---
 
 202405202143
