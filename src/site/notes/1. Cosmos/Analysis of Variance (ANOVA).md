@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/analysis-of-variance-anova/"}
+{"dg-publish":true,"permalink":"/1-cosmos/analysis-of-variance-anova/","created":"2024-08-31T23:47:14.031-04:00","updated":"2024-06-06T13:11:22.011-04:00"}
 ---
 
 202406061224
