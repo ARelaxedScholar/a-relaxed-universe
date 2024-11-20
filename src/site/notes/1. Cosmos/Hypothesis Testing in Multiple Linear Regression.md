@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/hypothesis-testing-in-multiple-linear-regression/"}
+{"dg-publish":true,"permalink":"/1-cosmos/hypothesis-testing-in-multiple-linear-regression/","created":"2024-08-31T23:47:14.176-04:00","updated":"2024-05-20T21:40:10.463-04:00"}
 ---
 
 202405182027
