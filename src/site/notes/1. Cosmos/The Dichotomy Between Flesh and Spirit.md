@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-dichotomy-between-flesh-and-spirit/"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-dichotomy-between-flesh-and-spirit/","created":"2024-08-31T23:47:13.780-04:00","updated":"2024-05-23T00:57:42.345-04:00"}
 ---
 
 202405230023
