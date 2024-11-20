@@ -10,7 +10,7 @@ State: #nascient
 https://www.youtube.com/watch?v=eQQKF_Fz--w&list=PLSv5sHleBacO3E7LoejDuHXlVY09ewvtP
 
 (0:11)
-Remember glades, strong winds galloping right past us.
+Remember glades, strong winds running right past us.
 Back when, we didn't drive gas cars. 
 My eyes way up high, dreaming up stories.
 My eyes way up high, dreaming up stories.
@@ -41,7 +41,7 @@ Been a while, don't remember me stopping.
 
 When did I change? I don't recall? Should I blame puberty for it it all? 
 Back then, would have lost a leg, maybe my two feet, if it meant that I could draw longer.
-My interests changed, simple I know. Now bodied by an ARDUINO.
+My interests changed, simple I know. Can hear my father's "I told you so."
 Did I lose, you can pick or choose. Don't know how to feel. Let it simmer, till the feeling taste stronger. 
 
 Become stronger, just become stronger. You have to shoulder. (you have to stronger. yeah) 
