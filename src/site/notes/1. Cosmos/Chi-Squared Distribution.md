@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/chi-squared-distribution/"}
+{"dg-publish":true,"permalink":"/1-cosmos/chi-squared-distribution/","created":"2024-08-31T23:47:14.196-04:00","updated":"2024-05-31T09:04:26.310-04:00"}
 ---
 
 202405310819
