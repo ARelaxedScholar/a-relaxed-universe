@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/what-you-decree/"}
+{"dg-publish":true,"permalink":"/1-cosmos/what-you-decree/","created":"2024-10-18T07:32:16.022-04:00","updated":"2024-11-02T09:22:36.740-04:00"}
 ---
 
 202410180732
