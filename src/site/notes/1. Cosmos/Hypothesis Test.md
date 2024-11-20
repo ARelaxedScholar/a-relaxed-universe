@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/hypothesis-test/"}
+{"dg-publish":true,"permalink":"/1-cosmos/hypothesis-test/","created":"2024-08-31T23:47:13.842-04:00","updated":"2024-05-20T21:40:04.957-04:00"}
 ---
 
 202405181216
