@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/properties-of-least-square-estimators-in-slr/"}
+{"dg-publish":true,"permalink":"/1-cosmos/properties-of-least-square-estimators-in-slr/","created":"2024-08-31T23:47:13.961-04:00","updated":"2024-06-06T12:16:21.108-04:00"}
 ---
 
 202405161153
