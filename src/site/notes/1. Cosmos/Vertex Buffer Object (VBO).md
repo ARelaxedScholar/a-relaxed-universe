@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/vertex-buffer-object-vbo/"}
+{"dg-publish":true,"permalink":"/1-cosmos/vertex-buffer-object-vbo/","created":"2024-08-31T23:47:14.880-04:00","updated":"2024-07-20T03:53:56.828-04:00"}
 ---
 
 202407200353
