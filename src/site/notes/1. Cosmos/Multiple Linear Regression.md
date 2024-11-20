@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/multiple-linear-regression/"}
+{"dg-publish":true,"permalink":"/1-cosmos/multiple-linear-regression/","created":"2024-08-31T23:47:13.645-04:00","updated":"2024-06-06T17:52:10.034-04:00"}
 ---
 
 202405181928
