@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/masturbation-is-akin-to-idolatry/"}
+{"dg-publish":true,"permalink":"/1-cosmos/masturbation-is-akin-to-idolatry/","created":"2024-08-31T23:47:15.053-04:00","updated":"2024-07-20T03:34:46.753-04:00"}
 ---
 
  202407200334
