@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/measurable-maps/"}
+{"dg-publish":true,"permalink":"/1-cosmos/measurable-maps/","created":"2024-08-31T23:47:13.812-04:00","updated":"2024-05-23T22:00:06.316-04:00"}
 ---
 
 202405232128
