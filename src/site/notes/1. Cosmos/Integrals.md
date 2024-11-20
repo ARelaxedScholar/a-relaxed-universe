@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/integrals/"}
+{"dg-publish":true,"permalink":"/1-cosmos/integrals/","created":"2024-08-31T23:47:13.950-04:00","updated":"2024-05-31T14:09:47.023-04:00"}
 ---
 
 202405311400
