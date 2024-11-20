@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/set/"}
+{"dg-publish":true,"permalink":"/1-cosmos/set/","created":"2024-08-31T23:47:14.829-04:00","updated":"2024-07-20T03:49:20.306-04:00"}
 ---
 
 
