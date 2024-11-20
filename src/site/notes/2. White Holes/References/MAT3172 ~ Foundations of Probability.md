@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/mat-3172-foundations-of-probability/"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/mat-3172-foundations-of-probability/","created":"2024-08-31T23:47:16.567-04:00","updated":"2024-06-17T13:20:56.885-04:00"}
 ---
 
 h;=
