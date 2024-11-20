@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/normal-distribution/"}
+{"dg-publish":true,"permalink":"/1-cosmos/normal-distribution/","created":"2024-08-31T23:47:13.837-04:00","updated":"2024-06-02T21:27:17.910-04:00"}
 ---
 
 202405310836
