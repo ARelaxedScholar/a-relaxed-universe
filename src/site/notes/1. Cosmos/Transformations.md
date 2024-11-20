@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/transformations/"}
+{"dg-publish":true,"permalink":"/1-cosmos/transformations/","created":"2024-08-31T23:47:13.756-04:00","updated":"2024-06-07T14:57:52.249-04:00"}
 ---
 
 202406071418
