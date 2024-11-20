@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/yoneda-lemma/"}
+{"dg-publish":true,"permalink":"/1-cosmos/yoneda-lemma/","created":"2024-08-31T23:47:14.770-04:00","updated":"2024-07-20T03:48:36.668-04:00"}
 ---
 
 202407200348
