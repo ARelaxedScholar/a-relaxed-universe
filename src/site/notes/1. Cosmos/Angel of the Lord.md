@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/angel-of-the-lord/"}
+{"dg-publish":true,"permalink":"/1-cosmos/angel-of-the-lord/","created":"2024-08-31T23:47:15.006-04:00","updated":"2024-07-20T03:28:20.496-04:00"}
 ---
 
 202407200328
