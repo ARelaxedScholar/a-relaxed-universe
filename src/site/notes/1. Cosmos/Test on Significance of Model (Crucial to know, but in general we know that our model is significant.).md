@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/test-on-significance-of-model-crucial-to-know-but-in-general-we-know-that-our-model-is-significant/"}
+{"dg-publish":true,"permalink":"/1-cosmos/test-on-significance-of-model-crucial-to-know-but-in-general-we-know-that-our-model-is-significant/","created":"2024-08-31T23:47:13.762-04:00","updated":"2024-05-20T21:42:45.006-04:00"}
 ---
 
 202405202250
