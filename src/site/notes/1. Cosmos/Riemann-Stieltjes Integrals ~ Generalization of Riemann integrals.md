@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/riemann-stieltjes-integrals-generalization-of-riemann-integrals/"}
+{"dg-publish":true,"permalink":"/1-cosmos/riemann-stieltjes-integrals-generalization-of-riemann-integrals/","created":"2024-08-31T23:47:14.180-04:00","updated":"2024-05-30T13:30:19.578-04:00"}
 ---
 
 202405301320
