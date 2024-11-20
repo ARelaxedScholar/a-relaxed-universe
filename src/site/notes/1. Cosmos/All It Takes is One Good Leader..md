@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/all-it-takes-is-one-good-leader/"}
+{"dg-publish":true,"permalink":"/1-cosmos/all-it-takes-is-one-good-leader/","created":"2024-08-31T23:47:15.033-04:00","updated":"2024-07-20T03:27:54.601-04:00"}
 ---
 
 
