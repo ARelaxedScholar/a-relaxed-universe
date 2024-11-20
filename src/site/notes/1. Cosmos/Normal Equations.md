@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/normal-equations/"}
+{"dg-publish":true,"permalink":"/1-cosmos/normal-equations/","created":"2024-08-31T23:47:13.616-04:00","updated":"2024-05-20T21:40:59.513-04:00"}
 ---
 
 202405171731
