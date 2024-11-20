@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/axiom-of-choice/"}
+{"dg-publish":true,"permalink":"/1-cosmos/axiom-of-choice/","created":"2024-08-31T23:47:13.467-04:00","updated":"2024-05-24T09:16:33.796-04:00"}
 ---
 
 202405240908
