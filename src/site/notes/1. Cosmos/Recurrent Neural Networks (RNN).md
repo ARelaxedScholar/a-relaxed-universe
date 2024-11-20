@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/recurrent-neural-networks-rnn/"}
+{"dg-publish":true,"permalink":"/1-cosmos/recurrent-neural-networks-rnn/","created":"2024-09-18T19:55:18.041-04:00","updated":"2024-09-18T20:04:57.075-04:00"}
 ---
 
 202409181955
