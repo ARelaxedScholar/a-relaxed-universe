@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/stat-quest-machine-learning/"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/stat-quest-machine-learning/","created":"2024-08-31T23:47:16.609-04:00","updated":"2024-05-20T21:11:09.750-04:00"}
 ---
 
 dg-publish: true
