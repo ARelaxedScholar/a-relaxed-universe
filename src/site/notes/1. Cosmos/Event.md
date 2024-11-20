@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/event/"}
+{"dg-publish":true,"permalink":"/1-cosmos/event/","created":"2024-08-31T23:47:13.742-04:00","updated":"2024-05-29T17:47:53.957-04:00"}
 ---
 
 202405240847
