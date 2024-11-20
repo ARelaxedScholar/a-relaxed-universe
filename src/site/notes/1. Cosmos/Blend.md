@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/blend/"}
+{"dg-publish":true,"permalink":"/1-cosmos/blend/","created":"2024-08-31T23:47:14.747-04:00","updated":"2024-07-20T03:11:56.141-04:00"}
 ---
 
 202407200311
