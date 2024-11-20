@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/cross-grain/"}
+{"dg-publish":true,"permalink":"/1-cosmos/cross-grain/","created":"2024-08-31T23:47:14.602-04:00","updated":"2024-07-20T03:13:25.929-04:00"}
 ---
 
 202407200313
