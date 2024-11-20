@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/variance-stabilizing-transformations/"}
+{"dg-publish":true,"permalink":"/1-cosmos/variance-stabilizing-transformations/","created":"2024-08-31T23:47:13.888-04:00","updated":"2024-06-07T14:32:14.939-04:00"}
 ---
 
 202406071419
