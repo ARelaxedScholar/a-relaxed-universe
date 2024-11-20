@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-countable-intersection-of-sigma-algebras-is-always-a-sigma-algebra/"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-countable-intersection-of-sigma-algebras-is-always-a-sigma-algebra/","created":"2024-08-31T23:47:13.523-04:00","updated":"2024-05-21T15:30:14.199-04:00"}
 ---
 
 202405211529
