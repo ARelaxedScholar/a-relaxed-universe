@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/structured-squery-language-sql/"}
+{"dg-publish":true,"permalink":"/1-cosmos/structured-squery-language-sql/","created":"2024-08-31T23:47:13.869-04:00","updated":"2024-05-28T12:02:49.274-04:00"}
 ---
 
 202405281026
