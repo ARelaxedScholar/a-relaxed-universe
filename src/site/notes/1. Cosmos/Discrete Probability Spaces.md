@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/discrete-probability-spaces/"}
+{"dg-publish":true,"permalink":"/1-cosmos/discrete-probability-spaces/","created":"2024-08-31T23:47:13.697-04:00","updated":"2024-05-20T21:05:16.807-04:00"}
 ---
 
 dg-publish: true
