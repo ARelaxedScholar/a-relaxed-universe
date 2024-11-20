@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/general-relativity/"}
+{"dg-publish":true,"permalink":"/1-cosmos/general-relativity/","created":"2024-08-31T23:47:14.685-04:00","updated":"2024-07-20T03:01:25.975-04:00"}
 ---
 
 202407200300
