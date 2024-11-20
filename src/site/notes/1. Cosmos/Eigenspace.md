@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/eigenspace/"}
+{"dg-publish":true,"permalink":"/1-cosmos/eigenspace/","created":"2024-08-31T23:47:15.001-04:00","updated":"2024-08-30T18:14:52.352-04:00"}
 ---
 
 202407200344
