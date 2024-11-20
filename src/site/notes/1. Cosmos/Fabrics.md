@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/fabrics/"}
+{"dg-publish":true,"permalink":"/1-cosmos/fabrics/","created":"2024-08-31T23:47:14.659-04:00","updated":"2024-07-20T03:13:55.742-04:00"}
 ---
 
 202407200313
