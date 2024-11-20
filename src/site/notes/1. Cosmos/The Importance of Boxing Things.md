@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-importance-of-boxing-things/"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-importance-of-boxing-things/","created":"2024-08-31T23:47:13.621-04:00","updated":"2024-05-20T21:42:12.859-04:00"}
 ---
 
 202405200107
