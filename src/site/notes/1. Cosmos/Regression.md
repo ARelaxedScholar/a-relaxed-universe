@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/regression/"}
+{"dg-publish":true,"permalink":"/1-cosmos/regression/","created":"2024-08-31T23:47:14.128-04:00","updated":"2024-05-20T21:43:56.482-04:00"}
 ---
 
 202404291927
