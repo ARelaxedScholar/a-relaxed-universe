@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/sigma-algebra/"}
+{"dg-publish":true,"permalink":"/1-cosmos/sigma-algebra/","created":"2024-08-31T23:47:14.026-04:00","updated":"2024-05-24T08:58:29.287-04:00"}
 ---
 
 202405240847
