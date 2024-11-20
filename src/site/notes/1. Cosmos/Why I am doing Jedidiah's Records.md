@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/why-i-am-doing-jedidiah-s-records/"}
+{"dg-publish":true,"permalink":"/1-cosmos/why-i-am-doing-jedidiah-s-records/","created":"2024-10-17T11:40:40.775-04:00","updated":"2024-10-17T14:09:35.183-04:00"}
 ---
 
 202410171141
