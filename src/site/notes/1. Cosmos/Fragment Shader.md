@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/fragment-shader/"}
+{"dg-publish":true,"permalink":"/1-cosmos/fragment-shader/","created":"2024-08-31T23:47:14.928-04:00","updated":"2024-07-20T03:52:27.413-04:00"}
 ---
 
 202407200352
