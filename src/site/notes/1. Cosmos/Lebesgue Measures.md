@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/lebesgue-measures/"}
+{"dg-publish":true,"permalink":"/1-cosmos/lebesgue-measures/","created":"2024-08-31T23:47:13.487-04:00","updated":"2024-05-29T12:01:26.306-04:00"}
 ---
 
 202405211626
