@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/hardware-system-architecture-hsa/"}
+{"dg-publish":true,"permalink":"/1-cosmos/hardware-system-architecture-hsa/","created":"2024-08-31T23:47:14.634-04:00","updated":"2024-07-20T03:08:10.222-04:00"}
 ---
 
 202407200307
