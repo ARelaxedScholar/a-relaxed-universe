@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/markov-s-inequality/"}
+{"dg-publish":true,"permalink":"/1-cosmos/markov-s-inequality/","created":"2024-08-31T23:47:13.472-04:00","updated":"2024-05-30T21:08:30.826-04:00"}
 ---
 
 202405301409
