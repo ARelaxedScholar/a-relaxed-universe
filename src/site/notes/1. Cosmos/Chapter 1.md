@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/chapter-1/"}
+{"dg-publish":true,"permalink":"/1-cosmos/chapter-1/","created":"2024-08-31T23:47:14.876-04:00","updated":"2024-07-20T03:46:49.472-04:00"}
 ---
 
 202407200321
