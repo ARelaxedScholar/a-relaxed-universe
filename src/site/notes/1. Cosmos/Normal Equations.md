@@ -4,7 +4,7 @@
 
 202405171731
 Status: #idea
-Tags: [[Statistics\|Statistics]], [[Linear Algebra\|Linear Algebra]]
+Tags: [[Statistics\|Statistics]], [[1. Cosmos/Linear Algebra\|Linear Algebra]]
 # Normal Equations
 They are a set of equations that are used to find the best parameters for a linear regression. They are so called (Normal) because when put in matrix form, they become equations of the form product of matrix equal to 0, which implies that the matrices involved in the product are orthogonal. In this case the the error vector is orthogonal.
 

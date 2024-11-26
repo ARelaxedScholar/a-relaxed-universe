@@ -21,5 +21,5 @@ This inequality is cool because it allows us to put a bound on the covariance of
 Not only that, by doing nothing more than simple manipulation of the above expression you obtain that $\rho^2$ is less or equal to $1$.
 
 You can prove it using the [[Proof for Cauchy-Schwarz's Inequality using Semi-Positive Definite Matrix\|Proof for Cauchy-Schwarz's Inequality using Semi-Positive Definite Matrix]]
-You can also prove it directly without resorting to [[Linear Algebra\|Linear Algebra]].
+You can also prove it directly without resorting to [[1. Cosmos/Linear Algebra\|Linear Algebra]].
 ## References

@@ -10,7 +10,7 @@ Tags: [[Machine Learning\|Machine Learning]]
 Fundamentally the idea of supervised learning is simply to fit a curve to data.
 
 That is literally it.
-Everything else is just mathematical jargon and calculus (to find the right parameters and what not.) I lied, there's also some [[Probability\|Probability]] and [[Statistics\|Statistics]] in there as well as [[Linear Algebra\|Linear Algebra]]...
+Everything else is just mathematical jargon and calculus (to find the right parameters and what not.) I lied, there's also some [[Probability\|Probability]] and [[Statistics\|Statistics]] in there as well as [[1. Cosmos/Linear Algebra\|Linear Algebra]]...
 
 The rest is just math to derive your parameters.
 

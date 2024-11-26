@@ -4,7 +4,7 @@
 
 202407200344
 Status: #idea
-Tags: [[Linear Algebra\|Linear Algebra]]
+Tags: [[1. Cosmos/Linear Algebra\|Linear Algebra]]
 State: #nascient
 # Eigenvector
 A **non-zero** vector for which, the following equation holds.

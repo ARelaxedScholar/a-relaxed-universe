@@ -40,7 +40,7 @@ Which can be seen as a generalization of [[1. Cosmos/Simple Linear Regression\|S
 
 Since it would quickly become unwieldy to do the same kind of algebra we did for simple linear algebra, on arbitrarily many parameters, it is a pressing issue to find a way to do calculations once so that they will apply to any number of parameters.
 
-And what better way to do that than to resort to [[Linear Algebra\|Linear Algebra]] and matrices? Indeed, [[1. Cosmos/Multiple Linear Regression\|Multiple Linear Regression]] makes full use of matrices and matrix calculus to derive it's formulas. In this lesson we cover that, and 
+And what better way to do that than to resort to [[1. Cosmos/Linear Algebra\|Linear Algebra]] and matrices? Indeed, [[1. Cosmos/Multiple Linear Regression\|Multiple Linear Regression]] makes full use of matrices and matrix calculus to derive it's formulas. In this lesson we cover that, and 
 go over the formulas to remember for each part.
 
 ### Lesson Points:

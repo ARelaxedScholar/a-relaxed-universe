@@ -4,7 +4,7 @@
 
 202407200344
 Status: #idea
-Tags: [[Linear Algebra\|Linear Algebra]]
+Tags: [[1. Cosmos/Linear Algebra\|Linear Algebra]]
 State: #nascient
 # Eigenspace
 The set/space that contains all the [[1. Cosmos/Eigenvector\|eigenvectors]] for a eigenvalue $\lambda$.
