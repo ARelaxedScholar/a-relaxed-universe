@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/the-queue/","created":"2024-10-21T08:57:05.975-04:00","updated":"2024-11-26T05:27:45.790-05:00"}
+{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/the-queue/","created":"2024-10-21T08:57:05.975-04:00","updated":"2024-11-26T05:31:34.190-05:00"}
 ---
 
 202410280534
@@ -94,7 +94,7 @@ State: #nascient
 - Will programming languages really go the way of the dodo.
 - I should find some way to include cardio/running into my daily routine. I will reintroduce back kettlebell swings
 - Why do I like learning languages?
-- The fact that people get radicalized based on what they see on the internet is both understandable and sad. Like people do not have enough understadning of technology to know what a recommendation algorithm is.
+- The fact that people get radicalized based on what they see on the internet is both understandable and sad. Like people do not have enough understanding of technology to know what a recommendation algorithm is.
 - 
 
 
