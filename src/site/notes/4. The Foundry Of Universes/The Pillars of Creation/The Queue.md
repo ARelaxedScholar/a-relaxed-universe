@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/the-queue/","created":"2024-10-21T08:57:05.975-04:00","updated":"2024-11-26T05:31:34.190-05:00"}
+{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/the-queue/","created":"2024-10-21T08:57:05.975-04:00","updated":"2024-11-28T17:14:17.336-05:00"}
 ---
 
 202410280534
@@ -95,7 +95,10 @@ State: #nascient
 - I should find some way to include cardio/running into my daily routine. I will reintroduce back kettlebell swings
 - Why do I like learning languages?
 - The fact that people get radicalized based on what they see on the internet is both understandable and sad. Like people do not have enough understanding of technology to know what a recommendation algorithm is.
-- 
+- You need a vision to be do anything, if you live without knowing where you are walking towards, you will live unsconscious.
+- Consciousness is not as much of a given as we think,  considering how often we are in automatic mode is there a reason why it is what it is.
+- Am I aware, or do I have the illusion of being aware. What are the consequences of each?
+- Do we have rights in a world without God?
 
 
 ## References
