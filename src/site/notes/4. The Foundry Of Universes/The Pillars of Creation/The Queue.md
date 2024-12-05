@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/the-queue/","created":"2024-10-21T08:57:05.975-04:00","updated":"2024-11-28T17:14:17.336-05:00"}
+{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/the-queue/","created":"2024-10-21T08:57:05.975-04:00","updated":"2024-11-30T14:51:04.783-05:00"}
 ---
 
 202410280534
@@ -99,6 +99,7 @@ State: #nascient
 - Consciousness is not as much of a given as we think,  considering how often we are in automatic mode is there a reason why it is what it is.
 - Am I aware, or do I have the illusion of being aware. What are the consequences of each?
 - Do we have rights in a world without God?
+- Publish to the conference
 
 
 ## References

@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/k-nearest-neighbor/","created":"2024-11-25T20:00:25.199-05:00","updated":"2024-11-29T19:45:05.334-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/k-nearest-neighbor/","created":"2024-11-25T20:00:25.199-05:00","updated":"2024-12-03T05:38:31.510-05:00"}
 ---
 
 202411252000
 Status: #idea
 Tags: [[Machine Learning\|Machine Learning]], [[Non-Parametric Model\|Non-Parametric Model]]
-State: #nascient
+State: #awakening
 # k-Nearest Neighbor
 
 Typically a [[Classification\|Classification]] algorithm in the [[Machine Learning\|Machine Learning]] family—which can be used for regression—that assigns a label to a new observation based on the label of its $k-Nearest~~ Neighbors$.
@@ -16,11 +16,14 @@ $$
 $$
 
 In English, consider all the $x_i$ within the neighborhood of $x$.
-Look at their label $y_i$, and take the average. Here the assumption is that the label is encoded as $0$ and $1$, and so this feasible. Assuming you have more than two levels, you just assign $x$ to whichever label occurs more often in its neighborhood. You can convince yourself that this is equivalent to the above formula.
+Look at their label $y_i$, and take the average. Here the assumption is that we have a binary label so that it can be encoded as $0$ and $1$, making the following feasible. Assuming you have more than two levels, you just assign $x$ to whichever label occurs more often in its neighborhood. You can convince yourself that this is equivalent to the above formula and can be seen as a generalization of the formula.
 
-k-NN is a form of [[Non-Parametric Model\|Non-Parametric Model]], a type of model that does not make assumptions about the functional form of a model. Here the model will be slightly different for every neighborhood.
+k-NN is a form of [[Non-Parametric Model\|Non-Parametric Model]], a type of model that does not make assumptions about the functional form of a model. Here in fact no model is learned since we do a majority vote on the observations on a given $x_0$'s neighborhood (where $x_0$ is the objection we care about.)
+k-NN for the reason it could be mistakenly understood to belong to a class of model called [[Transductive Models\|transductive models]], it does not as because as even though no global model is built and inference is indeed done by relating test data to the training set (comparing the test observation to its neighborhood within the training set) the biggest difference is that $k-NN$ models do not use the testing cases that it is trying to fit in its optimization process (of which there is none).
 
-The main assumption this model makes is that observations which are close in space are similar. It is an example of a low bias, high variance model! 
+Since the averaging function used is generalizable to any unseen observation, it is fundamentally different from transductive models for which the insights learned are only applicable to the specific test samples provided.
+
+The main assumption that a $k-NN$ model makes is that observations which are close in space are similar. It is an example of a low bias, high variance model! 
 
 In a [[1. Cosmos/Regression\|Regression]] context, we'd call it, [[k-Nearest Neighbor Averaging\|k-Nearest Neighbor Averaging]]. Using the exact same idea, but instead of assigning to the majority label of the $k-Nearest ~~Neighbors$, we'd assign to the **average response level** of these neighbors.
 
