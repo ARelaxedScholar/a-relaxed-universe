@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2024-08-31T23:47:13.017-04:00","updated":"2024-10-17T11:38:52.257-04:00"}
+{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2024-08-31T23:47:13.017-04:00","updated":"2024-12-04T21:42:51.994-05:00"}
 ---
 
 *Date of Creation: Beginning of the Universe*
@@ -11,7 +11,7 @@ Woah, you have reached this place.
 Well I am humbled that you are reading this, really!
 This is my cosmic space, where I garden planets and share my knowledge... at least the little I have.
 
-I am Kouakou Jedidiah Ange-Emmanuel, and I often go by "ARelaxedScholar" on technical forums. I like the idea of being a well-read expert, but truthfully we're not there yet. You might know me as Orosei on Discord.
+I am Kouakou Jedidiah Ange-Emmanuel, and I often go by "ARelaxedScholar" on technical forums. I like the idea of being a well-read expert, but we're still on the trail. You might know me as Orosei on Discord.
 
 This here is my little chunk of the internet, where I will write notes about concepts as I learn them, revisit them as I need to, write my thoughts (that can be shared) here, etc, etc. 
 
