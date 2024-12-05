@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-05T11:12:25.847-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-05T14:26:33.523-05:00"}
 ---
 
 202412041446
@@ -310,8 +310,8 @@ Note that since we derived the pattern already, the task is really just to write
 ```python
 # This is not part of the ALGO, but needed for 
 # numpy to be available in my Obsidian environment
-import micropip
-await micropip.install('numpy')
+#import micropip
+#await micropip.install('numpy')
 
 # Actual ALGO
 import numpy as np
