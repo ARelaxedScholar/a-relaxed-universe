@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-04T20:27:32.888-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-05T11:09:52.471-05:00"}
 ---
 
 202412041446
@@ -303,12 +303,105 @@ $$
 We keep recursively checking like this until all elements are broken down to single matrices. We want something like this:
 ![shot-2024-12-04_19-13-53.jpg](/img/user/3.%20Black%20Holes/Files/shot-2024-12-04_19-13-53.jpg) (These are taken from my algorithm professor Nejib Zaguia's Lecture Notes, thank you! <3)
 
-Here is some python code if you are more programmatically minded:
+Here is some python code if you are more programmatically minded with a bonus recursive implementation:
+Note that since we derived the pattern already, the task is really just to write code for it.
+
+#### Iterative Implementation, basically the logic we outlined above
 ```python
-# Will be Filled Later
+# This is not part of the ALGO, but needed for 
+# numpy to be available in my Obsidian environment
+import micropip
+await micropip.install('numpy')
 
+# Actual ALGO
+import numpy as np
+def find_min_cost_tabular(D):
+	M = len(D)-1
+	
+	# hang on, it's gonna be 
+	O, K = np.zeros((M,M), dtype=float), np.zeros((M,M), dtype=int)
 
+	# We can skip the diagonal step since already zeroed
+	for chain_length in range(2, M+1): # gotta consider length M as well
+		# consider all possible i for a given length
+		for i in range(M-chain_length+1):
+			j = i + chain_length - 1
+
+			# initialize to huge value
+			O[i][j] = np.inf
+
+			for k in range(i,j):
+				cost = (O[i][k] + O[k+1][j] +
+						D[i] * D[k+1] * D[j+1])
+						
+				# Update to the minimum cost and store K
+				if cost < O[i][j]:
+					O[i][j] = cost
+					K[i][j] = k
+	
+	# see, everything is 
+	return int(O[0][M-1]), K
+
+# Test
+cursor = 1 # we need index 1 to select cost of matrix 2
+tuple_optimal, tuple_k = find_min_cost_tabular((1,2,3))
+list_optimal, list_k = find_min_cost_tabular([1,2,3])
+print(f"The min cost of matrix multiplicaton for dimensions [1,2,3] is : {tuple_optimal} multiplications")
+print(f"The min cost of matrix multiplicaton for dimensions [1,2,3] is : {list_optimal} multiplications")
+
+print(f"And the k-Matrices are: {tuple_k}")
+print(f"Wait, but are both equivalent?: {tuple_k == list_k}")
+print("Damn right they are.")
+
+print("So, we can pass a list or a tuple here, this is foreshadowing.")
 ```
+
+See how clean this looks, there's some ugliness due to the fact we need to mix floats and infinity. From this $K$ matrix we'd need another algorithm that is $log(M)$ to read the splits off the $K$ matrix, but this article is already almost $4k$ words, so I think you'll forgive me for leaving it out.
+### Hahaha, recursion goes brrr.
+
+```python
+from functools import cache
+# Recursive
+@cache
+def find_min_cost_memoized(D):
+	M = len(D)-1 # number of matrices
+
+	# no cost if there's a single matrix
+	if M <= 1:
+		return 0
+
+	all_costs = [
+		find_min_cost(D[:m+2]) + 
+		find_min_cost(D[m+1:]) + 
+		D[0] * D[m+1] * D[M]
+		for m in range(M-1)]
+	
+	min_cost = min(all_costs)
+	return min_cost
+
+print(f"The min cost of matrix multiplicaton for dimensions [1,2,3] is : {find_min_cost_memoized((1,2,3))}")
+
+print("Note that we gotta pass a tuple since @cache requires inputs to be hashable")
+```
+See how easy this looks? Furthermore see how all we did was transform the mathematical formulae we had into code (adjusting for $0$-indexing shenanigans?)
+
+This is dynamic programming, more specifically [[Memoization\|memoization]]. It's disadvantage is that on the first few runs for big values it will be exceedingly slow as nothing is stored in cache yet, but as time progresses, the amortized complexity will converge to whatever the [[Tabulation\|tabulation]] approach gives, since in essence that's kinda what we are doing.
+
+Now you might be wondering how do we retrieve the optimal solution? 
+
+Please sit down. (Yes, because you were definitely reading this standing up.)
+
+We can't. At least not with this implementation.
+
+Memoization is great when all we care about is one state, more specifically it is great when we treat each function as... a function, a mathematical function that is. 
+This means no side effects! 
+
+Realize that caching here allows us to skip running a function given that result is already in memory, our recursive implementation would likely require some data structure (likely a list) being assed down) and progressively filled with the optimal $k$'s.
+
+This is not doable consistently and would give meaningless paths (or even none) making our algorithm unusable.
+
+It's in cases like these where an iterative implementation imposes itself, knowing when to go for the intuitive simplicity of [[Memoization\|memoization]] or the robustness and velocity of [[Tabulation\|tabulation]] is an art.
+
 ## And the Time Complexity?
 
 If you understood the rest, this is the easy part.

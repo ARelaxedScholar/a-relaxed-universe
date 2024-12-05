@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/why-is-everything-not-lebesgue-measurable/","created":"2024-08-31T23:47:14.155-04:00","updated":"2024-05-24T19:01:39.167-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/why-is-everything-not-lebesgue-measurable/","created":"2024-08-31T23:47:14.155-04:00","updated":"2024-12-05T06:55:45.121-05:00"}
 ---
 
 202405240900
 Status: #idea
-Tags: 
+Tags: [[Measure Theory\|Measure Theory]]
 State: #nascient
 # Why Is Everything Not Lebesgue Measurable?
 
@@ -23,7 +23,7 @@ This is not quite the issue though, because in the above situation we have overl
 Then either we assign a measure to those tiny slivers that is $0$, in which case we obtain $P(\varOmega)=0$, or we give them a value $\varepsilon$ in which case, no matter how tiny that value is, since it is positive (by definition of a measure), it will explode to $\infty$.
 
 ## The Proof
-
+That's the part I was supposed to fill, lmao. Will do that at some point in the future.
 ## How To Circumvent that Issue?
 - [[Say bye-bye to the Axiom of Choice\|Say bye-bye to the Axiom of Choice]]
 - [[Replace countable additivity with finite additivity\|Replace countable additivity with finite additivity]]

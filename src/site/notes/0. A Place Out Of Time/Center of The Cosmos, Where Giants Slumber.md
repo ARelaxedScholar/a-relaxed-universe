@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2024-08-31T23:47:13.017-04:00","updated":"2024-12-04T21:42:51.994-05:00"}
+{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2024-08-31T23:47:13.017-04:00","updated":"2024-12-04T22:41:02.628-05:00"}
 ---
 
 *Date of Creation: Beginning of the Universe*
@@ -24,3 +24,6 @@ Stay a while and read. I hope this can be helpful to you.
 Keep in mind, these are my personal notes and are therefore very informal. Do not expect scholarly prose, or whatnot. It might occur, but most of the time it will not.
 
 They will capture things as I think them, and are the place where my content creation ideas will take form.
+
+My Course Sequence:
+https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/data-science/course-sequence
