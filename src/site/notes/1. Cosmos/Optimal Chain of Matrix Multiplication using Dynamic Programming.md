@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-04T20:16:00.018-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-04T20:27:32.888-05:00"}
 ---
 
 202412041446
@@ -341,3 +341,6 @@ $$
 
 Boom! So as we see the complexity of the algorithmic is cubic in the number of matrices in the chain and provides us with both the least number of multiplications and how exactly to get it.
 ## References
+
+[[1. Cosmos/Dynamic Programming\|Dynamic Programming]]
+[Fantastic Video by Abdul Bari which explains it all](https://www.youtube.com/watch?v=_WncuhSJZyA)
