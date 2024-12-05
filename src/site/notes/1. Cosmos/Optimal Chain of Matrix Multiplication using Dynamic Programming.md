@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-05T11:09:52.471-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-05T11:12:25.847-05:00"}
 ---
 
 202412041446
@@ -222,7 +222,7 @@ C[i,4]+C[5,j]+  d_{i-1}\times d_{4} \times d_{j} \\
 $$
 So, the first detail to note is that $d_0$ is $d_{i-1}$ because it is directly linked to the number of rows of whatever matrix we are referring to with $i$.
 
-The $1$ on the first row, and $5$ on the last row were not changed by $i$ or $j$ because clearly, they vary. It would be an error to say that they are tied to the $i$th matrix or the $j$th matrix.
+The $1$ on the first row, and $5$ on the last row were not changed by $i$ or $j$ because clearly, they vary. It would be an error to say that they are tied to the $i$-th matrix or the $j$-th matrix.
 
 So let us add a new variable $k$, the $k$ will represent the matrix where we make our split. This is consistent with the example above, as $k=1$ means that the first matrix is alone and then we multiply from the second matrix across to the last, on the other hand if $k=j-1$, then that means that the last matrix is alone, and we multiplied across from the first matrix to that penultimate matrix! Observe that we are not doing anything magical here, we are simply taking an example and then turning it to a formula.
 
@@ -233,7 +233,7 @@ Let us observe a few key things:
 
 So with all that in mind, we can simplify and finally write a general formula that is:
 $$
-C[i,j]=min_{i\le j < j} \big \{
+C[i,j]=min_{i\le k < j} \big \{
 C[i,k]+C[k+1,j]+  d_{i-1}\times d_{k} \times d_{j}\big \}
 $$
 Amazing! We have finally worked through a general formula. 
