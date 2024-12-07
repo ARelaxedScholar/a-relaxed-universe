@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-05T14:26:33.523-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-05T15:37:04.006-05:00"}
 ---
 
 202412041446
@@ -45,7 +45,7 @@ So we see that the dimensions of the inner matrices are enforced as soon as we s
 ## The Setup: Part 2
 But why do we care?
 Well, you must have guessed by now, but the order in which we multiply the matrices while equivalent in terms of the answer it gives is **NOT** equivalent in terms of the number of operations it will take.
-
+n  
 An example is worth 10,000 words so let's take one example.
 $$
 \begin{align}
@@ -396,7 +396,7 @@ We can't. At least not with this implementation.
 Memoization is great when all we care about is one state, more specifically it is great when we treat each function as... a function, a mathematical function that is. 
 This means no side effects! 
 
-Realize that caching here allows us to skip running a function given that result is already in memory, our recursive implementation would likely require some data structure (likely a list) being assed down) and progressively filled with the optimal $k$'s.
+Realize that caching here allows us to skip running a function given that result is already in memory, our recursive implementation would likely require some data structure (likely a list) being passed down) and progressively filled with the optimal $k$'s.
 
 This is not doable consistently and would give meaningless paths (or even none) making our algorithm unusable.
 

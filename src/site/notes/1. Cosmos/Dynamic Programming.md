@@ -72,7 +72,7 @@ Here are a few write-ups where I solve some classic $DP$ problems in ridiculous 
 ## My Write-Up Explanations of Standard Problems
 
 [[1. Cosmos/Optimal Chain of Matrix Multiplication using Dynamic Programming\|Optimal Chain of Matrix Multiplication using Dynamic Programming]]
-[[Floyd-Warshall Algorithm for All-Pair Shortest Path\|Floyd-Warshall Algorithm for All-Pair Shortest Path]]
+[[1. Cosmos/Floyd-Warshall Algorithm for All-Pair Shortest Path\|Floyd-Warshall Algorithm for All-Pair Shortest Path]]
 [[0-1 Knapsack Problem\|0-1 Knapsack Problem]]
 [Longest Common Subsequence (LSC)]
 ## References
