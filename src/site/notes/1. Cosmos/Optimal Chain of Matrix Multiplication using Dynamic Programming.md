@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-05T15:37:04.006-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/optimal-chain-of-matrix-multiplication-using-dynamic-programming/","created":"2024-12-04T14:46:13.381-05:00","updated":"2024-12-08T09:04:05.772-05:00"}
 ---
 
 202412041446
@@ -31,7 +31,8 @@ $$
 &d_b = d_c, d_d=d_e
 \end{align}
 $$
-So if we relabel them such that $$d_a=d_0, d_b=d_c=d_1, d_d=d_e=d_2, d_f=d_3$$
+So if we relabel them such that: 
+$$d_a=d_0, d_b=d_c=d_1, d_d=d_e=d_2, d_f=d_3$$
 We get 4 dimensions in total such that:
 $$
 \begin{align}
