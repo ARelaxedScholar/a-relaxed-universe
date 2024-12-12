@@ -8,7 +8,7 @@ Tags: [[Machine Learning\|Machine Learning]], [[Non-Parametric Model\|Non-Parame
 State: #awakening
 # k-Nearest Neighbor
 
-Typically a [[Classification\|Classification]] algorithm in the [[Machine Learning\|Machine Learning]] family—which can be used for regression—that assigns a label to a new observation based on the label of its $k-Nearest~~ Neighbors$.
+Typically a [[1. Cosmos/Classification\|Classification]] algorithm in the [[Machine Learning\|Machine Learning]] family—which can be used for regression—that assigns a label to a new observation based on the label of its $k-Nearest~~ Neighbors$.
 
 Definition:
 $$
