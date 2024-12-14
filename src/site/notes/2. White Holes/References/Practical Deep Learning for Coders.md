@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/practical-deep-learning-for-coders/","created":"2024-08-31T23:47:16.597-04:00","updated":"2024-05-20T21:09:31.234-04:00"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/practical-deep-learning-for-coders/","created":"2024-08-31T23:47:16.597-04:00","updated":"2024-12-13T08:02:19.055-05:00"}
 ---
 
 dg-publish: true
@@ -32,7 +32,7 @@ What? Indeed, while this is the traditional way to do it, it is often better and
 4. Retrain Model on that Data
 5. Enjoy!
 
-[[1. Cosmos/Data Augmentation\|Data Augmentation]] is the art of turning 1 into 10. The actual definition is any transforms that you apply to an image to effectively multiply our dataset by a factor. Each epoch the same data (images in this context) are being slightly warped and modified to allow the model to better generalise to unseen data. If you are not planning to run multiple epochs it might not be necessary, but if you do want to run more epochs it is not a terrible idea to do so.
+[[1. Cosmos/Data Augmentation\|Data Augmentation]] is the art of turning 1 into 10. The actual definition is any transforms that you apply to an image to effectively multiply our dataset by a factor. Each epoch the same data (images in this context) are being slightly warped and modified to allow the model to better generalize to unseen data. If you are not planning to run multiple epochs it might not be necessary, but if you do want to run more epochs it is not a terrible idea to do so.
 
 A rarely considered approach is to think deeply about the effects of the technology not in the case of what if everything went poorly (as I like to do to prepare), but rather what would be the consequences if everything went as expected. This can have the same effects depending of your psyche, but this is an interesting perspective nonetheless.
 
@@ -44,19 +44,19 @@ what is [[1. Cosmos/Loss\|Loss]] and why do we need it?
 
 How do to the two aforementioned concepts relate to training a model.
 
-The idea is that [[2. White Holes/References/Practical Deep Learning for Coders\|Practical Deep Learning for Coders]] all [[Machine Learning\|Machine Learning]] is, is [[Curve-Fitting\|Curve-Fitting]]. How can I find the cuve that best models the observations I have. 
+The idea is that [[2. White Holes/References/Practical Deep Learning for Coders\|Practical Deep Learning for Coders]] all [[1. Cosmos/Machine Learning\|Machine Learning]] is, is [[Curve-Fitting\|Curve-Fitting]]. How can I find the curve that best models the observations I have. 
 
 The issue with most other methods is that they make assumptions about the shape of that curve, like the [[Assumption of Linearity\|Assumption of Linearity]] for [[1. Cosmos/Linear Regression\|Linear Regression]] models and because of that have a high [[Bias\|Bias]]. More importantly than that, each problem has its own function that models it, and that function can be arbitrarily complex. How painful would it be if you had to find that function by hand?
 
 This is where [[1. Cosmos/Neural Networks\|Neural Networks]] come into play.
 
-The very simple idea is that [[1. Cosmos/Neural Networks\|Neural Networks]] are simply mathematical functions that are composed of summations of [[Rectified Linear Units (RELUs)\|Rectified Linear Units (RELUs)]] which by a theorem known as the [[Universal Approximation Theorem\|Universal Approximation Theorem]] have been shown to be able to approximate any arbitrary function as long as enough compute and layers are provided.  
+The very simple idea is that [[1. Cosmos/Neural Networks\|Neural Networks]] are simply mathematical functions that are composed of summations of [[Rectified Linear Units (RELUs)\|Rectified Linear Units (RELUs)]] (the modern standard) which by a theorem known as the [[Universal Approximation Theorem\|Universal Approximation Theorem]] have been shown to be able to approximate any arbitrary function to any arbitrary degree of accuracy as long as enough compute and layers are provided. They are not unique in that case, polynomials are another well-known example of that, but they are more convenient to train.
 
 Now, since [[1. Cosmos/Neural Networks\|Neural Networks]] like any other mathematical functions are exactly that, functions, they require weights. Which must be tuned for the model to be of any use, after all since they can approximate anything, there is a HUGE variety of things that a randomly generated set of weights could predict and it is highly unlikely that it will be of any use to us.
 
 It'd be amazing if there was some automatic way to find in which direction to optimize the weights instead of haphazardly, trying and failing until we get something that approximates a solution.
 
-Cue, [[Stochastic Gradient Descent (SGD)\|Stochastic Gradient Descent (SGD)]] the secret sauce and fundamental underpinning of **ALL** of machine learning (and by proxy Deep Learning.)
+Cue, [[Stochastic Gradient Descent (SGD)\|Stochastic Gradient Descent (SGD)]] the secret sauce and fundamental underpinning of (almost) **ALL** of machine learning (and by proxy Deep Learning.)
 
 Understand that algorithm properly, and you got the foot in the door to [[Deep Learning\|Deep Learning]].
 

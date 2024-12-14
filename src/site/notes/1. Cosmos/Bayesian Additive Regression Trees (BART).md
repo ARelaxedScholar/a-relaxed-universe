@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/bayesian-additive-regression-trees-bart/","created":"2024-12-11T21:22:27.093-05:00","updated":"2024-12-11T21:48:42.828-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/bayesian-additive-regression-trees-bart/","created":"2024-12-11T21:22:27.093-05:00","updated":"2024-12-11T21:52:05.878-05:00"}
 ---
 
 202412112122
 Status: #idea
-Tags: [[1. Cosmos/Decision Trees\|Decision Trees]], [[Bayes Theorem\|Bayes Theorem]]
+Tags: [[1. Cosmos/Decision Trees\|Decision Trees]], [[Bayes Theorem\|Bayes Theorem]], [[Markov Chain Monte Carlo\|Markov Chain Monte Carlo]]
 State: #nascient
 # Bayesian Additive Regression Trees (BART)
 
@@ -24,9 +24,9 @@ We fit $K$ trees.
 That's really it, the result is then obtained by taking the average of the predictions of each tree beyond a burn-in phase $L<B$ , and across all trees $K$.
 
 ### Pros
-- Boasts exceptional OOB error with minimal tuning
+- Boasts exceptional OOB error with minimal tuning (Good default values are $L=100, K=200, B=1000$)
 - Harder to overfitting using it
-- Strong theoretical backing since we are using [[Bayes Theorem\|Bayes Theorem]]
+- Strong theoretical backing since we are using [[Bayes Theorem\|Bayes Theorem]] and are drawing a new tree from the posterior distribution, the algorithm can also be seen as a [[Markov Chain Monte Carlo\|Markov Chain Monte Carlo]].
 
 
 

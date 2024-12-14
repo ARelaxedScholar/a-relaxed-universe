@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/stat-quest-machine-learning/","created":"2024-08-31T23:47:16.609-04:00","updated":"2024-05-20T21:11:09.750-04:00"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/stat-quest-machine-learning/","created":"2024-08-31T23:47:16.609-04:00","updated":"2024-12-11T22:59:04.627-05:00"}
 ---
 
 dg-publish: true
 202404291928
 Status: #reference
-Tags: [[Machine Learning\|Machine Learning]]
+Tags: [[1. Cosmos/Machine Learning\|Machine Learning]]
 # StatQuest ~ Machine Learning
 ## Episode  1 ~ A Gentle Introduction to Machine Learning
 
@@ -29,7 +29,7 @@ Shown : 4-Fold
 Common: 10 Fold Cross Validation
 Extreme: Leave One Out Cross Validation
 
-The idea of [[Cross Validation\|Cross Validation]] which was a thing I was thinking about is how to be sure that whatever model you trained was the best possible model for the task? Let's say you're doing [[1. Cosmos/Classification\|classification]] you could use a [[Support Vector Machine\|Support Vector Machine]], you could use a [[Decision Tree\|Decision Tree]], you could use their papi the [[Random Forest\|Random Forest]], you could use a simple [[1. Cosmos/Logistic Regression\|Logistic Regression]], etc.
+The idea of [[Cross Validation\|Cross Validation]] which was a thing I was thinking about is how to be sure that whatever model you trained was the best possible model for the task? Let's say you're doing [[1. Cosmos/Classification\|classification]] you could use a [[1. Cosmos/Support Vector Machine (SVM)\|Support Vector Machine (SVM)]], you could use a [[Decision Tree\|Decision Tree]], you could use their papi the [[Random Forest\|Random Forest]], you could use a simple [[1. Cosmos/Logistic Regression\|Logistic Regression]], etc.
 
 Well in the process of doing that, you're going to need a [[Training Set\|Training Set]] and a [[1. Cosmos/Validation Set\|Validation Set]], the issue is that a lot of time especially in data that are not [[Time Series\|Time Series]] the way we split the data is quite arbitrary and it is entirely possible that a given type of model happens to do better just because the given split is more kind to its specific properties.
 

@@ -4,9 +4,9 @@
 
 202405021003
 Status: #idea
-Tags: [[Machine Learning\|Machine Learning]]
+Tags: [[1. Cosmos/Machine Learning\|Machine Learning]]
 # Validation Set
-This is one of the most important components of [[Machine Learning\|Machine Learning]] if not the most important thing. As you need to be able to say how good your model is at fitting the data you were given. 
+This is one of the most important components of [[1. Cosmos/Machine Learning\|Machine Learning]] if not the most important thing. As you need to be able to say how good your model is at fitting the data you were given. 
 
 It is the thing that will allow you to identify where roughly you are in the [[Bias-Variance Tradeoff\|Bias-Variance Tradeoff]] spectrum, are you [[Underfit\|underfitting]] and introducing too much [[Bias\|bias]] into the model (Bias can mean different things in different contexts, but in general it is related to the error caused by your model's rigidity) this will typically be due to not running enough [[Epochs\|epochs]] to train your model. You may be  [[Overfitting\|overfitting]] on the other hand which will generally be the result of running too many epochs, or modifying the [[Hyperparameters\|hyperparameters]] too much.
 

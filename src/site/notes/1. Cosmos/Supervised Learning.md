@@ -4,7 +4,7 @@
 
 202405170137
 Status: #idea
-Tags: [[Machine Learning\|Machine Learning]]
+Tags: [[1. Cosmos/Machine Learning\|Machine Learning]]
 # Supervised Learning
 
 Fundamentally the idea of supervised learning is simply to fit a curve to data.

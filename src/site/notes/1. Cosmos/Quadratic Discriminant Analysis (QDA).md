@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/quadratic-discriminant-analysis-qda/","created":"2024-12-11T09:33:36.776-05:00","updated":"2024-12-11T10:24:56.348-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/quadratic-discriminant-analysis-qda/","created":"2024-12-11T09:33:36.776-05:00","updated":"2024-12-13T09:22:38.453-05:00"}
 ---
 
 202412110933
 Status: #idea
-Tags: [[Discriminant Analysis\|Discriminant Analysis]], [[Machine Learning\|Machine Learning]]
+Tags: [[1. Cosmos/Discriminant Analysis\|Discriminant Analysis]], [[1. Cosmos/Machine Learning\|Machine Learning]]
 State: #nascient
 # Quadratic Discriminant Analysis (QDA)
 
@@ -36,6 +36,7 @@ As a result, we go for QDA if:
 It's better to use [[1. Cosmos/Linear Discriminant Analysis (LDA)\|Linear Discriminant Analysis (LDA)]] if:
 - There are relatively few training examples
 
+If even the normality assumption is too strontg then [[1. Cosmos/Naive Bayes\|Naive Bayes]]
 A nice visualization:
 ![shot-2024-12-11_10-23-56.jpg](/img/user/3.%20Black%20Holes/Files/shot-2024-12-11_10-23-56.jpg)
 ## References

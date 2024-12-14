@@ -4,7 +4,7 @@
 
 202404292158
 Status: #idea
-Tags: [[Machine Learning\|Machine Learning]], [[Deep Learning\|Deep Learning]]
+Tags: [[1. Cosmos/Machine Learning\|Machine Learning]], [[Deep Learning\|Deep Learning]]
 # Feature Engineering
 
 [[Features\|Features]] are any measurement on our data that is used for training a model, it could be anything from the price of an item to the time where the item was bought. 

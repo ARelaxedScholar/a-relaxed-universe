@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/logistic-regression/","created":"2024-12-09T10:14:17.526-05:00","updated":"2024-12-11T11:48:20.044-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/logistic-regression/","created":"2024-12-09T10:14:17.526-05:00","updated":"2024-12-13T09:06:35.642-05:00"}
 ---
 
 202412091014
@@ -35,6 +35,8 @@ The logistic model is in the family of [[1. Cosmos/Linear Methods for Classifica
 
 Note that while we show that the logit of the logistic regression is a linear regression model you might mistakenly assume that the vector $\beta$ is estimated in the same way. Nothing could be further from the truth, while in [[1. Cosmos/Linear Regression\|Linear Regression]] we generally estimate the parameters directly though functions, for the logistic model we must use [[Maximum Likelihood Estimation\|Maximum Likelihood Estimation]] to find the answer.
 
+This stems from the fact that while we recover the linear equation using
+
 
 ## What about if we have multiple features?
 Well in such a case, you can easily extend the model to more features by analogy.
@@ -50,6 +52,11 @@ p(X)=\frac{e^{\beta_0+\beta_1X_1+\dots+\beta_nX_n}}{1-e^{\beta_0+\beta_1X_1+\dot
 $$
 
 Obviously throughout the way we assumed $n$ total predictors not counting the intercept.
+
 Covered more in depth in [[1. Cosmos/Multinomial Logistic Regression\|Multinomial Logistic Regression]].
+
+In the case of more classes while in theory we can still deal with it by adding more equations for everything tht we are tryign to compute (one probability for each class or $K-1$ depending of if we use the softmax or traditional approach), weird errors can ensue so as a result when we have more than two classes it is often a better idea to just another method like [[1. Cosmos/Linear Discriminant Analysis (LDA)\|Linear Discriminant Analysis (LDA)]] which better copes with those problems than [[1. Cosmos/Logistic Regression\|Logistic Regression]]—if we are adamant on using linear decision boundaries, or just any other method that better copes with more classes if not.
+
+
 ## References
   

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/variance/","created":"2024-08-31T23:47:14.119-04:00","updated":"2024-05-30T13:31:15.241-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/variance/","created":"2024-08-31T23:47:14.119-04:00","updated":"2024-12-13T08:35:57.349-05:00"}
 ---
 
 202405301306
@@ -29,5 +29,11 @@ P(X=\mu)=1
 $$
 This is often said, $X$ equals $\mu$ almost surely.
 
+## In Machine Learning
+In this context there are two important and non-overlapping type of variance that is $Var(f(x))$ iften understood as the irreducible error $\epsilon$. This represents the part of the variance around the mean that cannot be accounted due to intrinsic variability in the response itself.
+
+On the other hand there is the $Var(\hat f(x))$ which is the variance of the predictor model itself which might sound weird as predictors being functions will always output the same value given the same $x$ and should be $0$, no? Yes, but not quite. In this context, this variance represents how much the fitof the model would have changed given a **DIFFERENT TRAINING SET** and is a direct counterpart to the [[Bias\|Bias]], as a a general rule, models that are more complex/flexible have a lower [[Bias\|Bias]] as they basically make no errors due to the rigidity of the model and the assumptions they make, but they have high variance since they capture the data so well that logically given new data they will have to adapt. 
+
+This is the opposite for high bias methods which are highly rigid, they make and project their assumptions unto the data whether it fits the dataset or not. Which means that assuming that all the datasets are sampled from the same population, the fit of the model would be roughly the same leading to a lower variance.
 ## References
 [[1. Cosmos/Expected Value\|Expected Value]]

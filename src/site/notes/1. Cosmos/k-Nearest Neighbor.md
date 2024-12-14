@@ -4,11 +4,11 @@
 
 202411252000
 Status: #idea
-Tags: [[Machine Learning\|Machine Learning]], [[Non-Parametric Model\|Non-Parametric Model]]
+Tags: [[1. Cosmos/Machine Learning\|Machine Learning]], [[Non-Parametric Model\|Non-Parametric Model]]
 State: #awakening
 # k-Nearest Neighbor
 
-Typically a [[1. Cosmos/Classification\|Classification]] algorithm in the [[Machine Learning\|Machine Learning]] family—which can be used for regression—that assigns a label to a new observation based on the label of its $k-Nearest~~ Neighbors$.
+Typically a [[1. Cosmos/Classification\|Classification]] algorithm in the [[1. Cosmos/Machine Learning\|Machine Learning]] family—which can be used for regression—that assigns a label to a new observation based on the label of its $k-Nearest~~ Neighbors$.
 
 Definition:
 $$

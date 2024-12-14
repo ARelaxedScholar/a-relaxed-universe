@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/linear-discriminant-analysis-lda/","created":"2024-12-09T09:51:58.437-05:00","updated":"2024-12-11T11:46:22.015-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/linear-discriminant-analysis-lda/","created":"2024-12-09T09:51:58.437-05:00","updated":"2024-12-13T09:17:05.788-05:00"}
 ---
 
 202412090953
@@ -35,7 +35,7 @@ If we do not make the assumption of equal covariance we will instead get [[1. Co
 
 No matter the case, this discriminant score then gives us the relative order still and will work just fine with our use of $argmax$.
 
-*Note that in practice we CAN use other distributions, but the [[1. Cosmos/Normal Distribution\|Normal Distribution]] is most often used.*
+*Note that in practice we CAN use other distributions, but the [[1. Cosmos/Normal Distribution\|Normal Distribution]] is most often used.* In those cases, we have general [[1. Cosmos/Discriminant Analysis\|Discriminant Analysis]].
 
 ### Regularization?
 In 1989, Friedman proposed a model which allows a compromise between [[1. Cosmos/Linear Discriminant Analysis (LDA)\|Linear Discriminant Analysis (LDA)]] and [[1. Cosmos/Quadratic Discriminant Analysis (QDA)\|Quadratic Discriminant Analysis (QDA)]].

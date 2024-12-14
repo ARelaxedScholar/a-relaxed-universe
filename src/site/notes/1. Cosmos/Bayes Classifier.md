@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/bayes-classifier/","created":"2024-12-11T09:52:18.807-05:00","updated":"2024-12-11T10:00:47.800-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/bayes-classifier/","created":"2024-12-11T09:52:18.807-05:00","updated":"2024-12-11T22:59:04.613-05:00"}
 ---
 
 202412110952
@@ -13,7 +13,7 @@ This is provably the best classifier possible on data that will achieve the lowe
 So what is the catch? Why is is that we have so many classifiers then?
 Well, the issue is that the parameters needed to fit it are basically never known and so it serves as a pie in the sky goal that other models try to approximate either directly like in the case of [[1. Cosmos/Linear Discriminant Analysis (LDA)\|Linear Discriminant Analysis (LDA)]], [[1. Cosmos/Quadratic Discriminant Analysis (QDA)\|Quadratic Discriminant Analysis (QDA)]], or [[1. Cosmos/Naive Bayes\|Naive Bayes]], where we approximate both  the likelihood and the prior and do something with it.
 
-Or indirectly where we skip the Bayes theorem and try to estimate the posterior probability directly without computing priors like in the case of [[1. Cosmos/Logistic Regression\|Logistic Regression]], or [[1. Cosmos/Neural Networks\|Neural Networks]], [[Support Vector Machine\|support vector machines]] as well.
+Or indirectly where we skip the Bayes theorem and try to estimate the posterior probability directly without computing priors like in the case of [[1. Cosmos/Logistic Regression\|Logistic Regression]], or [[1. Cosmos/Neural Networks\|Neural Networks]], [[1. Cosmos/Support Vector Machine (SVM)\|support vector machines]] as well.
 
 
 ## References

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/naive-bayes/","created":"2024-12-11T10:29:17.011-05:00","updated":"2024-12-11T10:53:42.737-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/naive-bayes/","created":"2024-12-11T10:29:17.011-05:00","updated":"2024-12-13T09:25:34.157-05:00"}
 ---
 
 202412111029
@@ -8,7 +8,7 @@ Tags: [[Generative Models\|Generative Models]]
 State: #nascient
 # Naive Bayes
 
-It is a cousin of the [[Discriminant Analysis\|Discriminant Analysis]] models such as [[1. Cosmos/Linear Discriminant Analysis (LDA)\|Linear Discriminant Analysis (LDA)]] and [[1. Cosmos/Quadratic Discriminant Analysis (QDA)\|Quadratic Discriminant Analysis (QDA)]].
+It is a cousin of the [[1. Cosmos/Discriminant Analysis\|Discriminant Analysis]] models such as [[1. Cosmos/Linear Discriminant Analysis (LDA)\|Linear Discriminant Analysis (LDA)]] and [[1. Cosmos/Quadratic Discriminant Analysis (QDA)\|Quadratic Discriminant Analysis (QDA)]].
 
 While they attempt to solve the same problem, that is generating the posterior probability through estimation of the prior and likelihood of the classes, the Naive Bayes makes an assumption that is arguably stronger than even its cousins.
 
@@ -35,3 +35,4 @@ As a result, even though the assumptions are really strong, it often gives prett
 
 
 ## References
+olio

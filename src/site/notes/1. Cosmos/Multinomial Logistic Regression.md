@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/multinomial-logistic-regression/","created":"2024-12-11T08:06:36.754-05:00","updated":"2024-12-11T11:44:45.270-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/multinomial-logistic-regression/","created":"2024-12-11T08:06:36.754-05:00","updated":"2024-12-13T09:09:17.293-05:00"}
 ---
 
 202412110806
@@ -41,11 +41,21 @@ $$
 P(Y=k|X=x)=\frac{e^{\beta_{k0}+\beta_{k1}x_1+\dots+\beta_{kp}x_p}}{\sum_{k=1}^{K}{\beta_{i0}+\beta_{i1}x_1+\dots+\beta_{ip}x_p}}
 $$
 
-Here we do not pick a baseline and simply fit parameters for the whole slew, we then need to estimate the $K$ set of coefficients rather than $K-1$ sets. It is extensively done in [[Machine Learning\|Machine Learning]] and [[Deep Learning\|Deep Learning]], because this method is efficient computationally as it aligns better with the gradient-based optimization frameworks that are often used.
+Here we do not pick a baseline and simply fit parameters for the whole slew, we then need to estimate the $K$ set of coefficients rather than $K-1$ sets. It is extensively done in [[1. Cosmos/Machine Learning\|Machine Learning]] and [[Deep Learning\|Deep Learning]], because this method is efficient computationally as it aligns better with the gradient-based optimization frameworks that are often used.
 
 In this configuration we can take the log-odds between any two ratios $k, k'$ as:
 $$
 ln(\frac{P(Y=k|X=x)}{P(Y=k'|X=x)})=(\beta_{k0}-\beta_{k'0})+(\beta_{k1}-\beta_{k'1})x_1+\dots+(\beta_{kn}-\beta_{k'n})x_n
 $$
 
+
+## Pros & Cons
+### Pros
+- Natural generalization of [[1. Cosmos/Logistic Regression\|Logistic Regression]]
+- Calibrated probability regressor for each class (all sum to $1$)
+### Cons
+- Can be unstable where the classes are well separable (surprisingly)
+- Other issues that I forget at this point
+
+For these reasons, the replacement if we want to keep the decision boundary linear while still being to retrieve the probability if we need it is often the [[1. Cosmos/Linear Discriminant Analysis (LDA)\|Linear Discriminant Analysis (LDA)]].
 ## References

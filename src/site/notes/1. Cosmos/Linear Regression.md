@@ -4,7 +4,7 @@
 
 202411252015
 Status: #idea
-Tags: [[Machine Learning\|Machine Learning]]
+Tags: [[1. Cosmos/Machine Learning\|Machine Learning]]
 State: #nascient
 # Linear Regression
 

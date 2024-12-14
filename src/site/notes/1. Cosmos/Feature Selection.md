@@ -4,7 +4,7 @@
 
 202412090854
 Status: #idea
-Tags: [[Machine Learning\|Machine Learning]], [[1. Cosmos/Curse of Dimensionality\|Curse of Dimensionality]], [[1. Cosmos/Regularization\|Regularization]]
+Tags: [[1. Cosmos/Machine Learning\|Machine Learning]], [[1. Cosmos/Curse of Dimensionality\|Curse of Dimensionality]], [[1. Cosmos/Regularization\|Regularization]]
 State: #nascient
 # Feature Selection
 

@@ -4,7 +4,7 @@
 
 202404291927
 Status: #Galaxy  
-Tags: [[Statistics\|Statistics]], [[Machine Learning\|Machine Learning]]
+Tags: [[Statistics\|Statistics]], [[1. Cosmos/Machine Learning\|Machine Learning]]
 # Regression
 ## Why?
 Well in life, especially as a scientist and a statistician, or even a probability guy (whatever they are called), there will be things that are harder to measure, or things that we want to induce, and other things that are easier to measure or things that we can easily manipulate (or at least more easily than the alternative.) 

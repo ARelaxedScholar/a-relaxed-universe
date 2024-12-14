@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2024-08-31T23:47:13.017-04:00","updated":"2024-12-04T22:41:02.628-05:00"}
+{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2024-08-31T23:47:13.017-04:00","updated":"2024-12-12T09:16:49.843-05:00"}
 ---
 
 *Date of Creation: Beginning of the Universe*
@@ -27,3 +27,38 @@ They will capture things as I think them, and are the place where my content cre
 
 My Course Sequence:
 https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/data-science/course-sequence
+
+## Courses I have taken already:
+### 1000-Levels
+- [x] **ENG 1112** | Technical Report Writing
+- [x] **ITI 1120** | Introduction to Computing I
+- [x] **MAT 1320** | Calculus I
+- [x] **MAT 1341** | Introduction to Linear Algebra
+- [x] **ITI 1100** | Digital Systems I
+- [x] **ITI 1121** | Introduction to Computing II
+- [x] **MAT 1322** | Calculus II
+- [x] **MAT 1348** | Discrete Mathematics for Computing
+### 2000-Levels
+- [x] **CEG 2136** | Computer Architecture I
+- [x] **CSI 2110** | Data Structures and Algorithms
+- [x] **MAT 2122** | Multivariable Calculus
+- [x] **MAT 2342** | Introduction to Applied Linear Algebra
+- [x] **MAT 2371** | Introduction to Probability
+- [x] **SEG 2105** | Introduction to Software Engineering
+- [x] **CSI 2101** | Discrete Structures
+- [ ] **CSI 2120** | Programming Paradigms
+- [ ] **CSI 2132** | Databases I
+- [ ] **MAT 2125** | Elementary Real Analysis
+- [x] **MAT 2143** | Introduction to Group Theory
+- [x] **MAT 2375** | Introduction to Statistics
+### 3000-Levels
+- [x] **CSI 3105** | Design and Analysis Algorithms I
+- [ ] **CSI 3120** | Programming Language Concepts
+- [x] MAT3172 | Foundations of Probability
+- [x] **MAT 3375** | Regression Analysis
+- [x] **SDS 3386** | Data Science Lab
+- [x] **MAT 3373** | Methods of Machine Learning
+- [x] **CSI 2911** | Professional Practice in Computing
+- [x] **CSI 3104** | Introduction to Formal Languages
+- [x] **CSI 3131** | Operating Systems
+- [x] **MAT 3341** | Applied Linear Algebra

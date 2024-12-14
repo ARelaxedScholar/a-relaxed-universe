@@ -8,7 +8,7 @@ Tags: [[1. Cosmos/Basis Expansions\|Basis Expansions]]
 State: #nascient
 # Splines (Piecewise Polynomials)
 
-A type of model used in [[Machine Learning\|Machine Learning]] where we augment the data with information about the region in which the model lies through the indicator function basis.
+A type of model used in [[1. Cosmos/Machine Learning\|Machine Learning]] where we augment the data with information about the region in which the model lies through the indicator function basis.
 
 We then fit a model that best makes use of this new information to split polynomials to 
 ## References

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/boosting/","created":"2024-12-11T21:03:13.688-05:00","updated":"2024-12-11T21:36:47.760-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/boosting/","created":"2024-12-11T21:03:13.688-05:00","updated":"2024-12-13T08:47:03.222-05:00"}
 ---
 
 202412112103
@@ -35,6 +35,10 @@ Still this type of model is really powerful and often achieves higher accuracy t
 - Thanks to the built-in correlation between trees, each tree need not be as big.
 ### Cons
 - Can overfit if $B$ is too big.
+
+There are a few boosting algorithms, the main ones to know are:
+- [[Adaptive Boosting (AdaBoost)\|Adaptive Boosting (AdaBoost)]]
+- [[1. Cosmos/Gradient Boosting Machine-Trees\|Gradient Boosting Machine-Trees]]
 
 
 ## References
