@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/singular-value-decomposition/","created":"2024-12-14T09:04:46.410-05:00","updated":"2024-12-14T19:02:19.696-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/singular-value-decomposition/","created":"2024-12-14T09:04:46.410-05:00","updated":"2024-12-14T19:02:40.816-05:00"}
 ---
 
 202412140904
@@ -11,7 +11,8 @@ State: #nascient
 ## A Little Motivation
 Ok so [[Eigenvalue Decomposition\|Eigenvalue Decomposition]] is one of those really cool things about matrices, they are convenient because matrices are [[Linear Maps\|Linear Maps]] but these linear maps can be really hard to interpret.
 
-After all as general transformations, they are as follows:$$L:R^n\mapsto R^m$$
+After all as general transformations, they are as follows:
+$$L:R^n\mapsto R^m$$
 They take vectors from $R^n$ and then map them to $R^m$. 
 
 The advantage with [[Eigenvalue Decomposition\|Eigenvalue Decomposition]], and more specifically decomposition of matrices which are [[Symmetric\|Symmetric]] is that by the [[Spectral Decomposition Theorem\|Spectral Decomposition Theorem]] if a matrix is [[Symmetric\|symmetric]] then two things are guaranteed:
