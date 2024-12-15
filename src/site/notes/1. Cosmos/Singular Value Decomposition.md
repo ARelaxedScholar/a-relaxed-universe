@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/singular-value-decomposition/","created":"2024-12-14T09:04:46.410-05:00","updated":"2024-12-14T18:16:34.153-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/singular-value-decomposition/","created":"2024-12-14T09:04:46.410-05:00","updated":"2024-12-14T19:02:19.696-05:00"}
 ---
 
 202412140904
@@ -81,7 +81,7 @@ Or in other words, all symmetric matrices when applied to a space $R^n$ will:
 2. Scale the space in each direction according to the eigenvectors of $A$.
 3. Rotate the space (back) so that the eigenvectors are pointing where they used to.
 
-Any matrix can be understood in those terms... no any symmetric matrix.
+Any matrix can be understood in those terms... no (for now) it's specifically for any symmetric matrix.
 
 Indeed, to say nothing of rectangular matrices that you can't even begin to diagonalize, square matrices that happen to be diagonalizable will not have orthogonal vectors (if they are real) or if they are complex can only have them if they happen to be [[Normal Matrices\|Normal Matrices]] in such a way that this nice interpretation applies only to a subset of a subset of all possible matrices.
 
