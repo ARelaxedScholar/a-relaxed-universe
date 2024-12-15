@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/singular-value-decomposition/","created":"2024-12-14T09:04:46.410-05:00","updated":"2024-12-14T19:03:11.175-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/singular-value-decomposition/","created":"2024-12-14T09:04:46.410-05:00","updated":"2024-12-14T19:06:45.449-05:00"}
 ---
 
 202412140904
@@ -192,9 +192,9 @@ AA^T
 $$
 and if instead we do it on the **left** we get this symmetric matrix
 $$
-A^TA
-$$.
-
+A^T A
+$$
+.
 ### Case $A^T$ on the right
 And by the equation we wrote above:
 $$
