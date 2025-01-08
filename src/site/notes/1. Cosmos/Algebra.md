@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/algebra/","created":"2024-08-31T23:47:13.569-04:00","updated":"2024-05-29T12:01:25.556-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/algebra/","created":"2024-08-31T23:47:13.569-04:00","updated":"2025-01-08T00:38:33.079-05:00"}
 ---
 
-202405240847
+pp202405240847
 Status: #idea
 Tags: [[Measure Theory\|Measure Theory]]
 State: #nascient
