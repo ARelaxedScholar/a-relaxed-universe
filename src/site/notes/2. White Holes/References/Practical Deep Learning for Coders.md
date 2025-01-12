@@ -39,7 +39,7 @@ A rarely considered approach is to think deeply about the effects of the technol
 
 [[Backtest:  A Surprisingly Common Term\|Backtest:  A Surprisingly Common Term]]
 ## Chapter 3 ~ Neural Net Foundations
-Here he goes over what is [[Stochastic Gradient Descent (SGD)\|Stochastic Gradient Descent (SGD)]]
+Here he goes over what is [[1. Cosmos/Stochastic Gradient Descent (SGD)\|Stochastic Gradient Descent (SGD)]]
 what is [[1. Cosmos/Loss\|Loss]] and why do we need it?
 
 How do to the two aforementioned concepts relate to training a model.
@@ -56,7 +56,7 @@ Now, since [[1. Cosmos/Neural Networks\|Neural Networks]] like any other mathema
 
 It'd be amazing if there was some automatic way to find in which direction to optimize the weights instead of haphazardly, trying and failing until we get something that approximates a solution.
 
-Cue, [[Stochastic Gradient Descent (SGD)\|Stochastic Gradient Descent (SGD)]] the secret sauce and fundamental underpinning of (almost) **ALL** of machine learning (and by proxy Deep Learning.)
+Cue, [[1. Cosmos/Stochastic Gradient Descent (SGD)\|Stochastic Gradient Descent (SGD)]] the secret sauce and fundamental underpinning of (almost) **ALL** of machine learning (and by proxy Deep Learning.)
 
 Understand that algorithm properly, and you got the foot in the door to [[Deep Learning\|Deep Learning]].
 

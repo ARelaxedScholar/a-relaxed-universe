@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/covectors/","created":"2025-01-11T14:38:57.483-05:00","updated":"2025-01-11T17:52:58.724-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/covectors/","created":"2025-01-11T14:38:57.483-05:00","updated":"2025-01-11T22:48:43.335-05:00"}
 ---
 
 202501111439
@@ -7,7 +7,6 @@ Status: #idea
 Tags: [[1. Cosmos/Linear Algebra\|Linear Algebra]], [[Tensor Calculus\|Tensor Calculus]], [[1. Cosmos/Vectors\|Vectors]]
 State: #nascient
 # Covectors
-
 They are a special type of vector which live in the [[Dual Space\|Dual Space]] which is a vector space that is tangent to the vector space of any vector space we are typically used.
 
 The elements in that space are functions that act on vectors of the so-called [[Tangent Space\|Tangent Space]] to output a real number.
