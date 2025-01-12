@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2024-08-31T23:47:13.017-04:00","updated":"2024-12-12T09:16:49.843-05:00"}
+{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2024-08-31T23:47:13.017-04:00","updated":"2025-01-12T16:33:14.477-05:00"}
 ---
 
 *Date of Creation: Beginning of the Universe*
@@ -29,6 +29,7 @@ My Course Sequence:
 https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/data-science/course-sequence
 
 ## Courses I have taken already:
+*Current CGPA: 9.64/10*
 ### 1000-Levels
 - [x] **ENG 1112** | Technical Report Writing
 - [x] **ITI 1120** | Introduction to Computing I
@@ -46,14 +47,14 @@ https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/data-s
 - [x] **MAT 2371** | Introduction to Probability
 - [x] **SEG 2105** | Introduction to Software Engineering
 - [x] **CSI 2101** | Discrete Structures
-- [ ] **CSI 2120** | Programming Paradigms
-- [ ] **CSI 2132** | Databases I
-- [ ] **MAT 2125** | Elementary Real Analysis
+- [ ] **CSI 2120** | Programming Paradigms (Currently taking)
+- [ ] **CSI 2132** | Databases I (Currently taking)
+- [ ] **MAT 2125** | Elementary Real Analysis (Currently taking)
 - [x] **MAT 2143** | Introduction to Group Theory
 - [x] **MAT 2375** | Introduction to Statistics
 ### 3000-Levels
 - [x] **CSI 3105** | Design and Analysis Algorithms I
-- [ ] **CSI 3120** | Programming Language Concepts
+- [ ] **CSI 3120** | Programming Language Concepts (Currently taking)
 - [x] MAT3172 | Foundations of Probability
 - [x] **MAT 3375** | Regression Analysis
 - [x] **SDS 3386** | Data Science Lab

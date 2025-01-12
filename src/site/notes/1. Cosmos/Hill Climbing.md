@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/hill-climbing/","created":"2025-01-12T00:19:14.446-05:00","updated":"2025-01-12T00:52:45.047-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/hill-climbing/","created":"2025-01-12T00:19:14.446-05:00","updated":"2025-01-12T09:03:52.448-05:00"}
 ---
 
 202501120019
@@ -9,6 +9,8 @@ State: #nascient
 # Hill Climbing
 
 It is a generalization of [[Gradient Descent\|Gradient Descent]]. Gradient descent when it works is great, it's intuitive, it makes sense, it's mathematically elegant, etc.
+
+Like gradient descent, they are a type of [[Single-State Optimisation Methods\|single-state optimisation method]], that is methods who are only ever evolving/improving one solution at a time.
 
 The catch is that it requires a gradient. If your objective function is non-differentiable or wouldn't have a meaningful derivative (i.e: count of failures of agent within an environment) then it will not work.
 
