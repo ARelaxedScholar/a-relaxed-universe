@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/maximal-margin-classifier-optimal-separating-hyperplaene/","created":"2024-12-11T22:07:00.644-05:00","updated":"2024-12-11T22:59:04.641-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/maximal-margin-classifier-optimal-separating-hyperplaene/","created":"2025-01-22T11:17:14.234-05:00","updated":"2024-12-11T22:59:04.641-05:00"}
 ---
 
 202412112207

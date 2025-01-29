@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/general-vision-minds-on-ai/","created":"2024-09-12T19:44:24.787-04:00","updated":"2024-09-12T21:07:16.046-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/general-vision-minds-on-ai/","created":"2025-01-22T11:17:13.911-05:00","updated":"2024-09-12T21:07:16.046-04:00"}
 ---
 
 202409121944

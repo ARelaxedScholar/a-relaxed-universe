@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-method-of-least-squares-in-multiple-linear-regression/","created":"2024-08-31T23:47:13.914-04:00","updated":"2024-06-06T15:10:19.453-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-method-of-least-squares-in-multiple-linear-regression/","created":"2025-01-22T11:17:14.174-05:00","updated":"2024-06-06T15:10:19.453-04:00"}
 ---
 
 202405181945

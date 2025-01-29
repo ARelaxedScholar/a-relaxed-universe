@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/extra-sum-of-squares-method/","created":"2024-08-31T23:47:14.020-04:00","updated":"2024-06-06T18:17:15.870-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/extra-sum-of-squares-method/","created":"2025-01-22T11:17:14.005-05:00","updated":"2024-06-06T18:17:15.870-04:00"}
 ---
 
 202405182101

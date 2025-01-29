@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/memory/","created":"2024-08-31T23:47:14.752-04:00","updated":"2024-07-20T03:09:07.389-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/memory/","created":"2025-01-22T11:17:14.071-05:00","updated":"2024-07-20T03:09:07.389-04:00"}
 ---
 
 202407200308

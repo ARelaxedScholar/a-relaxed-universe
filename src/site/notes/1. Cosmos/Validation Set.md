@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/validation-set/","created":"2024-08-31T23:47:14.160-04:00","updated":"2024-05-20T21:44:36.056-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/validation-set/","created":"2025-01-22T11:17:14.331-05:00","updated":"2024-05-20T21:44:36.056-04:00"}
 ---
 
 202405021003

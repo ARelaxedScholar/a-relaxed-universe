@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/linear-discriminant-analysis-lda/","created":"2024-12-09T09:51:58.437-05:00","updated":"2024-12-13T09:17:05.788-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/linear-discriminant-analysis-lda/","created":"2025-01-22T11:17:13.985-05:00","updated":"2024-12-13T09:17:05.788-05:00"}
 ---
 
 202412090953

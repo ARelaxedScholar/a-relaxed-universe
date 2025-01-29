@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/diary/tensors/","created":"2025-01-04T09:40:03.843-05:00","updated":"2025-01-11T14:27:24.806-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/diary/tensors/","created":"2025-01-22T11:17:18.001-05:00","updated":"2025-01-11T14:27:24.806-05:00"}
 ---
 
 202501040940

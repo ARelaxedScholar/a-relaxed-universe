@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/euclidean-distance/","created":"2024-11-29T19:41:08.663-05:00","updated":"2024-11-29T19:44:28.673-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/euclidean-distance/","created":"2025-01-22T11:17:13.925-05:00","updated":"2024-11-29T19:44:28.673-05:00"}
 ---
 
 202411291941

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/i-want-to-support-you/","created":"2024-08-31T23:47:13.639-04:00","updated":"2024-07-18T09:05:40.260-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/i-want-to-support-you/","created":"2025-01-22T11:17:14.294-05:00","updated":"2024-07-18T09:05:40.260-04:00"}
 ---
 
   

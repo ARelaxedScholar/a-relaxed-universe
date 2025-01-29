@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/algebra/","created":"2024-08-31T23:47:13.569-04:00","updated":"2025-01-08T00:38:33.079-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/algebra/","created":"2025-01-22T11:17:13.928-05:00","updated":"2025-01-08T00:38:33.079-05:00"}
 ---
 
 pp202405240847

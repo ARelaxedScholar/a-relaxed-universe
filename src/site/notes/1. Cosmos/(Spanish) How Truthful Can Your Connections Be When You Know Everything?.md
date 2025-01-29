@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/spanish-how-truthful-can-your-connections-be-when-you-know-everything/","created":"2024-08-31T23:47:14.046-04:00","updated":"2024-05-23T22:23:39.833-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/spanish-how-truthful-can-your-connections-be-when-you-know-everything/","created":"2025-01-22T11:17:14.001-05:00","updated":"2024-05-23T22:23:39.833-04:00"}
 ---
 
 202405232203

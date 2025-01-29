@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/role-based-clusters-graph-isomorphisms/","created":"2024-12-02T15:54:28.877-05:00","updated":"2024-12-02T15:56:19.003-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/role-based-clusters-graph-isomorphisms/","created":"2025-01-22T11:17:14.098-05:00","updated":"2024-12-02T15:56:19.003-05:00"}
 ---
 
 202412021554

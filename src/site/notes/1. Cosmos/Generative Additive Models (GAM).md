@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/generative-additive-models-gam/","created":"2024-12-11T17:13:53.698-05:00","updated":"2024-12-11T17:27:51.626-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/generative-additive-models-gam/","created":"2025-01-22T11:17:14.045-05:00","updated":"2024-12-11T17:27:51.626-05:00"}
 ---
 
 .202412111713

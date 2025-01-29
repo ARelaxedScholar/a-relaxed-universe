@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/logistic-regression/","created":"2024-12-09T10:14:17.526-05:00","updated":"2024-12-13T09:06:35.642-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/logistic-regression/","created":"2025-01-22T11:17:14.068-05:00","updated":"2024-12-13T09:06:35.642-05:00"}
 ---
 
 202412091014

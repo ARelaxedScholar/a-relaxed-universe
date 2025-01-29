@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/gaussian-mixture-models/","created":"2024-12-12T14:24:11.484-05:00","updated":"2024-12-12T15:03:39.465-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/gaussian-mixture-models/","created":"2025-01-22T11:17:14.228-05:00","updated":"2024-12-12T15:03:39.465-05:00"}
 ---
 
 202412121424

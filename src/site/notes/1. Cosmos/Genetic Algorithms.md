@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/genetic-algorithms/","created":"2025-01-12T09:14:41.448-05:00","updated":"2025-01-12T09:17:53.730-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/genetic-algorithms/","created":"2025-01-22T11:17:13.971-05:00","updated":"2025-01-12T09:17:53.730-05:00"}
 ---
 
 202501120914

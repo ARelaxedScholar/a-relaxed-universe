@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/mat-3172-flashcards/","created":"2024-08-31T23:47:14.191-04:00","updated":"2024-06-04T07:55:26.034-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/mat-3172-flashcards/","created":"2025-01-22T11:17:14.264-05:00","updated":"2024-06-04T07:55:26.034-04:00"}
 ---
 
 TARGET DECK

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-fourth-church-thyatira/","created":"2024-12-24T09:01:28.168-05:00","updated":"2024-12-24T09:05:09.543-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-fourth-church-thyatira/","created":"2025-01-22T11:17:13.898-05:00","updated":"2024-12-24T09:05:09.543-05:00"}
 ---
 
 202412240901

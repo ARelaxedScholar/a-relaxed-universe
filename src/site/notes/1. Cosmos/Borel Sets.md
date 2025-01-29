@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/borel-sets/","created":"2024-08-31T23:47:13.508-04:00","updated":"2024-05-29T11:29:36.643-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/borel-sets/","created":"2025-01-22T11:17:14.291-05:00","updated":"2024-05-29T11:29:36.643-04:00"}
 ---
 
 202405211412

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/holder-s-inequality/","created":"2024-08-31T23:47:14.009-04:00","updated":"2024-05-29T16:22:33.848-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/holder-s-inequality/","created":"2025-01-22T11:17:14.334-05:00","updated":"2024-05-29T16:22:33.848-04:00"}
 ---
 
 202405291605

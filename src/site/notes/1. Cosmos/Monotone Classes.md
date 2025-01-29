@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/monotone-classes/","created":"2024-08-31T23:47:13.713-04:00","updated":"2024-05-24T17:03:52.672-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/monotone-classes/","created":"2025-01-22T11:17:14.218-05:00","updated":"2024-05-24T17:03:52.672-04:00"}
 ---
 
 202405241514

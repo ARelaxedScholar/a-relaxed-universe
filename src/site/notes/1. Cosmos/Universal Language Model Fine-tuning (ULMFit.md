@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/universal-language-model-fine-tuning-ulm-fit/","created":"2024-08-31T23:47:13.579-04:00","updated":"2024-05-20T21:44:33.049-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/universal-language-model-fine-tuning-ulm-fit/","created":"2025-01-22T11:17:14.191-05:00","updated":"2024-05-20T21:44:33.049-04:00"}
 ---
 
 202405032345

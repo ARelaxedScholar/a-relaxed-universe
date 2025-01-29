@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/basic-supply-chain/","created":"2024-08-31T23:47:14.622-04:00","updated":"2024-07-20T03:11:38.341-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/basic-supply-chain/","created":"2025-01-22T11:17:14.318-05:00","updated":"2024-07-20T03:11:38.341-04:00"}
 ---
 
 202407200311

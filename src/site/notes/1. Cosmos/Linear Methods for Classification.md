@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/linear-methods-for-classification/","created":"2024-12-09T09:17:58.659-05:00","updated":"2024-12-13T08:53:59.481-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/linear-methods-for-classification/","created":"2025-01-22T11:17:13.931-05:00","updated":"2024-12-13T08:53:59.481-05:00"}
 ---
 
 202412090918

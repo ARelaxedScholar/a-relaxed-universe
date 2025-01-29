@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/test-on-individual-regression-coefficient-assuming-we-know-our-model-is-significant/","created":"2024-08-31T23:47:13.935-04:00","updated":"2024-06-06T16:17:18.317-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/test-on-individual-regression-coefficient-assuming-we-know-our-model-is-significant/","created":"2025-01-22T11:17:14.008-05:00","updated":"2024-06-06T16:17:18.317-04:00"}
 ---
 
 202405202141

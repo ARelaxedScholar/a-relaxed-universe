@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/support-vector-classifiers-soft-margin-classifier/","created":"2024-12-11T22:29:56.279-05:00","updated":"2024-12-11T22:59:04.661-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/support-vector-classifiers-soft-margin-classifier/","created":"2025-01-22T11:17:14.248-05:00","updated":"2024-12-11T22:59:04.661-05:00"}
 ---
 
 202412112230

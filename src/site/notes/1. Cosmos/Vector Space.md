@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/vector-space/","created":"2024-12-09T15:31:49.120-05:00","updated":"2024-12-10T12:18:39.192-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/vector-space/","created":"2025-01-22T11:17:14.151-05:00","updated":"2024-12-10T12:18:39.192-05:00"}
 ---
 
 202412091531

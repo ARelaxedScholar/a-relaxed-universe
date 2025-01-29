@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/how-to-create-strong-branding/","created":"2024-08-31T23:47:14.775-04:00","updated":"2024-07-20T03:20:05.510-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/how-to-create-strong-branding/","created":"2025-01-22T11:17:14.198-05:00","updated":"2024-07-20T03:20:05.510-04:00"}
 ---
 
 202407200319

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/measure/","created":"2024-08-31T23:47:13.730-04:00","updated":"2024-05-29T12:01:26.643-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/measure/","created":"2025-01-22T11:17:14.025-05:00","updated":"2024-05-29T12:01:26.643-04:00"}
 ---
 
 202405221247

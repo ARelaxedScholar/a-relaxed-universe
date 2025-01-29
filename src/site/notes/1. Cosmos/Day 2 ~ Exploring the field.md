@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/day-2-exploring-the-field/","created":"2024-08-31T23:47:13.854-04:00","updated":"2024-06-28T23:08:55.505-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/day-2-exploring-the-field/","created":"2025-01-22T11:17:14.164-05:00","updated":"2024-06-28T23:08:55.505-04:00"}
 ---
 
 202406281718

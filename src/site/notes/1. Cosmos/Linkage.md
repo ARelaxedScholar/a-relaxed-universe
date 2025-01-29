@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/linkage/","created":"2024-12-12T12:24:47.029-05:00","updated":"2024-12-12T12:25:08.000-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/linkage/","created":"2025-01-22T11:17:14.224-05:00","updated":"2024-12-12T12:25:08.000-05:00"}
 ---
 
 202412121224

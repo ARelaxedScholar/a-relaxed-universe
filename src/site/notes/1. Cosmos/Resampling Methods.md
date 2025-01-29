@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/resampling-methods/","created":"2024-12-11T12:38:27.253-05:00","updated":"2024-12-11T12:42:08.361-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/resampling-methods/","created":"2025-01-22T11:17:14.221-05:00","updated":"2024-12-11T12:42:08.361-05:00"}
 ---
 
 202412111238

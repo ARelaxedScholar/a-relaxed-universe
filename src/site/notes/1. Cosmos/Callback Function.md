@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/callback-function/","created":"2024-08-31T23:47:14.870-04:00","updated":"2024-07-20T03:24:05.341-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/callback-function/","created":"2025-01-22T11:17:13.995-05:00","updated":"2024-07-20T03:24:05.341-04:00"}
 ---
 
 202407200323

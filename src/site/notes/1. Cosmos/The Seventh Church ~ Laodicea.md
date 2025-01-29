@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-seventh-church-laodicea/","created":"2024-12-24T09:09:43.289-05:00","updated":"2024-12-24T09:15:12.139-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-seventh-church-laodicea/","created":"2025-01-22T11:17:14.045-05:00","updated":"2024-12-24T09:15:12.139-05:00"}
 ---
 
 202412240909
