@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/borel-cantelli-lemma/","created":"2024-08-31T23:47:13.595-04:00","updated":"2024-05-29T18:23:44.871-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/borel-cantelli-lemma/","created":"2025-01-22T11:17:13.948-05:00","updated":"2024-05-29T18:23:44.871-04:00"}
 ---
 
 202405291748

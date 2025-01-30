@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/when-you-re-not-ready-for-your-task/","created":"2024-08-31T23:47:15.047-04:00","updated":"2024-12-05T21:55:16.404-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/when-you-re-not-ready-for-your-task/","created":"2025-01-22T11:17:13.905-05:00","updated":"2024-12-05T21:55:16.404-05:00"}
 ---
 
 202407200340

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/inverse-transformations/","created":"2024-08-31T23:47:13.443-04:00","updated":"2024-06-12T15:13:51.919-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/inverse-transformations/","created":"2025-01-22T11:17:13.951-05:00","updated":"2024-06-12T15:13:51.919-04:00"}
 ---
 
 202406121510

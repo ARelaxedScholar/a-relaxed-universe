@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/binomial-distribution/","created":"2024-08-31T23:47:14.150-04:00","updated":"2024-05-31T09:29:31.300-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/binomial-distribution/","created":"2025-01-22T11:17:14.045-05:00","updated":"2024-05-31T09:29:31.300-04:00"}
 ---
 
 202405310929

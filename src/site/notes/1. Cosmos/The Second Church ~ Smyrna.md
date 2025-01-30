@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-second-church-smyrna/","created":"2024-12-24T08:56:16.505-05:00","updated":"2024-12-24T08:58:20.293-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-second-church-smyrna/","created":"2025-01-22T11:17:14.095-05:00","updated":"2024-12-24T08:58:20.293-05:00"}
 ---
 
 202412240856

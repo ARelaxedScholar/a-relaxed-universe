@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/practical-deep-learning-for-coders/","created":"2024-08-31T23:47:16.597-04:00","updated":"2024-12-13T08:02:19.055-05:00"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/practical-deep-learning-for-coders/","created":"2025-01-22T11:17:14.714-05:00","updated":"2024-12-13T08:02:19.055-05:00"}
 ---
 
 dg-publish: true

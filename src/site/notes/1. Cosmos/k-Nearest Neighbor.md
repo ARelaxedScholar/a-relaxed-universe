@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/k-nearest-neighbor/","created":"2024-11-25T20:00:25.199-05:00","updated":"2024-12-03T05:38:31.510-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/k-nearest-neighbor/","created":"2025-01-22T11:17:13.928-05:00","updated":"2024-12-03T05:38:31.510-05:00"}
 ---
 
 202411252000

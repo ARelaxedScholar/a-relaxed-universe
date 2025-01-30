@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/simpler-times/","created":"2024-08-31T23:47:13.438-04:00","updated":"2024-11-18T20:53:24.845-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/simpler-times/","created":"2025-01-22T11:17:14.264-05:00","updated":"2024-11-18T20:53:24.845-05:00"}
 ---
 
 202406261825

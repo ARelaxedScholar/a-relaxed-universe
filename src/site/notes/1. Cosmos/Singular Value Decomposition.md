@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/singular-value-decomposition/","created":"2024-12-14T09:04:46.410-05:00","updated":"2024-12-14T19:06:45.449-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/singular-value-decomposition/","created":"2025-01-22T11:17:14.251-05:00","updated":"2024-12-14T19:06:45.449-05:00"}
 ---
 
 202412140904

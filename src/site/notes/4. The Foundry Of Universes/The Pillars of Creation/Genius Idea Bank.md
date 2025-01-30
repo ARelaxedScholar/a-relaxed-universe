@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/genius-idea-bank/","created":"2024-10-21T08:57:18.141-04:00","updated":"2024-11-10T06:04:42.563-05:00"}
+{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/genius-idea-bank/","created":"2025-01-22T11:17:14.741-05:00","updated":"2024-11-10T06:04:42.563-05:00"}
 ---
 
 202410210857

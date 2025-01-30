@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/poisson-regression/","created":"2024-12-11T09:26:00.738-05:00","updated":"2024-12-11T09:29:25.786-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/poisson-regression/","created":"2025-01-22T11:17:13.961-05:00","updated":"2024-12-11T09:29:25.786-05:00"}
 ---
 
 202412110926

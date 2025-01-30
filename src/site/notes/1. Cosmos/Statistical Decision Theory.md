@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/statistical-decision-theory/","created":"2024-11-26T15:19:01.607-05:00","updated":"2024-11-26T15:19:49.537-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/statistical-decision-theory/","created":"2025-01-22T11:17:14.191-05:00","updated":"2024-11-26T15:19:49.537-05:00"}
 ---
 
 202411261519

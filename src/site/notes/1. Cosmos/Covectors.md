@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/covectors/","created":"2025-01-22T11:17:13.915-05:00","updated":"2025-01-11T22:48:43.335-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/covectors/","created":"2025-01-22T11:17:13.915-05:00","updated":"2025-01-28T23:31:06.018-05:00"}
 ---
 
 202501111439

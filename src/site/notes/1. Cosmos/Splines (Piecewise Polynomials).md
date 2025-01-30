@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/splines-piecewise-polynomials/","created":"2024-12-10T19:34:15.375-05:00","updated":"2024-12-10T19:35:45.334-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/splines-piecewise-polynomials/","created":"2025-01-22T11:17:14.181-05:00","updated":"2024-12-10T19:35:45.334-05:00"}
 ---
 
 202412101934

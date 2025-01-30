@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/vectors/","created":"2025-01-11T14:27:28.117-05:00","updated":"2025-01-11T14:36:23.145-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/vectors/","created":"2025-01-22T11:17:14.311-05:00","updated":"2025-01-11T14:36:23.145-05:00"}
 ---
 
 202501111427

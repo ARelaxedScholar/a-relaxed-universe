@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-shame-of-missing-out-on-one-s-due/","created":"2024-08-31T23:47:15.011-04:00","updated":"2024-07-20T03:38:40.260-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-shame-of-missing-out-on-one-s-due/","created":"2025-01-22T11:17:14.015-05:00","updated":"2024-07-20T03:38:40.260-04:00"}
 ---
 
 202407200338

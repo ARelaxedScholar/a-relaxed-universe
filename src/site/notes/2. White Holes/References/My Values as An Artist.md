@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/my-values-as-an-artist/","created":"2024-09-01T15:23:44.047-04:00","updated":"2024-09-01T15:28:10.696-04:00"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/my-values-as-an-artist/","created":"2025-01-22T11:17:14.704-05:00","updated":"2024-09-01T15:28:10.696-04:00"}
 ---
 
 202409011523

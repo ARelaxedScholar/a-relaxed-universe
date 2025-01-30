@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/probability-spaces/","created":"2024-08-31T23:47:13.929-04:00","updated":"2024-05-29T12:01:26.813-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/probability-spaces/","created":"2025-01-22T11:17:13.908-05:00","updated":"2024-05-29T12:01:26.813-04:00"}
 ---
 
 202405201152

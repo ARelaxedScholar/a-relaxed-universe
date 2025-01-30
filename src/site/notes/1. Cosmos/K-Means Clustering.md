@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/k-means-clustering/","created":"2024-12-12T12:00:44.521-05:00","updated":"2024-12-12T12:03:03.962-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/k-means-clustering/","created":"2025-01-22T11:17:14.055-05:00","updated":"2024-12-12T12:03:03.962-05:00"}
 ---
 
 202412121200

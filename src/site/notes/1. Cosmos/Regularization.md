@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/regularization/","created":"2024-12-09T08:44:46.241-05:00","updated":"2024-12-09T08:53:41.079-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/regularization/","created":"2025-01-22T11:17:14.214-05:00","updated":"2024-12-09T08:53:41.079-05:00"}
 ---
 
 202412090844

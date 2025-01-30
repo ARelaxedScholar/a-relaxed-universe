@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/multicollinearity/","created":"2024-08-31T23:47:13.546-04:00","updated":"2024-06-13T15:15:07.105-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/multicollinearity/","created":"2025-01-22T11:17:14.038-05:00","updated":"2024-06-13T15:15:07.105-04:00"}
 ---
 
 202406131503

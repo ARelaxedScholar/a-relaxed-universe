@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/know-your-place/","created":"2024-08-31T23:47:15.021-04:00","updated":"2024-07-20T03:33:50.856-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/know-your-place/","created":"2025-01-22T11:17:14.254-05:00","updated":"2024-07-20T03:33:50.856-04:00"}
 ---
 
 202407200333

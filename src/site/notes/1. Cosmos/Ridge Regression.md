@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/ridge-regression/","created":"2024-12-11T14:35:52.230-05:00","updated":"2024-12-11T14:36:33.659-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/ridge-regression/","created":"2025-01-22T11:17:13.945-05:00","updated":"2024-12-11T14:36:33.659-05:00"}
 ---
 
 202412111435

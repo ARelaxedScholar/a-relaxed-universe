@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/basis-expansions/","created":"2024-12-10T19:12:55.055-05:00","updated":"2024-12-11T17:07:26.146-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/basis-expansions/","created":"2025-01-22T11:17:14.278-05:00","updated":"2024-12-11T17:07:26.146-05:00"}
 ---
 
 202412101913

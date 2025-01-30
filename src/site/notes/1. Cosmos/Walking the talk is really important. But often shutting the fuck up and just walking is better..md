@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/walking-the-talk-is-really-important-but-often-shutting-the-fuck-up-and-just-walking-is-better/","created":"2024-11-26T05:33:26.797-05:00","updated":"2024-11-26T05:53:39.796-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/walking-the-talk-is-really-important-but-often-shutting-the-fuck-up-and-just-walking-is-better/","created":"2025-01-22T11:17:14.071-05:00","updated":"2024-11-26T05:53:39.796-05:00"}
 ---
 
 202411260535

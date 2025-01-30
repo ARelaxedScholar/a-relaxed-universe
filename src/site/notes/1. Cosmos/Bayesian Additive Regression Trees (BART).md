@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/bayesian-additive-regression-trees-bart/","created":"2024-12-11T21:22:27.093-05:00","updated":"2024-12-11T21:52:05.878-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/bayesian-additive-regression-trees-bart/","created":"2025-01-22T11:17:14.294-05:00","updated":"2024-12-11T21:52:05.878-05:00"}
 ---
 
 202412112122

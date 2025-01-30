@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/confidence-intervals-vs-prediction-intervals/","created":"2024-08-31T23:47:13.477-04:00","updated":"2024-05-20T00:56:38.163-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/confidence-intervals-vs-prediction-intervals/","created":"2025-01-22T11:17:13.945-05:00","updated":"2024-05-20T00:56:38.163-04:00"}
 ---
 
 

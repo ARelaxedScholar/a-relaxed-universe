@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/weighted-least-squares-generalized-least-squares/","created":"2024-08-31T23:47:13.920-04:00","updated":"2024-06-20T16:01:40.959-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/weighted-least-squares-generalized-least-squares/","created":"2025-01-22T11:17:13.941-05:00","updated":"2024-06-20T16:01:40.959-04:00"}
 ---
 
 202406201556

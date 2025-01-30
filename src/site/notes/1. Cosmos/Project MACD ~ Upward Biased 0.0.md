@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/project-macd-upward-biased-0-0/","created":"2024-09-18T11:36:24.894-04:00","updated":"2024-09-18T19:29:53.472-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/project-macd-upward-biased-0-0/","created":"2025-01-22T11:17:14.078-05:00","updated":"2024-09-18T19:29:53.472-04:00"}
 ---
 
 202409181136

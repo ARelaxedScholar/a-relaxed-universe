@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/mat-3375-regression-analysis/","created":"2024-08-31T23:47:16.560-04:00","updated":"2024-06-20T15:56:41.374-04:00"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/mat-3375-regression-analysis/","created":"2025-01-22T11:17:14.704-05:00","updated":"2024-06-20T15:56:41.374-04:00"}
 ---
 
 202405271901

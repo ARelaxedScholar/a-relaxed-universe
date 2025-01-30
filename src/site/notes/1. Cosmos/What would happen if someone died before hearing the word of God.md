@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/what-would-happen-if-someone-died-before-hearing-the-word-of-god/","created":"2024-08-31T23:47:14.736-04:00","updated":"2024-07-20T03:06:39.148-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/what-would-happen-if-someone-died-before-hearing-the-word-of-god/","created":"2025-01-22T11:17:13.988-05:00","updated":"2024-07-20T03:06:39.148-04:00"}
 ---
 
 202407200306

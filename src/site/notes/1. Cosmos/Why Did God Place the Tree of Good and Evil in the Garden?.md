@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/why-did-god-place-the-tree-of-good-and-evil-in-the-garden/","created":"2024-12-20T05:45:26.194-05:00","updated":"2024-12-20T06:07:18.830-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/why-did-god-place-the-tree-of-good-and-evil-in-the-garden/","created":"2025-01-22T11:17:14.281-05:00","updated":"2024-12-20T06:07:18.830-05:00"}
 ---
 
 202412200545

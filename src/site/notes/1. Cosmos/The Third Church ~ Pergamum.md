@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/the-third-church-pergamum/","created":"2024-12-24T08:58:47.222-05:00","updated":"2024-12-24T09:01:02.063-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/the-third-church-pergamum/","created":"2025-01-22T11:17:14.208-05:00","updated":"2024-12-24T09:01:02.063-05:00"}
 ---
 
 202412240858

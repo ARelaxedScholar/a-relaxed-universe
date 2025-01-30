@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/mike-winger-bible-romans/","created":"2024-08-31T23:47:16.579-04:00","updated":"2024-05-23T01:28:11.709-04:00"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/mike-winger-bible-romans/","created":"2025-01-22T11:17:14.711-05:00","updated":"2024-05-23T01:28:11.709-04:00"}
 ---
 
 202405230009

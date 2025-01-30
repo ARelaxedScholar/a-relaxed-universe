@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/why-chat-gpt-tweaks-so-much/","created":"2024-08-31T23:47:14.138-04:00","updated":"2024-12-05T21:50:09.560-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/why-chat-gpt-tweaks-so-much/","created":"2025-01-22T11:17:13.938-05:00","updated":"2024-12-05T21:50:09.560-05:00"}
 ---
 
 202405200148

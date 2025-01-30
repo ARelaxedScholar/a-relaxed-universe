@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/use-nature-to-find-ideas/","created":"2024-08-31T23:47:14.982-04:00","updated":"2024-07-20T03:39:36.259-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/use-nature-to-find-ideas/","created":"2025-01-22T11:17:13.918-05:00","updated":"2024-07-20T03:39:36.259-04:00"}
 ---
 
 202407200339

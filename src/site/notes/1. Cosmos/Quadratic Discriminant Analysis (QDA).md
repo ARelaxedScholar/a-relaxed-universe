@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/quadratic-discriminant-analysis-qda/","created":"2024-12-11T09:33:36.776-05:00","updated":"2024-12-13T09:22:38.453-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/quadratic-discriminant-analysis-qda/","created":"2025-01-22T11:17:14.061-05:00","updated":"2024-12-13T09:22:38.453-05:00"}
 ---
 
 202412110933

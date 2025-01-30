@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/why-is-everything-not-lebesgue-measurable/","created":"2024-08-31T23:47:14.155-04:00","updated":"2024-12-05T21:40:21.266-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/why-is-everything-not-lebesgue-measurable/","created":"2025-01-22T11:17:14.288-05:00","updated":"2024-12-05T21:40:21.266-05:00"}
 ---
 
 202405240900

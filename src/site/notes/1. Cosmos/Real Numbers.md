@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/real-numbers/","created":"2025-01-06T16:20:56.579-05:00","updated":"2025-01-07T10:46:06.845-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/real-numbers/","created":"2025-01-22T11:17:14.328-05:00","updated":"2025-01-07T10:46:06.845-05:00"}
 ---
 
 202501061620

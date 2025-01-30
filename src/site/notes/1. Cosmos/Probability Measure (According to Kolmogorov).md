@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/probability-measure-according-to-kolmogorov/","created":"2024-08-31T23:47:13.482-04:00","updated":"2024-05-29T12:03:34.113-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/probability-measure-according-to-kolmogorov/","created":"2025-01-22T11:17:14.241-05:00","updated":"2024-05-29T12:03:34.113-04:00"}
 ---
 
 202405201744

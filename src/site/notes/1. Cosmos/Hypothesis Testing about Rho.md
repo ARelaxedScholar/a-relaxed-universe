@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/hypothesis-testing-about-rho/","created":"2024-08-31T23:47:13.574-04:00","updated":"2024-06-07T21:20:50.404-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/hypothesis-testing-about-rho/","created":"2025-01-22T11:17:14.161-05:00","updated":"2024-06-07T21:20:50.404-04:00"}
 ---
 
 202406061356

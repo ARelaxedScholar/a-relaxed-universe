@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-white-holes/references/understanding-deep-learning/","created":"2024-08-31T23:47:16.602-04:00","updated":"2024-05-27T16:57:36.985-04:00"}
+{"dg-publish":true,"permalink":"/2-white-holes/references/understanding-deep-learning/","created":"2025-01-22T11:17:14.714-05:00","updated":"2024-05-27T16:57:36.985-04:00"}
 ---
 
 202405170013

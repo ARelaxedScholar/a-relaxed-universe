@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/the-queue/","created":"2024-10-21T08:57:05.975-04:00","updated":"2024-11-30T14:51:04.783-05:00"}
+{"dg-publish":true,"permalink":"/4-the-foundry-of-universes/the-pillars-of-creation/the-queue/","created":"2025-01-22T11:17:14.744-05:00","updated":"2024-11-30T14:51:04.783-05:00"}
 ---
 
 202410280534

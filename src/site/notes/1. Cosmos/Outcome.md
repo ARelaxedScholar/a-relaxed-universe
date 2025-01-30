@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/outcome/","created":"2024-08-31T23:47:13.683-04:00","updated":"2024-05-28T15:09:08.543-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/outcome/","created":"2025-01-22T11:17:13.935-05:00","updated":"2024-05-28T15:09:08.543-04:00"}
 ---
 
 202405281458

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/assumptions-of-simple-linear-regression/","created":"2024-08-31T23:47:13.678-04:00","updated":"2024-12-13T09:27:50.840-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/assumptions-of-simple-linear-regression/","created":"2025-01-22T11:17:14.268-05:00","updated":"2024-12-13T09:27:50.840-05:00"}
 ---
 
  
