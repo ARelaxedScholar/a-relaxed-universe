@@ -4,7 +4,7 @@
 
 202407200318
 Status: #idea
-Tags: [[The Fashion Business Manual\|The Fashion Business Manual]], [[Branding\|Branding]]
+Tags: [[The Fashion Business Manual\|The Fashion Business Manual]], [[1. Cosmos/Branding\|Branding]]
 State: #nascient
 # Branding 101
 

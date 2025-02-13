@@ -169,7 +169,7 @@ Pour la pyramide suivante :
  8 5 9 3
 ```
 1. **Première étape :** Initialiser la valeur du sommet. $dp[0][0] = pyramid[0][0]$
-   $dp = [[1. Cosmos/3], [0, 0], [0, 0, 0], [0, 0, 0, 0\|3], [0, 0], [0, 0, 0], [0, 0, 0, 0]]$
+   $dp = [[3], [0, 0], [0, 0, 0], [0, 0, 0, 0\|3], [0, 0], [0, 0, 0], [0, 0, 0, 0]]$
 
 2. **Deuxième étape :** Descendre à la première ligne ($[7, 4]$).
    - $dp[1][0] = dp[0][0] + 7 = 3 + 7 = 10$

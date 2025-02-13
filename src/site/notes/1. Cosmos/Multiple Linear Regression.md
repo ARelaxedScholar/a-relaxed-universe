@@ -109,7 +109,7 @@ Except we don't really ever have $\sigma^2$ so instead we use the $MSE$ and have
 
 ## Confidence Intervals
 ### Confidence Interval for Individual Coefficients
-Are you able to do an hypothesis for individual coefficients? [[1. Cosmos/Adjusted Coefficient of Determination\|Adjusted Coefficient of Determination]]
+Are you able to do an hypothesis for individual coefficients? [[Adjusted Coefficient of Determination\|Adjusted Coefficient of Determination]]
 
 If so, your confidence interval is nothing more than:
 $$
