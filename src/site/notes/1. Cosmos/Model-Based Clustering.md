@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/model-based-clustering/","created":"2025-01-22T11:17:14.304-05:00","updated":"2024-12-12T14:24:11.505-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/model-based-clustering/","created":"2025-01-22T11:17:14.304-05:00","updated":"2025-05-28T18:10:05.316-04:00"}
 ---
 
 202412121418
 Status: #idea
-Tags: 
+Tags: [[1. Cosmos/Clustering Methods\|Clustering Methods]], [[Unsupervised Learning\|Unsupervised Learning]]
 State: #nascient
 # Model-Based Clustering
 
