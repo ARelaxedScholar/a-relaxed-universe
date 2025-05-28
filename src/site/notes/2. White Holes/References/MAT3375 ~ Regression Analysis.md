@@ -91,4 +91,4 @@ This lecture is fully about weighted least squares, a method that is used when w
 ### Lesson Points
 [[1. Cosmos/Weighted Least Squares (Generalized Least Squares)\|Weighted Least Squares (Generalized Least Squares)]]
 ## References
-[[1. Cosmos/MAT3375 ~ Flashcards\|MAT3375 ~ Flashcards]]
+[[MAT3375 ~ Flashcards\|MAT3375 ~ Flashcards]]

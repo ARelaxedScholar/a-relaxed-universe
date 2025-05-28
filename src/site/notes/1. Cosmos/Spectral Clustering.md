@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/spectral-clustering/","created":"2025-01-22T11:17:14.105-05:00","updated":"2024-12-12T14:00:17.979-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/spectral-clustering/","created":"2025-01-22T11:17:14.105-05:00","updated":"2025-05-28T16:15:19.205-04:00"}
 ---
 
 202412121304
 Status: #idea
-Tags: 
-State: #nascient
+Tags: [[1. Cosmos/Machine Learning\|Machine Learning]], [[1. Cosmos/Clustering Methods\|Clustering Methods]], [[Unsupervised Learning\|Unsupervised Learning]]
+State: #awakened 
 # Spectral Clustering
 
-A graph based method which turns the clustergin problem into one o disconnecting graphs with the minimal cost.   
+A graph based method which turns the clustering problem into one of disconnecting graphs with the minimal cost.   
 
 1. Form a similarity graph containing all the observations using some similarity measure like the [[Gaussian Kernel\|Gaussian Kernel]] or $k-nearest$ neighbors to compute edges.
 2. Then from the graph you can create a new graph where observations that are too dissimilar do not have an edge, and those that are similar do (note that we don't care about observations similarity to themselves). We prune the graph and only retain significant connections.
@@ -16,8 +16,8 @@ A graph based method which turns the clustergin problem into one o disconnecting
 	- **Normalized** (symmetric): $L_{\text{sym}} = D^{-1/2}LD^{-1/2}$.
 	- **Normalized (random walk)**: $L_{\text{rw}} = I - D^{-1}A$.
 	- Sadly which we pick will affect the results.
-1. Thanks to the properties of the matrix, we know for sure that $0$ will be an eigenvalue of the matrix, the matrix is positive semi-definite, and yeah.
-2. To split in two groups we start from the smallest eigenvalues and consider the smallest eigenvalue (excluding) the $0$ and use it's eigenvector (the [[Fiedler Vector\|Fiedler Vector]]) to partition in two sets.
+4. Thanks to the properties of the matrix, we know for sure that $0$ will be an eigenvalue of the matrix, the matrix is positive semi-definite.
+5. To split in two groups we start from the smallest eigenvalues and consider the smallest eigenvalue (excluding) the $0$ and use it's eigenvector (the [[Fiedler Vector\|Fiedler Vector]]) to partition in two sets.
 
 If we want to do more than two clusters, we start the same way but then:
 1. we select the $K$ first eigenvectors starting from the smallest (still excluding the zero eigenvector.)
@@ -27,4 +27,6 @@ If we want to do more than two clusters, we start the same way but then:
 
 Once we went through the previous processing step, the hope is that the clusters become linearly separable in the spectral embedding space (which generally is true.) As a result, $k-means$ is a great tool to use in conjunction with spectral clustering.
 
+### When to use?
+I haven't personally used it, but it seems that it does especially well on non-convex data and data that is not linearly separable (I mean if your data is linearly separable, just do k-means.)
 ## References

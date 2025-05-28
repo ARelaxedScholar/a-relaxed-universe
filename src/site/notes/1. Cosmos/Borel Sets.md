@@ -14,7 +14,7 @@ For that reason such sets are ideal to use in probability theory and measure the
 
 ## How to Argue Something Is Borel:
 - [Show that the Complement of the Set is Borel]
-- [[Represent the Set as an Intersection of Open Sets\|Represent the Set as an Intersection of Open Sets]]
+- [[1. Cosmos/Represent the Set as an Intersection of Open Sets\|Represent the Set as an Intersection of Open Sets]]
 
 
 ## References

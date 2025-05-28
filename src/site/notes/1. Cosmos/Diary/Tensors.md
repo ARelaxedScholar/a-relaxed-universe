@@ -22,7 +22,7 @@ Under this definition, numbers, [[1. Cosmos/Vectors\|vectors]], matrices, and be
 
 There are three types of tensors:
 - [[Covariant\|Covariant]] (Recto)
-- [[1. Cosmos/Contravariant\|Contravariant]] (Verso)
+- [[Contravariant\|Contravariant]] (Verso)
 - [[Mixed\|Mixed]] (One example is the [[Metric Tensor\|Metric Tensor]] which acts as the bridge between Covariant and Contravariant.)t
 
 

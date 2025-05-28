@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/computer-architecture/","created":"2025-01-22T11:17:14.035-05:00","updated":"2024-07-20T03:08:15.869-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/computer-architecture/","created":"2025-01-22T11:17:14.035-05:00","updated":"2025-05-28T16:17:30.617-04:00"}
 ---
 
 202407200307
@@ -75,8 +75,8 @@ Some kind of unholy child between the two? I don't know he didn't explain it muc
 Apparently a widespread type now. The CPU now has cache (small but really fast memory) and is not forced to read from memory at all times. The Memory is still split into two main parts Instruction and Data Memory (but the instruction part can also contain secondary data).
 
 ## 2. Flynns Taxonomy.
-### SISD (Single INstruction stream, Single Data stream)
-one instruction at a time, one output at a time. The Von Neumann Architecture is of that type.
+### SISD (Single Instruction stream, Single Data stream)
+One instruction at a time, one output at a time. The Von Neumann Architecture is of that type.
 ### SIMD (Single Instruction stream, Multiple Data Stream)
 Thanks to multiple ALUs being used, the system can now execute multiple operations at the same time. Since there's only one control unit, it's merely going to be the same instruction done to all inputs.
 

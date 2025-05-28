@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2025-01-22T11:17:12.533-05:00","updated":"2025-01-29T21:06:53.924-05:00"}
+{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2025-01-22T11:17:12.533-05:00","updated":"2025-05-28T10:59:35.534-04:00"}
 ---
 
 *Date of Creation: Beginning of the Universe*
@@ -47,9 +47,9 @@ https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/data-s
 - [x] **MAT 2371** | Introduction to Probability
 - [x] **SEG 2105** | Introduction to Software Engineering
 - [x] **CSI 2101** | Discrete Structures
-- [ ] **CSI 2120** | Programming Paradigms (Currently taking)
-- [ ] **CSI 2132** | Databases I (Currently taking)
-- [ ] **MAT 2125** | Elementary Real Analysis (Currently taking)
+- [x] **CSI 2120** | Programming Paradigms
+- [x] **CSI 2132** | Databases I 
+- [x] **MAT 2125** | Elementary Real Analysis
 - [x] **MAT 2143** | Introduction to Group Theory
 - [x] **MAT 2375** | Introduction to Statistics
 ### 3000-Levels

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/fragment-shader/","created":"2025-01-22T11:17:14.071-05:00","updated":"2024-07-20T03:52:27.413-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/fragment-shader/","created":"2025-01-22T11:17:14.071-05:00","updated":"2025-05-28T16:15:41.798-04:00"}
 ---
 
 202407200352
@@ -8,7 +8,6 @@ Tags: [[Computer Graphics\|Computer Graphics]]
 State: #nascient
 # Fragment Shader
 
-![[Pasted image 20230729172828.png\|Pasted image 20230729172828.png]]
 This is where we set the color of each fragment.
 There is a lot more complexity behind the hood, but yeah, that's basically what this does.
 
