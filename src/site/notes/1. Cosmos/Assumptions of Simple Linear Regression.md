@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/assumptions-of-simple-linear-regression/","created":"2025-01-22T11:17:14.268-05:00","updated":"2024-12-13T09:27:50.840-05:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/assumptions-of-simple-linear-regression/","created":"2025-01-22T11:17:14.268-05:00","updated":"2025-05-28T17:59:26.257-04:00"}
 ---
 
- 
-sa 202405031131
+202405031131
 Status: #idea
 Tags: [[1. Cosmos/Simple Linear Regression\|Simple Linear Regression]]
 # Assumptions of Simple Linear Regression
