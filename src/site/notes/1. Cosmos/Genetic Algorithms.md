@@ -10,5 +10,5 @@ State: #nascient
 
 They are the canonical example of [[Population-based Optimisation Methods\|Population-based Optimisation Methods]], and if they are not yours, they are mine and you are on *MY* blog—ha-ha—which compared to [[Single-State Optimisation Methods\|Single-State Optimisation Methods]] will have multiple solutions evolving concurrently.
 
-Among other things, they are the key workhorse to my evolution framework: [[Aegis\|Aegis]]. It is not a shield, but rather an end-to-end trading framework that makes use of genetic algorithms and Pareto fronts to generate and deploy fully autonomous and data-driven trading strategies.
+Among other things, they are the key workhorse to my evolution framework: [[1. Cosmos/Aegis\|Aegis]]. It is not a shield, but rather an end-to-end trading framework that makes use of genetic algorithms and Pareto fronts to generate and deploy fully autonomous and data-driven trading strategies.
 ## References

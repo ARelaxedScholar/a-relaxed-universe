@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2025-01-22T11:17:12.533-05:00","updated":"2025-05-28T10:59:35.534-04:00"}
+{"dg-publish":true,"permalink":"/0-a-place-out-of-time/center-of-the-cosmos-where-giants-slumber/","tags":["gardenEntry"],"created":"2025-01-22T11:17:12.533-05:00","updated":"2025-05-28T16:37:05.849-04:00"}
 ---
 
 *Date of Creation: Beginning of the Universe*
@@ -29,7 +29,7 @@ My Course Sequence:
 https://www.uottawa.ca/faculty-engineering/undergraduate-studies/programs/data-science/course-sequence
 
 ## Courses I have taken already:
-*Current CGPA: 9.65/10*
+
 ### 1000-Levels
 - [x] **ENG 1112** | Technical Report Writing
 - [x] **ITI 1120** | Introduction to Computing I
