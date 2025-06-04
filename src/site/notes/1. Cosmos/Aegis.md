@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/aegis/","created":"2025-05-28T16:37:30.051-04:00","updated":"2025-05-28T17:11:52.183-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/aegis/","created":"2025-05-28T16:37:30.051-04:00","updated":"2025-06-03T00:27:19.484-04:00"}
 ---
 
 202505281637
@@ -13,5 +13,10 @@ Right now, as I envision it, these are the blocks that I want to have:
 - Ingestion block (take data from somewhere, likely a list of ticker symbols and then the model gets data online.)
 - Strategy block: The goal of
 
+## Overview
+*This is subject to tremendous change.*
+The goal is to have a data-driven trading framework able to discover, test, and deploy strategies automatically.
 
+The general architecture is as follows.
+First the ingestion layer would take a list of tokens (these are the financial instruments to get instruments on)
 ## References
