@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/1-cosmos/developing-a-grammar-for-aegis-money-speaks/","created":"2025-06-10T02:02:19.369-04:00","updated":"2025-06-11T00:35:34.084-04:00"}
+{"dg-publish":true,"permalink":"/1-cosmos/developing-a-grammar-for-aegis-money-speaks/","created":"2025-06-10T02:02:19.369-04:00","updated":"2025-06-11T00:41:12.365-04:00"}
 ---
 
 202506100202
@@ -68,7 +68,7 @@ While we will define both here, it is important to note that the first type is r
 Let us start by defining a \<number\> variable, which will can be replaced by a selection of often relevant numbers in finance stuff, which we will instantiate later. 
 
 Then the second, truly arithmetic expression will be as follows:
-\<arithmetic\_expression> ::= \<number\> | \<arithmetic\_expression> \<arithmetic\_expression> ADD | \<arithmetic\_expression> \<arithmetic\_expression> SUBTRACT | \<arithmetic\_expression> \<arithmetic\_expression> MULTIPLY |\<arithmetic\_expression> \<arithmetic\_expression> DIVIDE
+\<arithmetic\_expression> ::= \<number\> | \<number\> \<number\> ADD | \<number\> \<number\> SUBTRACT | \<number\> \<number\> MULTIPLY |\<number\> \<number\> DIVIDE
 
 Pretty standard business tbh. Or is it, look carefully, isn't *(2+2) - 1* also an expression? This production rule is not representing that, furthermore, while we haven't yet started talking about indicators, but in principle we'd also want the ability to compare indicator values, so \\<number\>. So let us start by making this production recursive.
 
